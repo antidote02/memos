@@ -19,5 +19,6 @@
 * 安装`ACG助手` [[chromewebstore.google.com]](https://chromewebstore.google.com/detail/acg%E5%8A%A9%E6%89%8B%EF%BC%9Abilibili-%E7%BB%BC%E5%90%88%E8%BE%85%E5%8A%A9%E6%89%A9%E5%B1%95/kpbnombpnpcffllnianjibmpadjolanh)
 * 安装`购物党自动比价助手` [[chromewebstore.google.com]](https://chromewebstore.google.com/detail/%E8%B4%AD%E7%89%A9%E5%85%9A%E8%87%AA%E5%8A%A8%E6%AF%94%E4%BB%B7%E5%B7%A5%E5%85%B7/jgphnjokjhjlcnnajmfjlacjnjkhleah)
 * 安装`SteamDB` [[chromewebstore.google.com]](https://chromewebstore.google.com/detail/steamdb/kdbmhfkmnlmbkgbabkdealhhbfhlmmon)
+* 安装`DeepL翻译` [[chromewebstore.google.com]](https://chromewebstore.google.com/detail/deepl%E7%BF%BB%E8%AF%91%EF%BC%9A%E9%98%85%E8%AF%BB%E5%86%99%E4%BD%9C%E7%BF%BB%E8%AF%91%E5%99%A8/cofdbpoegempjloogbagkncekinflcnj)
 
 ### 以上

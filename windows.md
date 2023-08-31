@@ -10,4 +10,4 @@
 * 下载 [浏览器](./browser.md)
 * 下载驱动
   * `英特尔驱动程序和支持助理` [[intel.cn]](https://www.intel.cn/content/www/cn/zh/support/intel-driver-support-assistant.html)
-  * 
+  * `GFE` [[nvidia.cn]](https://www.nvidia.cn/geforce/geforce-experience/)
