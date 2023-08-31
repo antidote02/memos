@@ -8,7 +8,4 @@
   * 下载`Clash Chinese Path` [[github.com]](https://github.com/BoyceLig/Clash_Chinese_Patch/releases)
 * 下载激活工具
   * `云萌Windows10+激活工具` [[cmwtat.cloudmoe.com]](https://cmwtat.cloudmoe.com/cn.htm)
-* 下载浏览器
-  * `Google Chrome Canary` [[www.google.cn]](https://www.google.cn/intl/zh-CN/chrome/canary/)
-  * `Microsoft Edge Canary` [[microsoft.com]](https://www.microsoft.com/zh-cn/edge/download/insider?form=MA13FJ)
-  * 更多
+* 下载[浏览器](./browser.md)
