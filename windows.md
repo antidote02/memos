@@ -20,3 +20,7 @@
 * 更新`Microsoft Store`
   * 下载[终端预览](./terminal.md)
 * 下载`Bandizip` [[bandisoft.com]](http://www.bandisoft.com/bandizip/dl/)
+* 下载`Notepad3` [[rizonesoft.com]](https://www.rizonesoft.com/downloads/notepad3/)
+* 下载`VS Code Insiders` [[code.visualstudio.com]](https://code.visualstudio.com/)
+* 下载`Office Tools Plus` [[otp.landian.vip]](https://otp.landian.vip/zh-cn/download.html)
+* 下载[常用软件](./programfiles.md)
