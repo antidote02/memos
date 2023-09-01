@@ -18,3 +18,4 @@
 * 更新`Windows`
 * 更新`Microsoft Store`
   * 下载[终端预览](./terminal.md)
+* 下载`Bandizip` [[bandisoft.com]](http://www.bandisoft.com/bandizip/dl/)
