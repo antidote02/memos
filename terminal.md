@@ -20,6 +20,9 @@
   scoop config proxy localhost:7890
   # 安装 Git
   scoop install -k git
+  # 设置 Git 代理
+  git config --global http.proxy http://localhost:7890
+  git config --global https.proxy https://localhost:7890
   # 添加 Bucket
   scoop bucket known
   scoop bucket add extras
