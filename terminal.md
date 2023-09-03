@@ -13,14 +13,17 @@
   # 下载脚本
   irm get.scoop.sh -outfile 'install.ps1'
   # 安装
-  .\install.ps1 -runasadmin -ScoopDir 'C:\Program Files\Scoop' -ScoopGlobalDir 'C:\Program Files\Scoop\GlobalScoopApps'
+  .\install.ps1 -runasadmin
   # 删除脚本
   rm install.ps1
-  # 设置代理
+  # 配置代理
   scoop config proxy localhost:7890
   # 安装 Git
   scoop install -k git
-  # 设置 Git 代理
+  # 配置 Git 用户名/邮箱
+  git config --global user.name  "antidote02"
+  git config --global user.email  "1729304580@qq.com"
+  # 配置 Git 代理
   git config --global http.proxy http://localhost:7890
   git config --global https.proxy https://localhost:7890
   # 添加 Bucket
