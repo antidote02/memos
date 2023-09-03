@@ -8,14 +8,9 @@
     * 安装`服务模式`
     * 开启`TUN模式`/`系统代理`/`开机启动`
   * 更新`Windows更新`/`Microsoft Store`
-
-
-
-* 下载[浏览器](./browser.md)
+* 安装[浏览器](./browser.md)
 * 下载`Geek` [[geekuninstaller.com]](https://geekuninstaller.com/)
 * 下载`搜狗输入法` [[shurufa.sogou.com]](https://shurufa.sogou.com/)
-
-  * 下载`Clash Chinese Path` [[github.com]](https://github.com/BoyceLig/Clash_Chinese_Patch/releases)
 * 下载`云萌Windows10+激活工具` [[github.com]](https://github.com/TGSAN/CMWTAT_Digital_Edition/releases)
 * 下载驱动
   * `英特尔驱动程序和支持助理` [[intel.cn]](https://www.intel.cn/content/www/cn/zh/support/intel-driver-support-assistant.html)
