@@ -1,13 +1,20 @@
 ### `Windows`食用指南
-* 下载`FirPE` [[firpe.cn]](https://firpe.cn/page-247)
-* 下载`Windows`
-  * `Windows` [[msdn.sjjzm.com]](https://msdn.sjjzm.com/win11.html)
-  * `ReviOS` [[revi.cc]](https://www.revi.cc/revios/download)
-* 删除引导
+* 安装`FirPE`[[firpe.cn]](https://firpe.cn/page-247)
+  * 安装`Windows` [[msdn.sjjzm.com]](https://msdn.sjjzm.com/win11.html)
+  * 关闭`防火墙`
+  * 安装`Clash for Windows` [[github.com]](https://github.com/Fndroid/clash_for_windows_pkg/releases)
+    * 安装`Clash Chinese Path` [[github.com]](https://github.com/BoyceLig/Clash_Chinese_Patch/releases)
+    * 启动`UWP应用网络回环`
+    * 安装`服务模式`
+    * 开启`TUN模式`/`系统代理`/`开机启动`
+  * 更新`Windows更新`/`Microsoft Store`
+
+
+
 * 下载[浏览器](./browser.md)
 * 下载`Geek` [[geekuninstaller.com]](https://geekuninstaller.com/)
 * 下载`搜狗输入法` [[shurufa.sogou.com]](https://shurufa.sogou.com/)
-* 下载`Clash for Windows` [[github.com]](https://github.com/Fndroid/clash_for_windows_pkg/releases)
+
   * 下载`Clash Chinese Path` [[github.com]](https://github.com/BoyceLig/Clash_Chinese_Patch/releases)
 * 下载`云萌Windows10+激活工具` [[github.com]](https://github.com/TGSAN/CMWTAT_Digital_Edition/releases)
 * 下载驱动

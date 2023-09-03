@@ -3,7 +3,7 @@
 * 下载`Google Chrome Canary` [[www.google.cn]](https://www.google.cn/intl/zh-CN/chrome/canary/)
 * 下载`Microsoft Edge Canary` [[microsoft.com]](https://www.microsoft.com/zh-cn/edge/download/insider?form=MA13FJ)
 #### Enable parallel downloading（启用并行下载）
-  * `Chrome` [[chrome://flags/#enable-parallel-downloading]](chrome://flags/#enable-parallel-downloading)
+  * `Chrome` [[chrome://flags/#enable-parallel-downloading]](<chrome://flags/#enable-parallel-downloading>)
   * `Edge`
 #### `Neat Download Manager`
 下载`Neat Download Manager` [[neatdownloadmanager.com]](http://www.neatdownloadmanager.com/index.php/en/)
