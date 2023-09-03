@@ -8,7 +8,9 @@
     * 安装`服务模式`
     * 开启`TUN模式`/`系统代理`/`开机启动`
   * 更新`Windows更新`/`Microsoft Store`
+* 安装`Neat Download Manager` [[neatdownloadmanager.com]](http://www.neatdownloadmanager.com/index.php/en/)
 * 安装[浏览器](./browser.md)
+* 下载`Bandizip` [[bandisoft.com]](http://www.bandisoft.com/bandizip/dl/)
 * 下载`Geek` [[geekuninstaller.com]](https://geekuninstaller.com/)
 * 下载`搜狗输入法` [[shurufa.sogou.com]](https://shurufa.sogou.com/)
 * 下载`云萌Windows10+激活工具` [[github.com]](https://github.com/TGSAN/CMWTAT_Digital_Edition/releases)
@@ -21,7 +23,6 @@
 * 更新`Windows`
 * 更新`Microsoft Store`
   * 下载[终端预览](./terminal.md)
-* 下载`Bandizip` [[bandisoft.com]](http://www.bandisoft.com/bandizip/dl/)
 * 下载`Notepad3` [[rizonesoft.com]](https://www.rizonesoft.com/downloads/notepad3/)
 * 下载`VS Code Insiders` [[code.visualstudio.com]](https://code.visualstudio.com/)
 * 下载`Office Tools Plus` [[github.com]](https://github.com/YerongAI/Office-Tool/releases/)

@@ -3,10 +3,8 @@
 * 下载`Google Chrome Canary` [[www.google.cn]](https://www.google.cn/intl/zh-CN/chrome/canary/)
 * 下载`Microsoft Edge Canary` [[microsoft.com]](https://www.microsoft.com/zh-cn/edge/download/insider?form=MA13FJ)
 #### Enable parallel downloading（启用并行下载）
-  * `Chrome` <chrome://flags/#enable-parallel-downloading>
-  * `Edge` <edge://flags/#enable-parallel-downloading>
-#### `Neat Download Manager`
-下载`Neat Download Manager` [[neatdownloadmanager.com]](http://www.neatdownloadmanager.com/index.php/en/)
+  * `Chrome` `chrome://flags/#enable-parallel-downloading`
+  * `Edge` `edge://flags/#enable-parallel-downloading`
 #### 扩展 [[crxdl.com]](https://crxdl.com/)
 * 安装`Adblock Plus` [[chromewebstore.google.com]](https://chromewebstore.google.com/detail/adblock-plus-%E5%85%8D%E8%B4%B9%E7%9A%84%E5%B9%BF%E5%91%8A%E6%8B%A6%E6%88%AA%E5%99%A8/cfhdojbkjhnklbpkdaibdccddilifddb)
 * 安装`篡改猴测试版` [[chromewebstore.google.com]](https://chromewebstore.google.com/detail/%E7%AF%A1%E6%94%B9%E7%8C%B4%E6%B5%8B%E8%AF%95%E7%89%88/gcalenpjmijncebpfijmoaglllgpjagf)
