@@ -43,4 +43,42 @@
   # 删除缓存
   scoop cache rm *
   ```
+* 安装`Curl`
+  ```
+  # 安装
+  scoop install -k curl
+  # IPV4
+  curl 4.ipw.cn
+  # IPV6
+  curl 6.ipw.cn
+  ```
+* 安装`AList`
+  * 安装
+    ```
+    # 安装
+    scoop install -k alist
+    # 密码
+    alist admin
+    # 启动/重启
+    alist restart
+    # 关闭
+    alist stop
+    ```
+  * 安装服务  
+    * 新建`AList.txt`
+      ```
+      Dim ws
+      Set ws = Wscript.CreateObject("Wscript.Shell")
+      ws.run "alist restart",vbhide
+      Wscript.quit
+      ```
+    * 重命名`AList.vbs`
+    * 移动到`C:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup`
+  * `AList` [[localhost:5244]](http://localhost:5244/)
+* 安装`DDNS-Go` [[github.com]](https://github.com/jeessy2/ddns-go/releases)
+  * 安装服务
+    ```
+    .\ddns-go.exe -s install
+    ```
+  * `DDNS-Go` [[localhost:9876]](http://localhost:9876/)
 ### 以上
