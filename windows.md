@@ -14,6 +14,7 @@
       * 安装[终端预览](./terminal.md)
     * 关闭`Clash for Windows` `系统代理`
 * 安装浏览器
+  * 下载`Bye Bye Edge` [[github.com]](https://github.com/ShadowWhisperer/Remove-MS-Edge)
   * 浏览器
     * `Chrome Canary` [[www.google.cn]](https://www.google.cn/intl/zh-CN/chrome/canary/)
       * 开启并行下载 `chrome://flags/#enable-parallel-downloading`
@@ -38,7 +39,6 @@
     * `SteamDB` [[chromewebstore.google.com]](https://chromewebstore.google.com/detail/steamdb/kdbmhfkmnlmbkgbabkdealhhbfhlmmon)
 * 安装`Bandizip` [[bandisoft.com]](http://www.bandisoft.com/bandizip/dl/)
 * 下载`Geek` [[geekuninstaller.com]](https://geekuninstaller.com/)
-  * 卸载`Edge`
 * 安装`搜狗输入法` [[shurufa.sogou.com]](https://shurufa.sogou.com/)
 * 安装驱动
   * `英特尔驱动程序和支持助理` [[intel.cn]](https://www.intel.cn/content/www/cn/zh/support/intel-driver-support-assistant.html)
