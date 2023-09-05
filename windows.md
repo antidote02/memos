@@ -17,7 +17,7 @@
   * 下载`Bye Bye Edge` [[github.com]](https://github.com/ShadowWhisperer/Remove-MS-Edge)
   * 浏览器
     * `Chrome Canary` [[www.google.cn]](https://www.google.cn/intl/zh-CN/chrome/canary/)
-      * 开启并行下载 `chrome://flags/#enable-parallel-downloading` [[chrome://flags/#enable-parallel-downloading]](chrome://flags/#enable-parallel-downloading)
+      * 开启并行下载 `chrome://flags/#enable-parallel-downloading`
     * `Edge Canary` [[microsoft.com]](https://www.microsoft.com/zh-cn/edge/download/insider?form=MA13FJ)
       * 开启并行下载 `edge://flags/#enable-parallel-downloading`
   * `Neat Download Manager` [[neatdownloadmanager.com]](http://www.neatdownloadmanager.com/index.php/en/)
