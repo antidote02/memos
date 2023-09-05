@@ -53,5 +53,5 @@
   * 安装`.Net 6` [[dotnet.microsoft.com]](https://dotnet.microsoft.com/zh-cn/download/dotnet/6.0)
   * 安装`Office 365`
 * 下载`HEU KMS Activator` [[github.com]](https://github.com/zbezj/HEU_KMS_Activator/releases)
-* 安装[常用软件](./programfiles.md)
-* 安装[游戏](./games.md)
+* [程序](./programfiles.md)
+* [游戏](./games.md)

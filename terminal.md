@@ -1,11 +1,11 @@
 ### `终端预览`食用指南
-* 下载`终端预览` [[apps.microsoft.com]](https://apps.microsoft.com/store/detail/windows-terminal-preview/9N8G5RFZ9XK3)
-* 下载`PowerShell` [[github.com]](https://github.com/PowerShell/PowerShell/releases)
-* 设置`PowerShell`执行策略
+* 安装`终端预览` [[apps.microsoft.com]](https://apps.microsoft.com/store/detail/windows-terminal-preview/9N8G5RFZ9XK3)
+* 安装`PowerShell` [[github.com]](https://github.com/PowerShell/PowerShell/releases)
+* `PowerShell`执行策略
   ```
   # 获取所有执行策略
   get-executionpolicy -list
-  # 更改执行策略
+  # 设置执行策略
   set-executionpolicy bypass
   ```
 * `PowerShell`安装`Scoop`
