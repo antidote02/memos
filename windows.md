@@ -1,7 +1,8 @@
 ### `Windows`食用指南
 * 安装`FirPE`[[firpe.cn]](https://firpe.cn/page-247)
   * 安装`Windows` [[msdn.sjjzm.com]](https://msdn.sjjzm.com/win11.html)
-  * 设置`防火墙`/`电源选项`/`鼠标`
+  * `控制中心`设置`防火墙`/`电源选项`/`鼠标`
+  * 设置`远程桌面`
   * 设置`Windows安全中心`
     * 下载`WDControl` [[landiannews.com]](https://www.landiannews.com/download/93513.html)
   * `Windows更新`/`Microsoft Store`
@@ -12,15 +13,20 @@
       * 开启`TUN模式`/`系统代理`/`开机启动`
     * 更新`Windows更新`/`Microsoft Store`
       * 安装[终端预览](./terminal.md)
+      * 安装`AV1 Video Extension` [[apps.microsoft.com]](https://apps.microsoft.com/store/detail/av1-video-extension/9MVZQVXJBQ9V)
     * 关闭`Clash for Windows` `系统代理`
 * 安装浏览器
   * 下载`Bye Bye Edge` [[github.com]](https://github.com/ShadowWhisperer/Remove-MS-Edge)
   * 浏览器
     * `Chrome Canary` [[www.google.cn]](https://www.google.cn/intl/zh-CN/chrome/canary/)
-      * 开启并行下载 `chrome://flags/#enable-parallel-downloading`
+      * 实验
+        * `chrome://flags/#enable-parallel-downloading`
+        * `chrome://flags/#chrome-refresh-2023`
     * `Edge Canary` [[microsoft.com]](https://www.microsoft.com/zh-cn/edge/download/insider?form=MA13FJ)
-      * 开启并行下载 `edge://flags/#enable-parallel-downloading`
+      * 实验 `edge://flags/#enable-parallel-downloading`
   * `Neat Download Manager` [[neatdownloadmanager.com]](http://www.neatdownloadmanager.com/index.php/en/)
+  * `qBittorrent Enhanced Edition` [[github.com]](https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases)
+    * []()
   * 安装扩展 [[crxdl.com]](https://crxdl.com/)
     * `Adblock Plus` [[chromewebstore.google.com]](https://chromewebstore.google.com/detail/adblock-plus-%E5%85%8D%E8%B4%B9%E7%9A%84%E5%B9%BF%E5%91%8A%E6%8B%A6%E6%88%AA%E5%99%A8/cfhdojbkjhnklbpkdaibdccddilifddb)
     * `篡改猴测试版` [[chromewebstore.google.com]](https://chromewebstore.google.com/detail/%E7%AF%A1%E6%94%B9%E7%8C%B4%E6%B5%8B%E8%AF%95%E7%89%88/gcalenpjmijncebpfijmoaglllgpjagf)
@@ -53,5 +59,6 @@
   * 安装`.Net 6` [[dotnet.microsoft.com]](https://dotnet.microsoft.com/zh-cn/download/dotnet/6.0)
   * 安装`Office 365`
 * 下载`HEU KMS Activator` [[github.com]](https://github.com/zbezj/HEU_KMS_Activator/releases)
+* 下载`TrafficMonitor` [[github.com]](https://github.com/zhongyang219/TrafficMonitor/actions)
 * [程序](./programfiles.md)
 * [游戏](./games.md)
