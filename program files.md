@@ -14,3 +14,7 @@
         * `网易邮箱` [[mail.163.com]](https://mail.163.com/)
         * `Gmail` [[mail.google.com]](https://mail.google.com/mail/u/0/#inbox)
   * 安装`Kook` [[kookapp.cn]](https://www.kookapp.cn/)
+* 网络
+  * 内网穿透
+    * 安装`SakuraFRP` [[natfrp.com]](https://www.natfrp.com/tunnel/download)
+    * 安装`ZeroTier` [[zerotier.com]](https://www.zerotier.com/download/)
