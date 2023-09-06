@@ -1,6 +1,7 @@
 ### ❤游戏❤
 * 安装加速器
   * `游侠加速器` [[jsq.ali213.net]](https://jsq.ali213.net/home)
+  * `小黑盒加速器` 
   * `网易UU加速器` [[uu.163.com]](https://uu.163.com/)
 * 平台
   * 安装`Steam` [[store.steampowered.com]](https://store.steampowered.com/about)
@@ -14,8 +15,10 @@
   * 安装`GOG Galaxy` [[gog.com]](https://www.gog.com/galaxy)
   * 安装`WeGame` [[wegame.com.cn]](https://www.wegame.com.cn/client/)
 * 游戏
-  * 安装
+  * 安装`我的世界`
+    * 
   * 安装`MuMu模拟器` [[mumu.163.com]](https://mumu.163.com/)
+    * 下载`自动关闭Hyper-V/VBS` [[mumu.163.com]](https://mumu.163.com/help/20210511/35041_946700.html#a3)
     * 安装`明日方舟` [[ak.hypergryph.com]](https://ak.hypergryph.com/)
     * 下载`Maa` [[github.com]](https://github.com/MaaAssistantArknights/MaaRelease/releases)
     * 下载`MaaX` [[github.com]](https://github.com/MaaAssistantArknights/MaaX/releases)

@@ -7,14 +7,15 @@
   * 安装`Telegram` [[desktop.telegram.org]](https://desktop.telegram.org/)
     * 设置代理
     * 设置中文
-  * 安装`Thunderbird` [[thunderbird.net]](https://www.thunderbird.net/zh-CN/)
-      * 设置代理
-      * 设置账户
-        * `QQ邮箱` [[mail.qq.com]](https://mail.qq.com/)
-        * `网易邮箱` [[mail.163.com]](https://mail.163.com/)
-        * `Gmail` [[mail.google.com]](https://mail.google.com/mail/u/0/#inbox)
+  * 安装`网易邮箱大师` [[dashi.163.com]](https://dashi.163.com/)
+    * 代理设置
+      * `HTTP代理`
+        * 服务器 `localhost`
+        * 端口号 `7890`
   * 安装`Kook` [[kookapp.cn]](https://www.kookapp.cn/)
 * 网络
   * 内网穿透
     * 安装`SakuraFRP` [[natfrp.com]](https://www.natfrp.com/tunnel/download)
     * 安装`ZeroTier` [[zerotier.com]](https://www.zerotier.com/download/)
+* 后期
+  * 安装`Creative Cloud` [[adobe.com]](https://www.adobe.com/cn/lead/creativecloud/business.html)
