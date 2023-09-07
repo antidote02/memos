@@ -13,6 +13,13 @@
         * 服务器 `localhost`
         * 端口号 `7890`
   * 安装`Kook` [[kookapp.cn]](https://www.kookapp.cn/)
+* 网盘
+  * 安装`RaiDrive` [[raidrive.com]](https://www.raidrive.com/)
+  * 安装`阿里云盘` [[aliyundrive.com]](https://www.aliyundrive.com/download)
+    * 下载`蜗牛云盘` [[aliyundrive.com]](https://www.aliyundrive.com/s/fqu79Z2dBbu)
+  * 安装`123云盘` [[123pan.com]](https://www.123pan.com/Downloadclient)
+  * 安装`天翼云盘` [[cloud.189.cn]](https://cloud.189.cn/web/static/download-client/)
+  
 * 网络
   * 内网穿透
     * 安装`SakuraFRP` [[natfrp.com]](https://www.natfrp.com/tunnel/download)

@@ -55,6 +55,8 @@
 * 替换`记事本`
   * 安装`Notepad3` [[rizonesoft.com]](https://www.rizonesoft.com/downloads/notepad3/)
   * 安装`VS Code Insiders` [[code.visualstudio.com]](https://code.visualstudio.com/)
+* 替换`电影和电视`
+  * 安装`PotPlayer` [[potplayer.daum.net]](https://potplayer.daum.net/?lang=zh_CN)
 * 下载`Office Tools Plus` [[github.com]](https://github.com/YerongAI/Office-Tool/releases/)
   * 安装`.Net 6` [[dotnet.microsoft.com]](https://dotnet.microsoft.com/zh-cn/download/dotnet/6.0)
   * 安装`Office 365`
