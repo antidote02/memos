@@ -34,7 +34,22 @@
       * `网盘直链下载助手` [[greasyfork.org]](https://greasyfork.org/zh-CN/scripts/436446-%E7%BD%91%E7%9B%98%E7%9B%B4%E9%93%BE%E4%B8%8B%E8%BD%BD%E5%8A%A9%E6%89%8B)
       * `全网VIP视频免费破解` [[greasyfork.org]](https://greasyfork.org/zh-CN/scripts/438657-%E5%85%A8%E7%BD%91vip%E8%A7%86%E9%A2%91%E5%85%8D%E8%B4%B9%E7%A0%B4%E8%A7%A3-%E4%B8%93%E6%B3%A8%E4%B8%80%E4%B8%AA%E8%84%9A%E6%9C%AC%E5%8F%AA%E5%81%9A%E4%B8%80%E4%BB%B6%E4%BA%8B%E4%BB%B6)
     * `Proxy SwitchyOmega` [[chromewebstore.google.com]](https://chromewebstore.google.com/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif)
-      * 设置
+      * `选项`
+      * `情景模式`
+        * `auto switch`
+          * `编辑源代码`
+            ```
+            [SwitchyOmega Conditions]
+            @with result
+
+            *.baidu.com +direct
+            *.ipw.cn +direct
+            *.oracle.com +direct
+            *.penguin-stats.cn +direct
+            *.speedtest.cn +direct
+
+            * +proxy
+            ```
     * `NeatDownloadManager Extension` [[chromewebstore.google.com]](https://chromewebstore.google.com/detail/neatdownloadmanager-exten/cpcifbdmkopohnnofedkjghjiclmhdah)
     * `猫抓` [[chromewebstore.google.com]](https://chromewebstore.google.com/detail/%E7%8C%AB%E6%8A%93/jfedfbgedapdagkghmgibemcoggfppbb)
     * `M3U8 Downloader` [[chromewebstore.google.com]](https://chromewebstore.google.com/detail/m3u8-downloader/pibnhedpldjakfpnfkabbnifhmokakfb)
