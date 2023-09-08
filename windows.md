@@ -47,6 +47,7 @@
             *.oracle.com +direct
             *.penguin-stats.cn +direct
             *.speedtest.cn +direct
+            *.yhmgo.com +direct
 
             * +proxy
             ```
@@ -55,7 +56,8 @@
     * `M3U8 Downloader` [[chromewebstore.google.com]](https://chromewebstore.google.com/detail/m3u8-downloader/pibnhedpldjakfpnfkabbnifhmokakfb)
     * `BewlyBewly` [[chromewebstore.google.com]](https://chromewebstore.google.com/detail/bewlybewly/bbbiejemhfihiooipfcjmjmbfdmobobp)
     * `ACG助手` [[chromewebstore.google.com]](https://chromewebstore.google.com/detail/acg%E5%8A%A9%E6%89%8B%EF%BC%9Abilibili-%E7%BB%BC%E5%90%88%E8%BE%85%E5%8A%A9%E6%89%A9%E5%B1%95/kpbnombpnpcffllnianjibmpadjolanh)
-      * 设置
+      * 登录
+    * `B站下载助手` [[csser.top]](https://csser.top/)
     * `购物党自动比价助手` [[chromewebstore.google.com]](https://chromewebstore.google.com/detail/%E8%B4%AD%E7%89%A9%E5%85%9A%E8%87%AA%E5%8A%A8%E6%AF%94%E4%BB%B7%E5%B7%A5%E5%85%B7/jgphnjokjhjlcnnajmfjlacjnjkhleah)
     * `SteamDB` [[chromewebstore.google.com]](https://chromewebstore.google.com/detail/steamdb/kdbmhfkmnlmbkgbabkdealhhbfhlmmon)
 * 安装`Bandizip` [[bandisoft.com]](http://www.bandisoft.com/bandizip/dl/)
