@@ -26,7 +26,7 @@
       * 实验 `edge://flags/#enable-parallel-downloading`
   * `Neat Download Manager` [[neatdownloadmanager.com]](http://www.neatdownloadmanager.com/index.php/en/)
   * `qBittorrent Enhanced Edition` [[github.com]](https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases)
-    * []()
+    * 设置`Trackers` [[trackerslist.com]](https://trackerslist.com/#/zh)
   * 安装扩展 [[crxdl.com]](https://crxdl.com/)
     * `Adblock Plus` [[chromewebstore.google.com]](https://chromewebstore.google.com/detail/adblock-plus-%E5%85%8D%E8%B4%B9%E7%9A%84%E5%B9%BF%E5%91%8A%E6%8B%A6%E6%88%AA%E5%99%A8/cfhdojbkjhnklbpkdaibdccddilifddb)
     * `篡改猴测试版` [[chromewebstore.google.com]](https://chromewebstore.google.com/detail/%E7%AF%A1%E6%94%B9%E7%8C%B4%E6%B5%8B%E8%AF%95%E7%89%88/gcalenpjmijncebpfijmoaglllgpjagf)
@@ -80,4 +80,6 @@
 * 下载`HEU KMS Activator` [[github.com]](https://github.com/zbezj/HEU_KMS_Activator/releases)
 * 下载`TrafficMonitor` [[github.com]](https://github.com/zhongyang219/TrafficMonitor/actions)
 * [程序](./programfiles.md)
+  * 安装[AList](./alist.md)
+  * 安装[DDNS_Go](./ddns-go.md)
 * [游戏](./games.md)

@@ -7,22 +7,46 @@
   * 安装`Telegram` [[desktop.telegram.org]](https://desktop.telegram.org/)
     * 设置代理
     * 设置中文
-  * 安装`网易邮箱大师` [[dashi.163.com]](https://dashi.163.com/)
-    * 代理设置
-      * `HTTP代理`
-        * 服务器 `localhost`
-        * 端口号 `7890`
   * 安装`Kook` [[kookapp.cn]](https://www.kookapp.cn/)
+  * 安装`Discord` [[discord.com]](https://discord.com/download)
+  * 安装`TeamSpeak` [[teamspeak.com]](https://teamspeak.com/zh-CN/downloads/#client)
+  * 安装`TT语音` [[52tt.com]](https://www.52tt.com/)
+* 媒体
+  * 安装`网易云音乐` [[music.163.com]](https://music.163.com/#/download)
+  * 安装`哔哩哔哩` [[app.bilibili.com]](https://app.bilibili.com/)
+  * 安装`抖音` [[douyin.com]](https://www.douyin.com/)
+  * 安装`虎牙` [[huya.com]](https://www.huya.com/download/)
 * 网盘
+  * 安装
   * 安装`RaiDrive` [[raidrive.com]](https://www.raidrive.com/)
   * 安装`阿里云盘` [[aliyundrive.com]](https://www.aliyundrive.com/download)
     * 下载`蜗牛云盘` [[aliyundrive.com]](https://www.aliyundrive.com/s/fqu79Z2dBbu)
   * 安装`123云盘` [[123pan.com]](https://www.123pan.com/Downloadclient)
   * 安装`天翼云盘` [[cloud.189.cn]](https://cloud.189.cn/web/static/download-client/)
-  
+  * 安装`OneDrive` [[microsoft.com]](https://www.microsoft.com/zh-cn/microsoft-365/onedrive/download)
+  * 安装`夸克网盘` [[pan.quark.cn]](https://pan.quark.cn/list#/list/all)
+  * 安装`百度网盘` [[pan.baidu.com]](https://pan.baidu.com/download#win)
+  * 安装`城通网盘` [[home.ctfile.com]](https://home.ctfile.com/#item-files)
 * 网络
   * 内网穿透
     * 安装`SakuraFRP` [[natfrp.com]](https://www.natfrp.com/tunnel/download)
     * 安装`ZeroTier` [[zerotier.com]](https://www.zerotier.com/download/)
+  * `SSH`
+    * 安装`FinalShell` [[hostbuf.com]](https://www.hostbuf.com/t/988.html)
+    * 安装`XShell` [[xshell.com]](https://www.xshell.com/zh/xshell/)
+    * 安装`XFTP` [[xshell.com]](https://www.xshell.com/zh/xftp/)
+* 文本
+  * 安装`石墨文档` [[shimo.im]](https://shimo.im/download)
+  * 安装`纯纯写作` [[writer.drakeet.com]](https://writer.drakeet.com/)
 * 后期
+  * 安装`OBS` [[obsproject.com]](https://obsproject.com/download)
+  * 下载`Bandicam` [[mpyit.com]](https://mpyit.com/bandicam6.html)
+  * 安装`哔哩哔哩直播姬` [[live.bilibili.com]](https://live.bilibili.com/liveHime/)
   * 安装`Creative Cloud` [[adobe.com]](https://www.adobe.com/cn/lead/creativecloud/business.html)
+  * 安装`Premiere Pro` [[mpyit.com]](https://mpyit.com/70404.html)
+  * 安装`After Effects` [[mpyit.com]](https://mpyit.com/aftereffects2023m0nkrus.html)
+  * 安装`Photoshop` [[qijishow.com]](https://www.qijishow.com/down/Photoshop%20Beta.html)
+* 虚拟机  
+`VMware Workstation Pro` [[mpyit.com]](https://mpyit.com/vmware17xx.html)
+* `GPT`
+  * 下载`AI对话` [[space.bilibili.com]](https://space.bilibili.com/10297693)
