@@ -11,6 +11,20 @@
         * 安装`5E对战平台` [[arena.5eplay.com]](https://arena.5eplay.com/download)
         * 安装`B5对战平台` [[b5csgo.plus]](https://www.b5csgo.plus/)
       * 下载`CSGO工具箱` [[csgo-toolbox.upup.cool]](https://csgo-toolbox.upup.cool/)
+    * 安装`无主之地3` [[store.steampowered.com]](https://store.steampowered.com/app/397540/3/)
+      * `基础`
+        * `图形API` `DirectX 12`
+      * `高级选项`
+        * `通用`
+          * `画面质量` `恶棍`
+          * `抗锯齿` `FXAA`
+        * `环境`
+          * `绘制距离` `低`
+          * `体积雾` `中`
+          * `屏幕空间反射` `中`
+        * `后期处理`
+          * `环境光吸收` `中`
+  * 安装`EA` [[ea.com]](https://www.ea.com/zh-tw/ea-app)
   * 安装`Epic` [[store.epicgames.com]](https://store.epicgames.com/zh-CN/)
   * 安装`GOG Galaxy` [[gog.com]](https://www.gog.com/galaxy)
   * 安装`WeGame` [[wegame.com.cn]](https://www.wegame.com.cn/client/)

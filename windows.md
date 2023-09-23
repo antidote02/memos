@@ -42,6 +42,7 @@
             [SwitchyOmega Conditions]
             @with result
 
+            *.asus.com.cn +direct
             *.baidu.com +direct
             *.ipw.cn +direct
             *.oracle.com +direct
@@ -65,10 +66,37 @@
 * 安装`搜狗输入法` [[shurufa.sogou.com]](https://shurufa.sogou.com/)
 * 安装驱动
   * `英特尔驱动程序和支持助理` [[intel.cn]](https://www.intel.cn/content/www/cn/zh/support/intel-driver-support-assistant.html)
+  * `Intel XTU`
   * `GFE` [[nvidia.cn]](https://www.nvidia.cn/geforce/geforce-experience/)
+    * `Nvidia 控制面板`
+      * `3D 设置`
+        * `使用“高级 3D 图像”设置`
+      * `管理 3D 设置`
+        * `全局设置`
+          功能|设置
+          :-|:-
+          三重缓冲|开
+          低延时模式|超高
+          各向异性过滤|16x
+          垂直同步|关
+          平滑处理 - 模式|提高应用程序设置
+          平滑处理 - 灰度纠正|开
+          平滑处理 - 设置|8x
+          环境光吸收|性能
+          电源管理模式|最高性能优先
+          着色器缓存大小|100G
+          纹理过滤 - 各向异性采样优化|开
+          纹理过滤 - 质量|高性能
+          线程优化|开
+          首选刷新率|最高可用
   * `Afterburner` [[tw.msi.com]](https://tw.msi.com/Landing/afterburner/graphics-cards)
   * `DDU` [[wagnardsoft.com]](https://www.wagnardsoft.com/display-driver-uninstaller-DDU)
+  * `Armoury Crate` [[apps.microsoft.com]](https://apps.microsoft.com/store/detail/armoury-crate/9PM9DFQRDH3F)
+    * 安装/更新驱动
   * `360驱动大师` [[dm.weishi.360.cn]](https://dm.weishi.360.cn/home.html)
+  * `OpenRGB` [[openrgb.org]](https://openrgb.org/)
+  * `FL Esports` [[flesports.com]](http://www.flesports.com/down/)
+    * 
 * 替换`记事本`
   * 安装`Notepad3` [[rizonesoft.com]](https://www.rizonesoft.com/downloads/notepad3/)
   * 安装`VS Code Insiders` [[code.visualstudio.com]](https://code.visualstudio.com/)
