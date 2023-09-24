@@ -2,10 +2,18 @@
 * 安装`FirPE`[[firpe.cn]](https://firpe.cn/page-247)
   * 安装`Windows` [[msdn.sjjzm.com]](https://msdn.sjjzm.com/win11.html)
   * `控制中心`设置`防火墙`/`电源选项`/`鼠标`
-  * 设置`远程桌面`
-  * 设置`Windows安全中心`
-    * 下载`WDControl` [[landiannews.com]](https://www.landiannews.com/download/93513.html)
-  * `Windows更新`/`Microsoft Store`
+  * 设置
+    * `系统`
+      * `屏幕` `显示卡`
+        * `窗口化游戏优化` `关`
+        * `高级图形设置` `硬件加速 GPU 计划` `关`
+      * `远程桌面`
+    * `游戏`
+      `游戏模式` `关`
+    * `隐私和安全性`
+      * `Windows 安全中心`
+        * 下载`WDControl` [[landiannews.com]](https://www.landiannews.com/download/93513.html)
+  * `Windows 更新`/`Microsoft Store`
     * 安装`Clash for Windows` [[github.com]](https://github.com/Fndroid/clash_for_windows_pkg/releases)
       * 安装`Clash Chinese Path` [[github.com]](https://github.com/BoyceLig/Clash_Chinese_Patch/releases)
       * 启动`UWP应用网络回环`
