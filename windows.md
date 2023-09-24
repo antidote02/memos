@@ -115,7 +115,7 @@
   * 安装`Office 365`
 * 下载`HEU KMS Activator` [[github.com]](https://github.com/zbezj/HEU_KMS_Activator/releases)
 * 下载`TrafficMonitor` [[github.com]](https://github.com/zhongyang219/TrafficMonitor/actions)
-* [程序](./programfiles.md)
+* [程序](./program%20files.md)
   * 安装[AList](./alist.md)
   * 安装[DDNS_Go](./ddns-go.md)
 * [游戏](./games.md)

@@ -23,6 +23,7 @@
     * 下载`蜗牛云盘` [[aliyundrive.com]](https://www.aliyundrive.com/s/fqu79Z2dBbu)
   * 安装`123云盘` [[123pan.com]](https://www.123pan.com/Downloadclient)
   * 安装`天翼云盘` [[cloud.189.cn]](https://cloud.189.cn/web/static/download-client/)
+  * 安装`坚果云` [[jianguoyun.com]](https://www.jianguoyun.com/s/downloads)
   * 安装`OneDrive` [[microsoft.com]](https://www.microsoft.com/zh-cn/microsoft-365/onedrive/download)
   * 安装`夸克网盘` [[pan.quark.cn]](https://pan.quark.cn/list#/list/all)
   * 安装`百度网盘` [[pan.baidu.com]](https://pan.baidu.com/download#win)
