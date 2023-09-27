@@ -29,6 +29,7 @@
   * 安装`GOG Galaxy` [[gog.com]](https://www.gog.com/galaxy)
   * 安装`WeGame` [[wegame.com.cn]](https://www.wegame.com.cn/client/)
 * 游戏
+  * 安装`特战英豪` [[playvalorant.com]](https://playvalorant.com/zh-tw/download/)
   * `我的世界`
     * 安装`JDK` [[oracle.com]](https://www.oracle.com/cn/java/technologies/downloads/)
     * 下载`PCL` [[afdian.net]](https://afdian.net/a/LTCat)
