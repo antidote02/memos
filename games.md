@@ -11,25 +11,32 @@
         * 安装`5E对战平台` [[arena.5eplay.com]](https://arena.5eplay.com/download)
         * 安装`B5对战平台` [[b5csgo.plus]](https://www.b5csgo.plus/)
       * 下载`CSGO工具箱` [[csgo-toolbox.upup.cool]](https://csgo-toolbox.upup.cool/)
-    * 安装`无主之地3` [[store.steampowered.com]](https://store.steampowered.com/app/397540/3/)
-      * `基础`
-        * `图形API` `DirectX 12`
-      * `高级选项`
-        * `通用`
-          * `画面质量` `恶棍`
-          * `抗锯齿` `FXAA`
-        * `环境`
-          * `绘制距离` `低`
-          * `体积雾` `中`
-          * `屏幕空间反射` `中`
-        * `后期处理`
-          * `环境光吸收` `中`
   * 安装`EA` [[ea.com]](https://www.ea.com/zh-tw/ea-app)
   * 安装`Epic` [[store.epicgames.com]](https://store.epicgames.com/zh-CN/)
   * 安装`GOG Galaxy` [[gog.com]](https://www.gog.com/galaxy)
   * 安装`WeGame` [[wegame.com.cn]](https://www.wegame.com.cn/client/)
 * 游戏
+  * 下载`风灵月影` [[archive.flingtrainer.com]](https://archive.flingtrainer.com/)
   * 安装`特战英豪` [[playvalorant.com]](https://playvalorant.com/zh-tw/download/)
+  * 安装`APEX英雄` [[store.steampowered.com]](https://store.steampowered.com/app/1172470/Apex_Legends/)
+    * `Steam` `启动选项` `+fps_max unlimited`
+    * `视频`
+      * `视野` `110`
+      * `视野技能缩放` `禁用`
+      * `奔跑时的视觉抖动` `最低`
+      * `垂直同步` `禁用`
+      * `自适应分辨率帧率目标` `0`
+      * `抗锯齿` `无`
+      * `纹理串流预算` `超高`
+      * `纹理过滤` `各向异性16X`
+      * `环境光遮蔽质量` `低`
+      * `阳光阴影范围` `低`
+      * `阳光阴影细节` `低`
+      * `点光源阴影细节` `低`
+      * `模型细节` `低`
+      * `特效细节` `低`
+      * `冲撞痕迹` `低`
+      * `布娃娃系统` `低`
   * `我的世界`
     * 安装`JDK` [[oracle.com]](https://www.oracle.com/cn/java/technologies/downloads/)
     * 下载`PCL` [[afdian.net]](https://afdian.net/a/LTCat)
@@ -72,6 +79,21 @@
     * 安装`明日方舟` [[ak.hypergryph.com]](https://ak.hypergryph.com/)
     * 下载`Maa` [[github.com]](https://github.com/MaaAssistantArknights/MaaRelease/releases)
     * 下载`MaaX` [[github.com]](https://github.com/MaaAssistantArknights/MaaX/releases)
+  * 安装`无主之地3` [[store.steampowered.com]](https://store.steampowered.com/app/397540/3/)
+      * `基础`
+        * `图形API` `DirectX 12`
+      * `高级选项`
+        * `通用`
+          * `画面质量` `恶棍`
+          * `抗锯齿` `FXAA`
+        * `环境`
+          * `绘制距离` `低`
+          * `体积雾` `中`
+          * `屏幕空间反射` `中`
+        * `后期处理`
+          * `环境光吸收` `中`
+  * 安装`蝙蝠侠：阿卡姆骑士` [[store.steampowered.com]](https://store.steampowered.com/app/208650/Batman_Arkham_Knight/)
+    * 下载`3DM轩辕汉化组汉化补丁` [[dl.3dmgame.com]](https://dl.3dmgame.com/patch/89652.html)
   * `红色警戒2：尤里的复仇`
     * 客户端
       * 安装`.Net 7.0 桌面运行时` [[dotnet.microsoft.com]](https://dotnet.microsoft.com/zh-cn/download/dotnet/7.0)
