@@ -5,12 +5,6 @@
   * `网易UU加速器` [[uu.163.com]](https://uu.163.com/)
 * 平台
   * 安装`Steam` [[store.steampowered.com]](https://store.steampowered.com/about)
-    * 安装`CSGO` [[store.steampowered.com]](https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/)
-      * 平台
-        * 安装`完美世界竞技平台` [[pvp.wanmei.com]](https://pvp.wanmei.com/)
-        * 安装`5E对战平台` [[arena.5eplay.com]](https://arena.5eplay.com/download)
-        * 安装`B5对战平台` [[b5csgo.plus]](https://www.b5csgo.plus/)
-      * 下载`CSGO工具箱` [[csgo-toolbox.upup.cool]](https://csgo-toolbox.upup.cool/)
   * 安装`EA` [[ea.com]](https://www.ea.com/zh-tw/ea-app)
   * 安装`Epic` [[store.epicgames.com]](https://store.epicgames.com/zh-CN/)
   * 安装`GOG Galaxy` [[gog.com]](https://www.gog.com/galaxy)
@@ -18,6 +12,13 @@
 * 游戏
   * 下载`风灵月影` [[archive.flingtrainer.com]](https://archive.flingtrainer.com/)
   * 安装`特战英豪` [[playvalorant.com]](https://playvalorant.com/zh-tw/download/)
+  * 安装`CS 2` [[store.steampowered.com]](https://store.steampowered.com/app/730/CounterStrike_2/)
+    * `禁用全屏优化`
+    * 平台
+      * 安装`完美世界竞技平台` [[pvp.wanmei.com]](https://pvp.wanmei.com/)
+      * 安装`5E对战平台` [[arena.5eplay.com]](https://arena.5eplay.com/download)
+      * 安装`B5对战平台` [[b5csgo.plus]](https://www.b5csgo.plus/)
+    * 下载`CSGO工具箱` [[csgo-toolbox.upup.cool]](https://csgo-toolbox.upup.cool/)
   * 安装`APEX英雄` [[store.steampowered.com]](https://store.steampowered.com/app/1172470/Apex_Legends/)
     * `Steam` `启动选项` `+fps_max unlimited`
     * `视频`
