@@ -78,25 +78,32 @@
   * `Intel XTU`
   * `GFE` [[nvidia.cn]](https://www.nvidia.cn/geforce/geforce-experience/)
     * `Nvidia 控制面板`
-      * `3D 设置` `使用“高级 3D 图像”设置`
-      * `管理 3D 设置` `全局设置`
-        功能|设置
-        :-|:-
-        三重缓冲|开
-        低延时模式|超高
-        各向异性过滤|16x
-        垂直同步|关
-        平滑处理 - 模式|提高应用程序设置
-        平滑处理 - 灰度纠正|开
-        平滑处理 - 设置|8x
-        环境光吸收|性能
-        电源管理模式|最高性能优先
-        着色器缓存大小|100G
-        纹理过滤 - 各向异性采样优化|开
-        纹理过滤 - 质量|高性能
-        线程优化|开
-        首选刷新率|最高可用
-      * `配置 Surround、PhysX`
+      * `桌面` `启用开发者设置`
+        * `开发者` `允许所有用户访问 GPU 性能计数器`
+        * `通过预览调整图像设置` `使用“高级 3D 图像”设置`
+        * `管理 3D 设置`
+          * `全局设置`
+            功能|设置
+            :-|:-
+            OpenGL GDI 兼容性|优先性能
+            OpenGL 渲染 GPU|
+            Vulkan/OpenGL 现行方法|优先本机
+            低延时模式|开
+            垂直同步|关
+            平滑处理 - 模式|关
+            平滑处理 - 灰度纠正|关
+            电源管理模式|最高性能优先
+            着色器缓存大小|无限制
+            纹理过滤 - 三线性优化|关
+            纹理过滤 - 负 LOD 偏移|锁定
+            纹理过滤 - 质量|高质量
+            线程优化|开
+            首选刷新率|最高可用
+          * `程序设置` `C:\Windows\explorer.exe`
+            功能|设置
+            :-|:-
+            电源管理模式|使用全局设置
+        * `配置 Surround、PhysX`
   * `Afterburner` [[tw.msi.com]](https://tw.msi.com/Landing/afterburner/graphics-cards)
   * `DDU` [[wagnardsoft.com]](https://www.wagnardsoft.com/display-driver-uninstaller-DDU)
   * `Armoury Crate` [[apps.microsoft.com]](https://apps.microsoft.com/store/detail/armoury-crate/9PM9DFQRDH3F)
