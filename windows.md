@@ -99,10 +99,15 @@
             纹理过滤 - 质量|高质量
             线程优化|开
             首选刷新率|最高可用
-          * `程序设置` `C:\Windows\explorer.exe`
-            功能|设置
-            :-|:-
-            电源管理模式|使用全局设置
+          * `程序设置`
+            * `C:\Windows\explorer.exe`
+              功能|设置
+              :-|:-
+              电源管理模式|使用全局设置
+            * `C:\Windows\System32\dwm.exe`
+              功能|设置
+              :-|:-
+              电源管理模式|使用全局设置
         * `配置 Surround、PhysX`
   * `Afterburner` [[tw.msi.com]](https://tw.msi.com/Landing/afterburner/graphics-cards)
   * `DDU` [[wagnardsoft.com]](https://www.wagnardsoft.com/display-driver-uninstaller-DDU)
