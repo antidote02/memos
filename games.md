@@ -41,6 +41,7 @@
   * `我的世界`
     * 安装`Azul JDK` [[azul.com]](https://www.azul.com/downloads/?package=jdk#zulu)
       * `C:\Program Files\Zulu\zulu-21\bin\javaw.exe`
+    * 下载`韵Box` [[space.bilibili.com]](https://space.bilibili.com/1554249834)
     * 下载`PCL` [[afdian.net]](https://afdian.net/a/LTCat)
       * 安装`Fabric`/`Fabric API`
       * 模组
