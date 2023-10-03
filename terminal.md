@@ -1,6 +1,10 @@
 ### `终端预览`食用指南
 * 安装`终端预览` [[apps.microsoft.com]](https://apps.microsoft.com/store/detail/windows-terminal-preview/9N8G5RFZ9XK3)
 * 安装`PowerShell` [[github.com]](https://github.com/PowerShell/PowerShell/releases)
+* `Windows 10`右键菜单
+  ```
+  reg add "HKCU\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}\InprocServer32" /f /ve
+  ```
 * `PowerShell`执行策略
   ```
   # 获取所有执行策略
