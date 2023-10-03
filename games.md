@@ -45,6 +45,9 @@
     * 下载`PCL` [[afdian.net]](https://afdian.net/a/LTCat)
       * 安装`Fabric`/`Fabric API`
       * 模组
+        * 下载`Cloth Config API` [[modrinth.com]](https://modrinth.com/mod/cloth-config)
+        * 下载`Architectury API` [[modrinth.com]](https://modrinth.com/mod/architectury-api)
+          * 下载`CIGIME` [[modrinth.com]](https://modrinth.com/mod/contingameime)
         * 下载`钠` [[modrinth.com]](https://modrinth.com/mod/sodium)
           * 下载`钠非官方翻译资源包` [[modrinth.com]](https://modrinth.com/resourcepack/translations-for-sodium)
           * 下载`Iris Shaders` [[modrinth.com]](https://modrinth.com/mod/iris)
