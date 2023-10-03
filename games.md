@@ -39,7 +39,8 @@
       * `冲撞痕迹` `低`
       * `布娃娃系统` `低`
   * `我的世界`
-    * 安装`JDK` [[oracle.com]](https://www.oracle.com/cn/java/technologies/downloads/)
+    * 安装`Azul JDK` [[azul.com]](https://www.azul.com/downloads/?package=jdk#zulu)
+      * `C:\Program Files\Zulu\zulu-21\bin\javaw.exe`
     * 下载`PCL` [[afdian.net]](https://afdian.net/a/LTCat)
       * 安装`Fabric`/`Fabric API`
       * 模组
