@@ -116,7 +116,7 @@
   * `360驱动大师` [[dm.weishi.360.cn]](https://dm.weishi.360.cn/home.html)
   * `OpenRGB` [[openrgb.org]](https://openrgb.org/)
   * `FL Esports` [[flesports.com]](http://www.flesports.com/down/)
-    * 
+* 安装`Sonar` [[cn.steelseries.com]](https://cn.steelseries.com/gg/sonar)
 * 替换`记事本`
   * 安装`Notepad3` [[rizonesoft.com]](https://www.rizonesoft.com/downloads/notepad3/)
   * 安装`VS Code Insiders` [[code.visualstudio.com]](https://code.visualstudio.com/)
