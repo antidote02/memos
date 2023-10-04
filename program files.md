@@ -45,6 +45,8 @@
   * 安装`哔哩哔哩直播姬` [[live.bilibili.com]](https://live.bilibili.com/liveHime/)
   * 安装`Creative Cloud` [[adobe.com]](https://www.adobe.com/cn/lead/creativecloud/business.html)
   * 安装`Premiere Pro` [[mpyit.com]](https://mpyit.com/70404.html)
+  * 安装`Media Encoder` [[mpyit.com]](https://mpyit.com/mediaencoder2023m0nkrus.html)
+  * 安装`Voukoder` [[voukoder.org]](https://www.voukoder.org/)
   * 安装`After Effects` [[mpyit.com]](https://mpyit.com/aftereffects2023m0nkrus.html)
   * 安装`Photoshop` [[qijishow.com]](https://www.qijishow.com/down/Photoshop%20Beta.html)
 * 虚拟机  
