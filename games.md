@@ -71,7 +71,14 @@
         * 下载`极速加载` [[modrinth.com]](https://modrinth.com/mod/dashloader)
         * 下载`Language Reload` [[modrinth.com]](https://modrinth.com/mod/language-reload)
         * 下载`I18n` [[modrinth.com]](https://modrinth.com/mod/i18nupdatemod)
+        * 可选模组
+          * 下载`ETF` [[modrinth.com]](https://modrinth.com/mod/entitytexturefeatures)
+            * 下载`EMF` [[modrinth.com]](https://modrinth.com/mod/entity-model-features)
+          * 下载`Visuality` [[modrinth.com]](https://modrinth.com/mod/visuality)
+          * 下载`更多动画` [[modrinth.com]](https://modrinth.com/mod/not-enough-animations)
+          * 下载`进食动画` [[modrinth.com]](https://modrinth.com/mod/eating-animation)
       * 纹理
+        * 下载`Fresh Animations` [[modrinth.com]](https://modrinth.com/resourcepack/fresh-animations)
         * 下载`DiamondWar` [[mcbbs.net]](https://www.mcbbs.net/thread-984444-1-1.html)
         * 下载`Yuushya 16X` [[mcbbs.net]](https://www.mcbbs.net/thread-1182827-1-1.html)
         * 下载`奶油萌块` [[mcbbs.net]](https://www.mcbbs.net/thread-1420764-1-1.html)
@@ -79,7 +86,6 @@
       * 光影
         * 下载`BSL` [[modrinth.com]](https://modrinth.com/shader/bsl-shaders)
         * 下载`Complementary Shaders - Unbound` [[modrinth.com]](https://modrinth.com/shader/complementary-unbound)
-        * 下载`Rethinking Voxels` [[modrinth.com]](https://modrinth.com/shader/rethinking-voxels)
   * 安装`MuMu模拟器` [[mumu.163.com]](https://mumu.163.com/)
     * 下载`自动关闭Hyper-V/VBS` [[mumu.163.com]](https://mumu.163.com/help/20210511/35041_946700.html#a3)
     * 安装`明日方舟` [[ak.hypergryph.com]](https://ak.hypergryph.com/)
