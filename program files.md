@@ -13,6 +13,7 @@
   * 安装`TT语音` [[52tt.com]](https://www.52tt.com/)
 * 媒体
   * 安装`网易云音乐` [[music.163.com]](https://music.163.com/#/download)
+    * 安装`YesPlayMusic` [[github.com]](https://github.com/qier222/YesPlayMusic)
   * 安装`哔哩哔哩` [[app.bilibili.com]](https://app.bilibili.com/)
   * 安装`抖音` [[douyin.com]](https://www.douyin.com/)
   * 安装`虎牙` [[huya.com]](https://www.huya.com/download/)
