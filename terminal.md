@@ -47,6 +47,10 @@
   # 删除缓存
   scoop cache rm *
   ```
+* 安装`Aria2`
+  ```
+  scoop install -k aria2
+  ```
 * 安装`Curl`
   ```
   # 安装
@@ -56,4 +60,5 @@
   # IPV6
   curl 6.ipw.cn
   ```
+
 ### 以上
