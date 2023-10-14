@@ -28,9 +28,12 @@
         * `URL for extiension's git respository`
           * `zh_Hans Localization` [[github.com]](https://github.com/hanamizuki-ai/stable-diffusion-webui-localization-zh_Hans)
           * `Booru tag autocompletion` [[github.com]](https://github.com/DominikDoom/a1111-sd-webui-tagcomplete)
-            * `zh_cn.csv`/`zh_cn_tr.csv` [[space.bilibili.com]](https://space.bilibili.com/10090250/video)  
-              `C:\Program Files\stable-diffusion-webui-master\extensions\a1111-sd-webui-tagcomplete\tags\zh_cn.csv`  
-              `C:\Program Files\stable-diffusion-webui-master\extensions\a1111-sd-webui-tagcomplete\tags\zh_cn_tr.csv`
+            * [[space.bilibili.com]](https://space.bilibili.com/10090250/video)  
+              * `zh_cn.csv`  
+                `C:\Program Files\stable-diffusion-webui-master\extensions\a1111-sd-webui-tagcomplete\tags\zh_cn.csv`  
+              * `zh_cn_tr.csv`  
+                `C:\Program Files\stable-diffusion-webui-master\extensions\a1111-sd-webui-tagcomplete\tags\zh_cn_tr.csv`
+              * 
           * `Image browser` [[github.com]](https://github.com/AlUlkesh/stable-diffusion-webui-images-browser)
           * `Dynamic Thresholding` [[github.com]](https://github.com/mcmonkeyprojects/sd-dynamic-thresholding)
       * `Installed`
@@ -47,8 +50,10 @@
       * `Localization` **<font color="red">`zh-Hans (Testing)`</font>**
     * `Apply settings`
     * `Reload UI`
+  * `设置`
+    * `标签自动补全` **<font color="red">`zh_cn.csv`</font>**
+    * `翻译文件名` **<font color="red">`zh_cn_tr.csv`</font>**
   * `Stable Diffusion 模型`
-    * `SD 模型：刷新`
   * `文生图`
     * `正向提示词`
       ```
