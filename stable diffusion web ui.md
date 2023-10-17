@@ -11,15 +11,20 @@
   cd C:\Program Files\stable-diffusion-webui-master
   git clone https://gitclone.com/github.com/AUTOMATIC1111/stable-diffusion-webui.git
   ```
-* 运行`webui-user.bat`  
+* 安装`webui-user.bat`  
   `C:\Program Files\stable-diffusion-webui-master\webui-user.bat`
-* `Clash for Windows`开启`系统代理`
-* 安装`PIP`
-  ```
-  cd "C:\Program Files\stable-diffusion-webui-master\venv\Scripts"
-  .\python -m pip install --upgrade pip
-  ```
-* 运行`webui-user.bat`  
+  * `Clash for Windows`开启`系统代理`
+  * 安装/升级`PIP`
+    ```
+    cd "C:\Program Files\stable-diffusion-webui-master\venv\Scripts"
+    .\python -m pip install --upgrade pip
+    ```
+  * 编辑`webui-user.bat`  
+    `C:\Program Files\stable-diffusion-webui-master\webui-user.bat`
+    ```
+    set COMMANDLINE_ARGS=--opt-sdp-attention --opt-sdp-no-mem-attention --opt-channelslast
+    ```
+* 创建`webui-user.bat`快捷方式并运行  
   `C:\Program Files\stable-diffusion-webui-master\webui-user.bat`
 * 安装`Extensions`
   * `Stable Diffusion` [[127.0.0.1:7860]](http://127.0.0.1:7860/)
@@ -33,6 +38,7 @@
                 `C:\Program Files\stable-diffusion-webui-master\extensions\a1111-sd-webui-tagcomplete\tags\zh_cn.csv`  
               * `zh_cn_tr.csv`  
                 `C:\Program Files\stable-diffusion-webui-master\extensions\a1111-sd-webui-tagcomplete\tags\zh_cn_tr.csv`
+          * `LoCon` [[github.com]](https://github.com/KohakuBlueleaf/a1111-sd-webui-locon)
           * `Ultimate SD Upscale` [[github.com]](https://github.com/Coyote-A/ultimate-upscale-for-automatic1111)
           * `Image browser` [[github.com]](https://github.com/AlUlkesh/stable-diffusion-webui-images-browser)
           * `Dynamic Thresholding` [[github.com]](https://github.com/mcmonkeyprojects/sd-dynamic-thresholding)
@@ -41,14 +47,23 @@
 * 下载`Models`  
   `C:\Program Files\stable-diffusion-webui-master\models\Stable-diffusion`
   * `Rabbit` [[civitai.com]](https://civitai.com/models/121696)
-  * `CounterfeitXL` [[civitai.com]](https://civitai.com/models/118406)
   * `Flat-2D Animerge` [[civitai.com]](https://civitai.com/models/35960)
 * 下载`Embeddings`  
   `C:\Program Files\stable-diffusion-webui-master\embeddings`
   * `veryBadImageNegative` [[civitai.com]](https://civitai.com/models/11772/verybadimagenegative)
   * `EasyNegative` [[huggingface.co]](https://huggingface.co/datasets/gsdf/EasyNegative/tree/main)
-  * `negativeXL_C` [[huggingface.co]](https://huggingface.co/gsdf/CounterfeitXL/tree/main/embeddings)
-* 下载`LoRA`  
+* 下载`LYCORIS`
+  * 新建`LyCORIS`文件夹  
+    `C:\Program Files\stable-diffusion-webui-master\models\LyCORIS`
+  * 下载
+    * `EnvyBetterHands` [[civitai.com]](https://civitai.com/models/47085)
+      ```
+      # 正向提示词
+      <lora:GoodHands-beta2:1>, nice hands, perfect hands,
+      # 反向提示词
+      <lora:GoodHands-beta2:1>, extra fingers, deformed hands, polydactyl:1.5,
+      ```
+* 下载`Lora`  
   `C:\Program Files\stable-diffusion-webui-master\models\Lora`
   * `Viper (Valorant)` [[civitai.com]](https://civitai.com/models/73643)
     ```
@@ -95,13 +110,15 @@
   * `文生图`
     * `正向提示词`
       ```
-      (best-quality:0.8), perfect anime illustration,
+      (best-quality:0.8), perfect anime illustration,<lora:GoodHands-beta2:1>, nice hands, perfect hands,
       ```
     * `反向提示词`
       ```
+      extra fingers, deformed hands, polydactyl:1.5,
+      verybadimagenegative_v1.3,
+      EasyNegative,
       (worst quality:0.8), (surreal:0.8), (modernism:0.8), (art deco:0.8), (art nouveau:0.8), 
-      lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, bad feet, 
-      verybadimagenegative_v1.3, EasyNegative, 
+      low res, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, low quality, normal quality, jpeg artifacts, signature, watermark， username, blurry, bad feet,
       ```
     * `生成`
       * `采样方法` **<font color="red">`DPM++ 2M Karras`</font>**
