@@ -51,7 +51,7 @@
 * 下载`Embeddings`  
   `C:\Program Files\stable-diffusion-webui-master\embeddings`
   * `veryBadImageNegative` [[civitai.com]](https://civitai.com/models/11772/verybadimagenegative)
-  * `EasyNegative` [[huggingface.co]](https://huggingface.co/datasets/gsdf/EasyNegative/tree/main)
+  * `EasyNegativeV2` [[huggingface.co]](https://huggingface.co/gsdf/Counterfeit-V3.0/tree/main)
 * 下载`LYCORIS`
   * 新建`LyCORIS`文件夹  
     `C:\Program Files\stable-diffusion-webui-master\models\LyCORIS`
@@ -110,26 +110,25 @@
   * `文生图`
     * `正向提示词`
       ```
-      (best-quality:0.8), perfect anime illustration,<lora:GoodHands-beta2:1>, nice hands, perfect hands,
+      (best-quality:0.8), perfect anime illustration,
+      <lora:GoodHands-beta2:1>, nice hands, perfect hands,
       ```
     * `反向提示词`
       ```
-      extra fingers, deformed hands, polydactyl:1.5,
+      (worst quality:0.8), (surreal:0.8), (modernism:0.8), (art deco:0.8), (art nouveau:0.8),
+      extra fingers, deformed hands, (polydactyly:1.5),
       verybadimagenegative_v1.3,
-      EasyNegative,
-      (worst quality:0.8), (surreal:0.8), (modernism:0.8), (art deco:0.8), (art nouveau:0.8), 
-      low res, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, low quality, normal quality, jpeg artifacts, signature, watermark， username, blurry, bad feet,
+      EasyNegativeV2,
       ```
     * `生成`
-      * `采样方法` **<font color="red">`DPM++ 2M Karras`</font>**
-      * `迭代步数` **<font color="red">`20`</font>**
+      * `采样方法` **<font color="red">`DPM2 Karras`</font>**
+      * `迭代步数`
       * `高分辨率修复`
         * `放大算法` **<font color="red">`R-ESRGAN 4x+ Anime6B`</font>**
-        * `高分迭代步数` **<font color="red">`20`</font>**
+        * `高分迭代步数`
         * `重绘幅度` **<font color="red">`0.45`</font>**
-      * `宽度` **<font color="red">`512`</font>**
-      * `高度` **<font color="red">`512`</font>**
-      * `提示词引导系数` **<font color="red">`11`</font>**
+      * `宽度` **<font color="red">`768-`</font>**
+      * `高度` **<font color="red">`768-`</font>**
+      * `提示词引导系数` **<font color="red">`10`</font>**
       * `Dynamic Thresholding`
         * `模拟提示词相关性` **<font color="red">`7`</font>**
-      * `Cutoff`
