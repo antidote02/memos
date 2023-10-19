@@ -22,7 +22,7 @@
   * 编辑`webui-user.bat`  
     `C:\Program Files\stable-diffusion-webui-master\webui-user.bat`
     ```
-    set COMMANDLINE_ARGS=--opt-sdp-attention --opt-sdp-no-mem-attention --opt-channelslast
+    set COMMANDLINE_ARGS=--xformers --listen
     ```
 * 创建`webui-user.bat`快捷方式并运行  
   `C:\Program Files\stable-diffusion-webui-master\webui-user.bat`
@@ -48,56 +48,84 @@
   `C:\Program Files\stable-diffusion-webui-master\models\Stable-diffusion`
   * `Rabbit` [[civitai.com]](https://civitai.com/models/121696)
   * `Flat-2D Animerge` [[civitai.com]](https://civitai.com/models/35960)
+  * `MeinaHentai` [[civitai.com]](https://civitai.com/models/12606)
+    
 * 下载`Embeddings`  
   `C:\Program Files\stable-diffusion-webui-master\embeddings`
+  * `negative_hand Negative` [[civitai.com]](https://civitai.com/models/56519)
   * `veryBadImageNegative` [[civitai.com]](https://civitai.com/models/11772/verybadimagenegative)
   * `EasyNegativeV2` [[huggingface.co]](https://huggingface.co/gsdf/Counterfeit-V3.0/tree/main)
 * 下载`LYCORIS`
   * 新建`LyCORIS`文件夹  
     `C:\Program Files\stable-diffusion-webui-master\models\LyCORIS`
   * 下载
-    * `EnvyBetterHands` [[civitai.com]](https://civitai.com/models/47085)
-      ```
-      # 正向提示词
-      <lora:GoodHands-beta2:1>, nice hands, perfect hands,
-      # 反向提示词
-      <lora:GoodHands-beta2:1>, extra fingers, deformed hands, polydactyl:1.5,
-      ```
 * 下载`Lora`  
   `C:\Program Files\stable-diffusion-webui-master\models\Lora`
-  * `Viper (Valorant)` [[civitai.com]](https://civitai.com/models/73643)
-    ```
-    <lora:viper-nvwls-v2:1>, green eyes, bodysuit, gloves, belt, thigh boots, respirator,
-    ```
-  * `Arknights-Hoolheyak` [[civitai.com]](https://civitai.com/models/48645)
-    ```
-    <lora:Hoolheyakv2-pynoiseloha:1>, original outfit, fingerless gloves, white dress, black pantyhose, large breasts, open coat,
-    ```
-  * `Rebecca / Cyberpunk Edgerunners` [[civitai.com]](https://civitai.com/models/37539)
-    ```
-    1girl, rebecca \(cyberpunk\), solo, twintails, black hairband mechanical eye, colored sclera, red sclera, colored skin, white skin, leg tattoo, neck tattoo, green hair, small breasts, black bra, thong, red pupils, skin fang, red eyes, black jacket,
-    ```
-  * `real spread pussy(experimental)` [[civitai.com]](https://civitai.com/models/19669)
-    ```
-    <lora:spp_spreadpussy-W-V1:0.4>, uncensored, realspreadpussy,
-    ```
-  * `Ass On Glass` [[civitai.com]](https://civitai.com/models/19295)
-    ```
-    <lora:Ass On Glass:0.8>, ass on glass,
-    ```
-  * `Bukkake` [[civitai.com]](https://civitai.com/models/16722)
-    ```
-    <lora:Bukkake:0.75>, bukkake,
-    ```
-  * `POV Squatting Cowgirl` [[civitai.com]](https://civitai.com/models/8877)
-    ```
-    <lora:pscowgirl:1>, 1boy, squatting cowgirl position, vaginal, pov,
-    ```
-  * `Helltaker` [[civitai.com]](https://civitai.com/models/8429)
-    ```
-    <lora:Helltaker:0.6>,
-    ```
-  * `Lucy (Cyberpunk Edgerunners)` [[civitai.com]](https://civitai.com/models/5477)
+  * `Character`
+    * `Viper (Valorant)` [[civitai.com]](https://civitai.com/models/73643)
+      ```
+      <lora:viper-nvwls-v2:0.8>, green eyes,
+      bodysuit, gloves, belt, thigh boots, respirator,
+      ```
+    * `Arknights-Hoolheyak` [[civitai.com]](https://civitai.com/models/48645)
+      ```
+      <lora:Hoolheyakv2-pynoiseloha:0.8>, large breasts,
+      fingerless gloves, white dress, black pantyhose, open coat,
+      ```
+    * `Rebecca / Cyberpunk Edgerunners` [[civitai.com]](https://civitai.com/models/37539)
+      ```
+      <lora:rebecca_v1:1>, twintails, black hairband, mechanical eye, colored sclera, red sclera, colored skin, white skin, leg tattoo, neck tattoo, green hair, small breasts, red pupils, skin fang, red eyes,
+      black bra, thong, black jacket,
+      ```
+    * `Valorant Jett` [[civitai.com]](https://civitai.com/models/10964)
+      ```
+      <lora:ValorantJett:0.75>, jett,
+      ```
+    * `Lucy (Cyberpunk Edgerunners)` [[civitai.com]](https://civitai.com/models/5477)
+      ```
+      <lora:lucy_offset:1>, (robot joints:0.5), mechanical parts,
+      jackets, shorts,
+      ```
+  * `Poses`
+    * `Cowgirl Position` [[civitai.com]](https://civitai.com/models/30432)
+      ```
+      <lora:EkuneCowgirl:1>, cowgirlpose, 1boy, penis, cowgirl position, ass,
+      ass grab, ass focus, facing away, squatting cowgirl position, pussy, anus,
+      ```
+    * `Ass On Glass` [[civitai.com]](https://civitai.com/models/19295)
+      ```
+      <lora:Ass On Glass:0.8>, ass on glass,
+      ```
+    * `Bukkake` [[civitai.com]](https://civitai.com/models/16722)
+      ```
+      <lora:Bukkake:0.75>, bukkake,
+      ```
+    * `POV Squatting Cowgirl` [[civitai.com]](https://civitai.com/models/8877)
+      ```
+      <lora:pscowgirl:1>, 1boy, squatting cowgirl position, vaginal, pov,
+      ```
+    * `Bondage Suspension` [[civitai.com]](https://civitai.com/models/8762)
+      ```
+      <lora:suspension:1>, suspension, spread legs, rope, shibari,
+      ```
+    * `Grabbing own Ass` [[civitai.com]](https://civitai.com/models/8179)
+      ```
+      <lora:GrabOwnAss:1>, (grabbing own ass), (hands on own ass), ass stretch, ass spread,
+      ```
+  * `Concept`
+    * `cowgirl with hands on knees` [[civitai.com]](https://civitai.com/models/128170)
+      ```
+      <lora:cowgirl_with_hands_on_knees_v1.0:1>, pov, astride,
+      ```
+    * `细节调整` [[civitai.com]](https://civitai.com/models/58390)
+      ```
+      <lora:add_detail:2>
+      ```
+  * `Style`
+    * `Helltaker` [[civitai.com]](https://civitai.com/models/8429)
+      ```
+      <lora:Helltaker:0.6>,
+      ```
 * 食用
   * `Settings`
     * `User interface`
@@ -105,30 +133,38 @@
     * `Apply settings`
     * `Reload UI`
   * `设置`
-    * `翻译文件名` **<font color="red">`zh_cn_tr.csv`</font>**
+    * `用户界面`
+      * `快捷设置列表` 
+        * **<font color="red">`sd_model_checkpoint`</font>**
+        * **<font color="red">`CLIP_stop_at_last_layers`</font>**
+    * `标签自动补全`
+      * `翻译文件名` **<font color="red">`zh_cn_tr.csv`</font>**
+    * `保存设置`
+    * `重载 UI`
   * `Stable Diffusion 模型`
+  * `CLIP 终止层数` **<font color="red">`1`</font>**
   * `文生图`
     * `正向提示词`
       ```
       (best-quality:0.8), perfect anime illustration,
-      <lora:GoodHands-beta2:1>, nice hands, perfect hands,
+      nsfw, pantyhose,
       ```
     * `反向提示词`
       ```
       (worst quality:0.8), (surreal:0.8), (modernism:0.8), (art deco:0.8), (art nouveau:0.8),
-      extra fingers, deformed hands, (polydactyly:1.5),
-      verybadimagenegative_v1.3,
-      EasyNegativeV2,
+      (low quality:1.4), monochrome, zombie, (interlocked fingers:1.2),
+      negative_hand-neg, verybadimagenegative_v1.3, EasyNegativeV2,
+      lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, normal quality, jpeg artifacts, signature, watermark, username, blurry, bad feet,
       ```
     * `生成`
       * `采样方法` **<font color="red">`DPM2 Karras`</font>**
-      * `迭代步数`
+      * `迭代步数` **<font color="red">`20`</font>**
       * `高分辨率修复`
         * `放大算法` **<font color="red">`R-ESRGAN 4x+ Anime6B`</font>**
-        * `高分迭代步数`
         * `重绘幅度` **<font color="red">`0.45`</font>**
-      * `宽度` **<font color="red">`768-`</font>**
-      * `高度` **<font color="red">`768-`</font>**
+        * `放大倍率` **<font color="red">`0.45`</font>**
+      * `宽度` **<font color="red">`≤768`</font>**
+      * `高度` **<font color="red">`≤768`</font>**
       * `提示词引导系数` **<font color="red">`10`</font>**
       * `Dynamic Thresholding`
         * `模拟提示词相关性` **<font color="red">`7`</font>**
