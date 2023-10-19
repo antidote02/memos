@@ -64,7 +64,7 @@
   * `Character`
     * `Viper (Valorant)` [[civitai.com]](https://civitai.com/models/73643)
       ```
-      <lora:viper-nvwls-v2:0.8>, green eyes,
+      <lora:viper-nvwls-v2:0.8>, valorantviper, green eyes,
       bodysuit, gloves, belt, thigh boots, respirator,
       ```
     * `Arknights-Hoolheyak` [[civitai.com]](https://civitai.com/models/48645)
@@ -87,6 +87,14 @@
       jackets, shorts,
       ```
   * `Poses`
+    * `Pleasure in triplets is better` [[civitai.com]](https://civitai.com/models/138712)
+      ```
+      <lora:1654435350039971448:1>, (1girl), purple hair, red eyes, large breats, nude, sex, (vaginal), cum, sweat, (gangbang), multiple boys,
+      ```
+    * `cowgirl with hands on knees` [[civitai.com]](https://civitai.com/models/128170)
+      ```
+      <lora:cowgirl_with_hands_on_knees_v1.0:1>, pov, astride,
+      ```
     * `Cowgirl Position` [[civitai.com]](https://civitai.com/models/30432)
       ```
       <lora:EkuneCowgirl:1>, cowgirlpose, 1boy, penis, cowgirl position, ass,
@@ -95,6 +103,11 @@
     * `Ass On Glass` [[civitai.com]](https://civitai.com/models/19295)
       ```
       <lora:Ass On Glass:0.8>, ass on glass,
+      ```
+    * `Murky's - Cum on Tongue` [[civitai.com]](https://civitai.com/models/16775)
+      ```
+      <lora:Cumontongue:1>, open mouth, cum in mouth , cum on tongue, tongue out, cum,
+      cum on hands, cupping hands, own hands together,
       ```
     * `Bukkake` [[civitai.com]](https://civitai.com/models/16722)
       ```
@@ -113,10 +126,6 @@
       <lora:GrabOwnAss:1>, (grabbing own ass), (hands on own ass), ass stretch, ass spread,
       ```
   * `Concept`
-    * `cowgirl with hands on knees` [[civitai.com]](https://civitai.com/models/128170)
-      ```
-      <lora:cowgirl_with_hands_on_knees_v1.0:1>, pov, astride,
-      ```
     * `细节调整` [[civitai.com]](https://civitai.com/models/58390)
       ```
       <lora:add_detail:2>
