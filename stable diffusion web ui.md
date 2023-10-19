@@ -87,6 +87,10 @@
       jackets, shorts,
       ```
   * `Poses`
+    * `Mia and her hobbies` [[civitai.com]](https://civitai.com/models/139001)
+      ```
+      <lora:1654704365771602606:1>, 1girl, (bondage), (bdsm), (deep skin) nude, long hair, big breasts, sex, pussy, pussy juice, vaginal, (dildo), sweat, cum, open mouth, (orgasm),
+      ```
     * `Pleasure in triplets is better` [[civitai.com]](https://civitai.com/models/138712)
       ```
       <lora:1654435350039971448:1>, (1girl), purple hair, red eyes, large breats, nude, sex, (vaginal), cum, sweat, (gangbang), multiple boys,
