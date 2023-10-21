@@ -3,29 +3,23 @@
   ```
   scoop install -k python310
   ```
-* 下载`Stable Diffusion Web UI`  
-  `C:\Program Files\stable-diffusion-webui-master`
-  ```
-  cd C:\Program Files
-  md stable-diffusion-webui-master
-  cd C:\Program Files\stable-diffusion-webui-master
-  git clone https://gitclone.com/github.com/AUTOMATIC1111/stable-diffusion-webui.git
-  ```
+* 下载`Stable Diffusion Web UI` (https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/dev)  
+  `C:\Program Files\stable-diffusion-webui-dev`
 * 安装`webui-user.bat`  
-  `C:\Program Files\stable-diffusion-webui-master\webui-user.bat`
+  `C:\Program Files\stable-diffusion-webui-dev\webui-user.bat`
   * `Clash for Windows`开启`系统代理`
   * 安装/升级`PIP`
     ```
-    cd "C:\Program Files\stable-diffusion-webui-master\venv\Scripts"
+    cd "C:\Program Files\stable-diffusion-webui-dev\venv\Scripts"
     .\python -m pip install --upgrade pip
     ```
   * 编辑`webui-user.bat`  
-    `C:\Program Files\stable-diffusion-webui-master\webui-user.bat`
+    `C:\Program Files\stable-diffusion-webui-dev\webui-user.bat`
     ```
     set COMMANDLINE_ARGS=--xformers --listen
     ```
 * 创建`webui-user.bat`快捷方式并运行  
-  `C:\Program Files\stable-diffusion-webui-master\webui-user.bat`
+  `C:\Program Files\stable-diffusion-webui-dev\webui-user.bat`
 * 安装`Extensions`
   * `Stable Diffusion` [[127.0.0.1:7860]](http://127.0.0.1:7860/)
     * `Extensions`
@@ -35,32 +29,40 @@
           * `Booru tag autocompletion` [[github.com]](https://github.com/DominikDoom/a1111-sd-webui-tagcomplete)
             * [[space.bilibili.com]](https://space.bilibili.com/10090250/video)  
               * `zh_cn.csv`  
-                `C:\Program Files\stable-diffusion-webui-master\extensions\a1111-sd-webui-tagcomplete\tags\zh_cn.csv`  
+                `C:\Program Files\stable-diffusion-webui-dev\extensions\a1111-sd-webui-tagcomplete\tags\zh_cn.csv`  
               * `zh_cn_tr.csv`  
-                `C:\Program Files\stable-diffusion-webui-master\extensions\a1111-sd-webui-tagcomplete\tags\zh_cn_tr.csv`
-          * `LoCon` [[github.com]](https://github.com/KohakuBlueleaf/a1111-sd-webui-locon)
-          * `Ultimate SD Upscale` [[github.com]](https://github.com/Coyote-A/ultimate-upscale-for-automatic1111)
+                `C:\Program Files\stable-diffusion-webui-dev\extensions\a1111-sd-webui-tagcomplete\tags\zh_cn_tr.csv`
+          * `Easy Prompt Selector` [[github.com]](https://github.com/blue-pen5805/sdweb-easy-prompt-selector)
+            * `汉化` [[zhuanlan.zhihu.com]](https://zhuanlan.zhihu.com/p/632547344)  
+              `C:\Program Files\stable-diffusion-webui-dev\extensions\sdweb-easy-prompt-selector\tags`
           * `Image browser` [[github.com]](https://github.com/AlUlkesh/stable-diffusion-webui-images-browser)
           * `Dynamic Thresholding` [[github.com]](https://github.com/mcmonkeyprojects/sd-dynamic-thresholding)
           * `Cutoff` [[github.com]](https://github.com/hnmr293/sd-webui-cutoff)
+          * `Ultimate SD Upscale` [[github.com]](https://github.com/Coyote-A/ultimate-upscale-for-automatic1111)
+          * `Civitai` [[github.com]](https://github.com/civitai/sd_civitai_extension)
+            * `Socketio`
+              ```
+              cd "C:\Program Files\stable-diffusion-webui-dev\extensions\sd_civitai_extension"
+              python install.py
+              ```
       * `Installed`
 * 下载`Models`  
-  `C:\Program Files\stable-diffusion-webui-master\models\Stable-diffusion`
+  `C:\Program Files\stable-diffusion-webui-dev\models\Stable-diffusion`
   * `Rabbit` [[civitai.com]](https://civitai.com/models/121696)
   * `Flat-2D Animerge` [[civitai.com]](https://civitai.com/models/35960)
   * `MeinaHentai` [[civitai.com]](https://civitai.com/models/12606)
     
 * 下载`Embeddings`  
-  `C:\Program Files\stable-diffusion-webui-master\embeddings`
+  `C:\Program Files\stable-diffusion-webui-dev\embeddings`
   * `negative_hand Negative` [[civitai.com]](https://civitai.com/models/56519)
   * `veryBadImageNegative` [[civitai.com]](https://civitai.com/models/11772/verybadimagenegative)
   * `EasyNegativeV2` [[huggingface.co]](https://huggingface.co/gsdf/Counterfeit-V3.0/tree/main)
 * 下载`LYCORIS`
   * 新建`LyCORIS`文件夹  
-    `C:\Program Files\stable-diffusion-webui-master\models\LyCORIS`
+    `C:\Program Files\stable-diffusion-webui-dev\models\LyCORIS`
   * 下载
 * 下载`Lora`  
-  `C:\Program Files\stable-diffusion-webui-master\models\Lora`
+  `C:\Program Files\stable-diffusion-webui-dev\models\Lora`
   * `Character`
     * `Viper (Valorant)` [[civitai.com]](https://civitai.com/models/73643)
       ```
@@ -87,10 +89,6 @@
       jackets, shorts,
       ```
   * `Poses`
-    * `Mia and her hobbies` [[civitai.com]](https://civitai.com/models/139001)
-      ```
-      <lora:1654704365771602606:1>, 1girl, (bondage), (bdsm), (deep skin) nude, long hair, big breasts, sex, pussy, pussy juice, vaginal, (dildo), sweat, cum, open mouth, (orgasm),
-      ```
     * `Pleasure in triplets is better` [[civitai.com]](https://civitai.com/models/138712)
       ```
       <lora:1654435350039971448:1>, (1girl), purple hair, red eyes, large breats, nude, sex, (vaginal), cum, sweat, (gangbang), multiple boys,
@@ -99,18 +97,13 @@
       ```
       <lora:cowgirl_with_hands_on_knees_v1.0:1>, pov, astride,
       ```
-    * `Cowgirl Position` [[civitai.com]](https://civitai.com/models/30432)
-      ```
-      <lora:EkuneCowgirl:1>, cowgirlpose, 1boy, penis, cowgirl position, ass,
-      ass grab, ass focus, facing away, squatting cowgirl position, pussy, anus,
-      ```
     * `Ass On Glass` [[civitai.com]](https://civitai.com/models/19295)
       ```
       <lora:Ass On Glass:0.8>, ass on glass,
       ```
     * `Murky's - Cum on Tongue` [[civitai.com]](https://civitai.com/models/16775)
       ```
-      <lora:Cumontongue:1>, open mouth, cum in mouth , cum on tongue, tongue out, cum,
+      <lora:Cumontongue:1>, open mouth, cum in mouth, cum on tongue, tongue out, cum,
       cum on hands, cupping hands, own hands together,
       ```
     * `Bukkake` [[civitai.com]](https://civitai.com/models/16722)
@@ -125,6 +118,13 @@
       ```
       <lora:suspension:1>, suspension, spread legs, rope, shibari,
       ```
+    * `POV Doggystyle` [[civitai.com]](https://civitai.com/models/8723)
+      ```
+      <lora:POVDoggy:1>, 1boy, penis, doggystyle, from behind,
+      pov hands, ass grab, deep skin,
+      facing away, nude, implied sex,
+      pov hands, spread anus, spread ass, deep skin, hands on ass,
+      ```
     * `Grabbing own Ass` [[civitai.com]](https://civitai.com/models/8179)
       ```
       <lora:GrabOwnAss:1>, (grabbing own ass), (hands on own ass), ass stretch, ass spread,
@@ -135,6 +135,10 @@
       <lora:add_detail:2>
       ```
   * `Style`
+    * `像素人人` [[civitai.com]](https://civitai.com/models/44960)
+      ```
+      <lora:pixel_f2:0.5>, pixel,
+      ```
     * `Helltaker` [[civitai.com]](https://civitai.com/models/8429)
       ```
       <lora:Helltaker:0.6>,
@@ -152,6 +156,13 @@
         * **<font color="red">`CLIP_stop_at_last_layers`</font>**
     * `标签自动补全`
       * `翻译文件名` **<font color="red">`zh_cn_tr.csv`</font>**
+    * `实时过程预览`
+      * `显示当前生成图像的实时预览`
+      * `实时预览显示周期` **<font color="red">`1`</font>**
+      * `实时预览模式` **<font color="red">`Approx cheap`</font>**
+      * `允许在 lowvram/medvram 设置下使用完整实时预览`
+      * `进度条/预览图更新周期` **<font color="red">`1`</font>**
+      * `当生成过程中断时，通过所选的实时预览模式提供结果图像`
     * `保存设置`
     * `重载 UI`
   * `Stable Diffusion 模型`
@@ -159,7 +170,7 @@
   * `文生图`
     * `正向提示词`
       ```
-      (best-quality:0.8), perfect anime illustration,
+      best-quality, perfect anime illustration,
       nsfw, pantyhose,
       ```
     * `反向提示词`
