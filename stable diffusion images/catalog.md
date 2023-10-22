@@ -195,7 +195,7 @@
         ![Alt text](grid-0125.png)
   * `自然法`
     ```
-    (super fine illustration, beautiful and delicate water), (the finest grass:1.2), (beautiful eyes), very delicate light, perfect and delicate limbs, nature, painting, water spray,(fine luminescence, very fine 8k cg wallpaper), lavender eyes, pink pupils, whole body, white hair, bright eyes, (an extremely delicate and beautiful girl:1.2), (1girl:1.2), medium bust, dynamic angle, (white dress with gold decoration), (long hair flowing with the wind, beautiful hair ornaments, delicate wet skirt, breeze, long hair between eyes), wrinkled skirt, (staring blankly, lovely big eyes), messy hair, payot, lateral braid, (tulle lace white skirt), flowers and grass meadow, near the water edge, (sunset, starry sky in a circle), randomly distributed clouds, (river:1.3), splashing water, falling petals,
+    (super fine illustration, beautiful and delicate water), (the finest grass:1.2), (beautiful eyes), very delicate light, perfect and delicate limb, nature, painting, water spray,(fine luminescence, very fine 8k cg wallpaper), lavender eyes, pink pupils, whole body, white hair, bright eyes, (an extremely delicate and beautiful girl:1.2), (1girl:1.2), medium bust, dynamic angle, (white dress with gold decoration), (long hair flowing with the wind, beautiful hair ornaments, delicate wet skirt, breeze, long hair between eyes), wrinkled skirt, (staring blankly, lovely big eyes), messy hair, payot, lateral braid, (tulle lace white skirt), flowers and grass meadow, near the water edge, (sunset, starry sky in a circle), randomly distributed clouds, (river:1.3), splashing water, falling petals,
     # 反向提示词
     multiple breasts, (mutated hands and fingers:1.5), (long body:1.3), (mutation, poorly drawn:1.2), multi foot, (Multifold), Multi fingering, colored sclera, monster girl, black hands, greyscale, the background is incoherent, more than 2 thighs, huge thighs, huge calf, fused hand, missing hand, disappearing arms, disappearing thigh, disappearing calf, disappearing legs, fused fingers, one hand with more than 5 fingers, one hand with less than 5 fingers, bad asshole, fused asshole, missing asshole, bad anus, bad pussy, bad crotch, bad crotch seam, fused anus, fused pussy, (abnormal eye proportion), (abnormal hands), (abnormal legs), (abnormal feet abnormal fingers), (sharp face),
     ```
@@ -209,7 +209,7 @@
     ```
     (beautiful detailed girl), beautiful detailed glow, detailed ice, beautiful detailed water, (beautiful detailed eyes), expressionless, beautiful detailed white gloves, (floating palace:1.2), azure hair, disheveled hair, long bangs, hair between eyes, (sky blue dress), black ribbon, white bowtie, midriff, (half-closed eyes), big forehead, blank stare, flower, large top sleeves, (ice crystal texture wings:1.3), (iridescence and rainbow hair:1.7), (detailed cute anime face:1.6), (loli), (watercolor (medium):1.2),
     # 反向提示词
-    (ugly), (duplicate), (morbid), (mutilated), (tranny), mutated hands, (poorly drawn hands), blurry, (bad proportions), extra limbs, cloned face, (disfigured), (more than 2 nipples), (missing arms:1.2), (extra legs), mutated hands, (fused fingers:1.2), (too many fingers:1.2), (unclear eyes), text, error, normal quality, jpeg artifacts, signature, watermark, username, blurry, bad,
+    (ugly), (duplicate), (morbid), (mutilated), (tranny), mutated hands, (poorly drawn hands), blurry, (bad proportions), extra limb, cloned face, (disfigured), (more than 2 nipples), (missing arms:1.2), (extra legs), mutated hands, (fused fingers:1.2), (too many fingers:1.2), (unclear eyes), text, error, normal quality, jpeg artifacts, signature, watermark, username, blurry, bad,
     ```
     * `采样方法` `DPM++ 2M Karras`
     * `迭代步数` `20`
@@ -217,3 +217,63 @@
     * `生成`
       * `MeinaHentai`
         ![](grid-0128.png)
+  * `融合法`
+    ```
+    1girl, phoenix girl, fluffy hair, war, a hell on earth, beautiful and detailed explosion, cold machine, fire in eyes, world war, burning, metal texture, exquisite clothing, metal carving, volume, normal hands, metal details, metal scratch, metal defects, official art, 4k, extremely detailed cg unity 8k, highres, contour deepening, azur lane, girls front, magical, loud map plan, long-focus, depth of field, a cloudy sky, black smoke, smoke of gunpowder, mature, resolute eyes, burning sky, burning hair, burn oneself in flames, fighting, covered in blood, complex pattern, battling, flying flames, flame whirlpool, doomsday scenes, float, splashing blood, on the battlefield, bloody scenes, good looking flame, exquisite flame, exquisite blood, photorealistic, watercolor, colourful, beautiful detailed glow, detailed ice, beautiful detailed water, red moon, (magic circle:1,2),(beautiful detailed eyes), expressionless, beautiful detailed white gloves, own hands clasped, azure hair, disheveled hair, long bangs, hair between eyes, dark dress, (dark magician girl:), black kneehighs, black ribbon, white bowties, midriff,(half-closed eyes), big forehead, blank stare, flower, large top sleeves, (beautiful detailed girl), (floating palace:1.2), (sky blue dress), (ice crystal texture wings:1.2), (ice and fire melt:1.3),
+    # 反向
+    (ugly:1.3), (duplicate:1.3), (morbid:1.2), (mutilated:1.2), (tranny:1.3), mutated hands, (poorly drawn hands:1.3), blurry, (bad proportions:1.3), extra limbs, cloned face(disfigured:1.3), (more than 2 nipples:1.3), (missing arms:1.4), (extra legs:1.3), (fused fingers:1.6), (too many fingers:1.6), (unclear eyes:1.3), text, error, normal quality, jpeg artifacts, signature, watermark, username, bad feet, text font ui, malformed hands, long neck, missing limb, (mutated hand and finger: 1.5), (mutation poorly drawn: 1.2), malformed mutated, multiple breasts, futa, yaoi,
+    ```
+    * `采样方法` `Euler`
+    * `迭代步数` `39`
+    * `提示词引导系数` `4.5`
+    * `生成`
+      * `MeinaHentai`
+        ![](grid-0129.png)
+  * `虹彩法`
+    ```
+    (extremely detailed cg:1.2), (8k wallpaper:1.2), watercolor (medium), (beautiful detailed starry sky:1.2), cinmatic lighting, loli, princess, very long rainbow hair, side view, looking at viewer, full body, frills, (far from viewer), (extremely detailed face:1.2), (an extremely delicate and beautiful girl:1.2), (extremely detailed cute anime face:1.2), (extremely detailed eyes:1.2), (extremely detailed body:1.3), (ultra detailed), (bare stomach:1.2), (bare shoulders:1.2), small breasts, (sideboob:1.2), (floating and rainbow hair:1.4), (iridescence and rainbow hair:1.3), (extremely detailed sailor dress:1.3) (iridescence and rainbow dress:1.4), (iridescence and rainbow eyes), beautiful detailed hair, beautiful detailed dress, dramatic angle, expressionless, (big top sleeves), blush, (ahoge),
+    # 反向
+    text, error, ugly, duplicate, morbid, boken limb, incorrect limb, fusion finger, lose finger, multiple finger, multiple digit, fusion hand, lose leg, fused leg, multiple leg, bad feet, normal quality, simple background, jpeg,
+    ```
+    * `采样方法` `Euler a`
+    * `迭代步数` `28`
+    * `提示词引导系数` `5`
+    * `生成`
+      * `MeinaHentai`
+        ![Alt text](grid-0131.png)
+  * `暗锁法`
+    ```
+    (beautiful detailed girl), (beautiful detailed lighting:1.3), beautiful detailed eyes, (disheveled hair:1.6), (beautiful detailed dress), midriff, (female girl), (off-shoulder jacket:1.2), sailor dress, (darkside:1.4), (bust:1.4), (watercolor (medium):1.6), whole black bloomer, wet clothes, wet skin, flowers, hollow eyes, hollow night, hollow knight, (chain:1.6), dark soul, abyssal ship, deep dark, darkness, (female girl:1.4), (small breasts:1.3), death garden, (emotionless eyes:1.4), (cthulhu), (extremely detailed dark clouds:), (extremely detailed cg unity 8k wallpaper:1.6), (extremely detailed face:1.3), (chain storm:1.6), (chain ring:1.2),
+    # 反向
+    (ugly), (duplicate), (morbid), (mutilated), (tranny:1.5), mutated hands, oorly drawn  hands, blurry, (bad proportions:0.9), extra limb, cloned face, (disfigured), (more than 2 nipples), (missing arms:1.4), (extra legs), mutated hands, (fused fingers:1.6), (too many fingers:1.6), (unclear eyes), text, error, normal quality, jpeg artifacts, signature, watermark, username, bad feet,
+    ```
+    * `采样方法` `Euler`
+    * `迭代步数` `24`
+    * `提示词引导系数` `4.5`
+    * `生成`
+      * `MeinaHentai`
+        ![](grid-0133.png)
+  * `星冰乐`
+    ```
+    (beautiful detailed girl), beautiful detailed glow, detailed ice, beautiful detailed water, (beautiful detailed eyes), expressionless, beautiful detailed white gloves, (floating palace:1.3), azure hair, disheveled hair, long bangs, hair between eyes, (sky blue dress), black ribbon, white bowties, midriff, (half-closed eyes), big forehead, blank stare, flower, large top sleeves, (ice crystal texture wings:1.3),
+    # 反向
+    multiple breasts, (mutated hands and fingers:1.5), (long body:1.3), (mutation, poorly drawn:1.2), greyscale, liquid body, liquid tongue, disfigured, malformed, mutated, anatomical nonsense, text font ui, error, malformed hands, long neck, blurred, lowers, bad proportions, bad shadow, uncoordinated body, unnatural body, fused breasts, bad breasts, huge breasts, poorly drawn breasts, extra breasts, liquid breasts, heavy breasts, missing breasts, huge haunch, huge thighs, huge calf, fused hand, missing hand, disappearing arms, disappearing thigh, disappearing calf, disappearing legs, fused ears, bad ears, poorly drawn ears, extra ears, liquid ears, heavy ears, missing ears, fused animal ears, bad animal ears, poorly drawn animal ears, extra animal ears, liquid animal ears, heavy animal ears, missing animal ears, text, ui, missing limb, fused fingers, one hand with more than 5 fingers, one hand with less than 5 fingers, one hand with more than 5 digit, one hand with less than 5 digit, fused digit, missing digit, bad digit, liquid digit, colorful tongue, black tongue, watermark, username, jpeg artifacts, signature, 3d, 3d game, 3d game scene, 3d character, malformed feet, extra feet, bad feet, poorly drawn feet, fused feet, missing feet, extra shoes, bad shoes, fused shoes, more than two shoes, poorly drawn shoes, bad gloves, poorly drawn gloves, fused gloves, bad cum, poorly drawn cum, fused cum, bad hairs, poorly drawn hairs, fused hairs, big muscles, ugly, bad face, fused face, poorly drawn face, cloned face, big face, long face, bad eyes, fused eyes, poorly drawn eyes, extra eyes, malformed limbs, more than 2 nipples, missing nipples, different nipples, fused nipples, bad nipples, poorly drawn nipples, black nipples, colorful nipples, gross proportions, short arm, (missing arms:1.3), missing thighs, missing calf, missing legs, duplicate, morbid, mutilated, poorly drawn hands, more than 1 left hand, more than 1 right hand, deformed, (blurry), extra arms, extra thighs, more than 2 thighs, extra calf, fused calf, extra legs, bad knee, extra knee, more than 2 legs, bad tails, bad mouth, fused mouth, poorly drawn mouth, bad tongue, tongue within mouth, too long tongue, big mouth, cracked mouth, bad mouth, dirty face, dirty teeth,  dirty pantie, fused pantie, poorly drawn pantie, fused cloth, poorly drawn cloth, bad pantie, yellow teeth, thick lips, bad cameltoe, colorful camel toe, bad asshole, poorly drawn asshole, fused asshole, missing asshole, bad anus, bad pussy, bad crotch, bad  crotch seam, fused anus, fused pussy, fused crotch, poorly drawn crotch, fused seam, poorly drawn anus, poorly drawn pussy, poorly drawn crotch seam, bad thigh gap, missing thigh gap, fused thigh gap, liquid thigh gap, poorly drawn thigh gap, bad collarbone, fused collarbone, missing collarbone, liquid collarbone, strong girl, obesity, normal quality, liquid tentacles, bad tentacles, poorly drawn tentacles, split tentacles, fused tentacles, missing clit, bad clit, fused clit, black clit, liq,
+    ```
+    * `采样方法` `Euler a`
+    * `迭代步数` `50`
+    * `提示词引导系数` `5.5`
+    * `生成`
+      * `MeinaHentai`
+        ![](grid-0134.jpg)
+* `火烧云`
+  ```
+  beautiful detailed glow, (beautiful detailed eyes), (dark magician girl), big forehead, flower, large top sleeves, floating ashes, beautiful and detailed explosion, red moon, fire, fire cloud, wings on fire, a cloudy sky, smoke of gunpowder, burning, black dress, (beautiful detailed eyes), expressionless, beautiful detailed white gloves, dove of peace, (floating cloud:1.2), azure hair, disheveled hair, long bangs, hair between eyes, black kneehighs, black ribbon, white bowties, midriff, (half-closed eyes),
+  # 反向
+  text, error, normal quality, jpeg artifacts, signature, watermark, username, blurry, missing arms，
+  ```
+    * `采样方法` `Euler a`
+    * `迭代步数` `50`
+    * `提示词引导系数` `5.5`
+    * `生成`
+      * `MeinaHentai`
+        ![](grid-0135.png)
