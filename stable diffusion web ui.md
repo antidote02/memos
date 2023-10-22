@@ -3,7 +3,7 @@
   ```
   scoop install -k python310
   ```
-* 下载`Stable Diffusion Web UI` (https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/dev)  
+* 下载`Stable Diffusion Web UI` [[github.com]](https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/dev)  
   `C:\Program Files\stable-diffusion-webui-dev`
 * 安装`webui-user.bat`  
   `C:\Program Files\stable-diffusion-webui-dev\webui-user.bat`
@@ -170,15 +170,14 @@
   * `文生图`
     * `正向提示词`
       ```
-      best-quality, perfect anime illustration,
       nsfw, pantyhose,
+      (masterpiece:1.2), (best quality:1.3), (ultra-detailed:1.2), (illustration:1.2), (disheveled hair:1.2),
+      <lora:add_detail:2>,
       ```
     * `反向提示词`
       ```
-      (worst quality:0.8), (surreal:0.8), (modernism:0.8), (art deco:0.8), (art nouveau:0.8),
-      (low quality:1.4), monochrome, zombie, (interlocked fingers:1.2),
       negative_hand-neg, verybadimagenegative_v1.3, EasyNegativeV2,
-      lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, normal quality, jpeg artifacts, signature, watermark, username, blurry, bad feet,
+      long body, lowres, bad anatomy, bad hands, missing finger, extra digits, fewer digits, cropped, worst quality, low quality,
       ```
     * `生成`
       * `采样方法` **<font color="red">`DPM2 Karras`</font>**
@@ -192,3 +191,4 @@
       * `提示词引导系数` **<font color="red">`10`</font>**
       * `Dynamic Thresholding`
         * `模拟提示词相关性` **<font color="red">`7`</font>**
+* `元素法典` `生成` [[Catalog]](./stable%20diffusion%20images/catalog.md)
