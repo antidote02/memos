@@ -208,10 +208,4 @@
           * `采样方法`
             * `DPM++ SDE Karras`
             * `DDIM`
-
-      
-* `元素法典` `生成` [[Catalog]](./stable%20diffusion%20images/catalog.md)
-
-  * `Rabbit` [[civitai.com]](https://civitai.com/models/121696)
-  * `Flat-2D Animerge` [[civitai.com]](https://civitai.com/models/35960)
-  * `MeinaHentai` [[civitai.com]](https://civitai.com/models/12606)
+* `元素法典` `生成` [[Catalog]](stable%20diffusion%20images/catalog.md)
