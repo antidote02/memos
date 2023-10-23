@@ -6,12 +6,84 @@
   * `MeinaHentai` [[civitai.com]](https://civitai.com/models/12606)
 * `通用起手式`
   ```
-  nsfw, pantyhose, (masterpiece:1.21), (best quality:1.33), (ultra-detailed:1.21), (illustration:1.21), (disheveled hair:1.21), <lora:add_detail:2>,
+  nsfw, pantyhose, (masterpiece:1.21), (best quality:1.33), (ultra detailed:1.21), (illustration:1.21), (disheveled hair:1.21), <lora:add_detail:2>,
 
   # 反例
   negative_hand-neg, verybadimagenegative_v1.3, EasyNegativeV2, (worst quality, low quality:1.4), monochrome, zombie, (interlocked fingers:1.2), extra monochrome, signature, text, logo, long body, lowres, bad anatomy, bad hands, missing finger, extra digits, fewer digits, cropped,
   ```
 * `元素魔法目录`
+  * `炼银术`
+    ```
+    (beautiful detailed girl), 1girl, solo, bare shoulders, flat chest, diamonds and dazzling eyes, beautiful detailed cold face, very long blue and silver hair, floating black feathers, wavy hair, black and white sleeves, gold and silver fringes, a (black hole) behind the girl, a silver triple crown inlaid with obsidian, (sit) on the black (throne:1.21), (depth) of (field),
+    # 反向
+    bad feet hand finger leg eye, worst low normal quality, bad face, (blurry:1.1), eye asymmetry, simple background,
+    ```
+    * `采样方法` `DDIM`
+    * `迭代步数` `23`
+    * `提示词引导系数` `4.5`
+    * `生成`
+      * `MeinaHentai`
+![](2023-10-24/grid-0154.png)
+  * `战姬法`
+    ```
+    (solo:1.21), highres, (high detailed:1.05), beautiful detailed blue eyes, light blush, expressionless, white hair, hair fluttering in the wind, clothes, (bodysuit:1.05), burning cars, air force fleet in the sky, dusk, bird watching, (mechanical arm armor, mechanical body armor, mechanical body armor, city ruins during war, fire, burning buildings), riding motor,
+    # 反向
+    error, normal quality, jpeg artifacts, signature, watermark, username, blurry, bad feet,
+    ```
+    * `采样方法` `Euler a`
+    * `迭代步数` `50`
+    * `提示词引导系数` `5`
+    * `生成`
+      * `MeinaHentai`
+![](2023-10-24/grid-0149.png)
+  * `龙机法`
+    ```
+    1girl, small breasts, beautiful detailed eyes, beautiful detailed cyberpunk city, flat chest, beautiful detailed hair, wavy hair, beautiful detailed street, mecha clothes, robot girl, cool movement, sliver bodysuit, (filigree:1.05), dragon wings, colorful background, a dragon stands behind the girl, rainy day, (lightning effect:1.05), beautiful detailed sliver dragon armor, (cold face),
+    # 反向
+    (ugly:1.15), (duplicate:1.15), (morbid), (mutilated), (tranny:1.15), mutated hands, (poorly drawn hands:1.15), blurry, (bad proportions:1.15), extra limbs, cloned face, (disfigured:1.15), (more than 2 nipples:1.15), (missing arms:1.21), (extra legs:1.21), (fused fingers:1.21), (too many fingers:1.27), (unclear eyes:1.15), error,
+    ```
+    * `采样方法` `DDIM`
+    * `迭代步数` `23`
+    * `提示词引导系数` `4.5`
+    * `生成`
+      * `MeinaHentai`
+![](2023-10-24/grid-0142.png)
+  * `唤龙术`
+    ```
+    1girl, mature female, small breasts, beautiful detailed eyes, long sleeves, hoodie, frills, extremely detailed cg unity 8k wallpaper, (loong:1.77), (dragon background:1.77), (loong background:1.77), game cg, depth of field, cape hood,
+    # 反向
+    error, normal quality, jpeg artifacts, watermark, username, blurry, bad feet, ugly, duplicate, transsexual, hermaphrodite, out of frame, extra fingers, mutated hands, poorly drawn hands, poorly drawn face, mutation, deformed, bad proportions, extra limbs, cloned face, disfigured, more than 2 nipples, proportions, malformed limbs, missing arms, missing legs, extra arms, extra legs, fused fingers, too many fingers, long neck,
+    ```
+    * `采样方法` `Euler`
+    * `迭代步数` `40`
+    * `提示词引导系数` `7`
+    * `生成`
+      * `MeinaHentai`
+![](2023-10-24/grid-0141.png)
+  * `绚丽术`
+    ```
+    (extremely detailed cg unity 8k wallpaper), (best illustration), (best shadow), (extremely delicate and beautiful:1.21), dynamic angle, floating, detailed castle, (best building:1.33), mist encircles the mountains, fairyland, classic, (detailed light), feather, nature, (sunlight), river, forest, flower, beautiful and delicate water, (painting), (sketch), (bloom), (shine),
+    # 反向
+    inverted mountain, low quality illustration, low quality background, error, normal quality, jpeg artifacts, watermark, username, blurry, missing limbs, three arms, bad feet, text font ui, malformed hands, long neck, limb, sleeveles, disfigured, malformed, mutated, (mutated hands and fingers :1.5).(long body :1.3),(mutation ,poorly drawn :1.2), multiple breasts, futa, yaoi, three legs,
+    ```
+    * `采样方法` `Euler a`
+    * `迭代步数` `20`
+    * `提示词引导系数` `6`
+    * `生成`
+      * `MeinaHentai`
+![](2023-10-24/grid-0126.png)
+  * `血魔法`
+    ```
+    amazing, 1girl, fine details, depth of field, extremely detailed cg unity 8k wallpaper, (white hair), red streaked hair, red eyes, (full body), red hair, angry face, (beautiful detailed eyes), blood drop, blood fog, floating hair, light shafts, soft focus, character focus, long bangs, hair between eyes, looking at viewer, low hanging hair, floating, splatter blood, long hair, (blood stain),
+    # 反向
+    multiple breasts, (mutated hands and fingers:1.5 ), (long body:1.3), (mutation, poorly drawn:1.2), liquid body, malformed, mutated, text font ui, malformed hands, long neck, bad shadow, uncoordinated body, fused ears,
+    ```
+    * `采样方法` `Euler a`
+    * `迭代步数` `25`
+    * `提示词引导系数` `7`
+    * `生成`
+      * `MeinaHentai`
+![](2023-10-24/grid-0124.png)
  * `摩登法`
     ```
     (retro artstyle:1.21), 1girl, mature female, small breast, beautiful detailed eyes, long sleeves, hoodie, frills, no shadow, simple background, bright skin, 1980s\(style\),
@@ -22,11 +94,17 @@
     * `迭代步数` `30`
     * `提示词引导系数` `6.5`
     * `生成`
+      * `Flat-2D Animerge`
+![](2023-10-24/grid-0050.png)
       * `MeinaHentai`
-        * `Lora` `Add detail` `2`
-![](2023-10-24/grid-0047.jpg)
-        * `Lora` `Add detail` `-2`
-      * `Hassaku (hentai model)`
+![](2023-10-24/grid-0049.png)
+        * `Lora` `Add detail`
+          * `-2`
+![](2023-10-24/grid-0048.png)
+          * `2`
+![](2023-10-24/grid-0047.png)
+      * `Hassaku (hentai model)`  
+        `Lora` `Add detail` `2`
 ![](2023-10-24/grid-0046.png)
   * `天选术`
     ```
@@ -176,7 +254,7 @@
 ![](2023-10-23/grid-0177.png)
   * `机娘水`
     ```
-    (full body:1.05), (1girl:1.21), (beauty detailed eye:1.21), (mecha, huge filesize:1.05), (bare shoulders), science fiction, highly detailed, extremely detailed cg unity wallpaper, submerge, cinematic lighting, dramatic angle, (beautiful face), posing, caustics, fine water surface, mechanical wing, metal wings, mecha wing, (mecha clothes:1.05), robot girl, beautiful detailed face,
+    (full body:1.05), (1girl:1.21), (beauty detailed eye:1.21), (mecha, huge filesize:1.05), (bare shoulders), science fiction, high detailed, extremely detailed cg unity wallpaper, submerge, cinematic lighting, dramatic angle, (beautiful face), posing, caustics, fine water surface, mechanical wing, metal wings, mecha wing, (mecha clothes:1.05), robot girl, beautiful detailed face,
     # 反向
     error, normal quality, jpeg artifacts, watermark, username, blurry, missing arms, long neck, humpbacked,
     ```
