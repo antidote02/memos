@@ -159,7 +159,7 @@
     * `实时过程预览`
       * `显示当前生成图像的实时预览`
       * `实时预览显示周期` **<font color="red">`1`</font>**
-      * `实时预览模式` **<font color="red">`Approx cheap`</font>**
+      * `实时预览模式` **<font color="red">`Approx NN`</font>**
       * `允许在 lowvram/medvram 设置下使用完整实时预览`
       * `进度条/预览图更新周期` **<font color="red">`1`</font>**
       * `当生成过程中断时，通过所选的实时预览模式提供结果图像`
@@ -170,25 +170,48 @@
   * `文生图`
     * `正向提示词`
       ```
-      nsfw, pantyhose,
-      (masterpiece:1.2), (best quality:1.3), (ultra-detailed:1.2), (illustration:1.2), (disheveled hair:1.2),
-      <lora:add_detail:2>,
+      nsfw, pantyhose, (masterpiece:1.2), (best quality:1.3), (ultra-detailed:1.2), (illustration:1.2), (disheveled hair:1.2), <lora:add_detail:2>,
       ```
     * `反向提示词`
       ```
-      negative_hand-neg, verybadimagenegative_v1.3, EasyNegativeV2,
-      long body, lowres, bad anatomy, bad hands, missing finger, extra digits, fewer digits, cropped, worst quality, low quality,
+      negative_hand-neg, verybadimagenegative_v1.3, EasyNegativeV2, (worst quality, low quality:1.4), monochrome, zombie, (interlocked fingers:1.2), extra monochrome, signature, text, logo, long body, lowres, bad anatomy, bad hands, missing finger, extra digits, fewer digits, cropped,
       ```
     * `生成`
-      * `采样方法` **<font color="red">`DPM2 Karras`</font>**
-      * `迭代步数` **<font color="red">`20`</font>**
-      * `高分辨率修复`
-        * `放大算法` **<font color="red">`R-ESRGAN 4x+ Anime6B`</font>**
-        * `重绘幅度` **<font color="red">`0.45`</font>**
-        * `放大倍率` **<font color="red">`0.45`</font>**
-      * `宽度` **<font color="red">`≤768`</font>**
-      * `高度` **<font color="red">`≤768`</font>**
-      * `提示词引导系数` **<font color="red">`10`</font>**
-      * `Dynamic Thresholding`
-        * `模拟提示词相关性` **<font color="red">`7`</font>**
+      * `Flat-2D Animerge`
+        * `提示词`
+          ```
+          perfect anime illustration,
+          # 反向
+          (surreal:0.8), (modernism:0.8), (art deco:0.8), (art nouveau:0.8),
+          ```
+        * `生成`
+          * `高分辨率修复`
+            * `放大算法`：`R-ESRGAN 4x+ Anime6B`
+            * `重绘幅度`：`0.45`
+          * `Dynamic Thresholding`
+      * `MeinaHentai`
+        * `CLIP 终止层数`：`2`
+        * `生成`
+          * `采样方法`
+            * `Euler a`
+              * `迭代步数`：`20`~`40`
+            * `DPM++ SDE Karras`
+              * `迭代步数`：`20`~`30`
+          * `高分辨率修复`
+            * `放大算法`：`R-ESRGAN 4x+ Anime6B`
+            * `高分迭代步数`：`10`~`15`
+            * `重绘幅度`：`0.2`~`0.4`
+          * `提示词引导系数` `7`
+      * `Hassaku (hentai model)`
+        * `CLIP 终止层数`：`2`
+        * `生成`
+          * `采样方法`
+            * `DPM++ SDE Karras`
+            * `DDIM`
+
+      
 * `元素法典` `生成` [[Catalog]](./stable%20diffusion%20images/catalog.md)
+
+  * `Rabbit` [[civitai.com]](https://civitai.com/models/121696)
+  * `Flat-2D Animerge` [[civitai.com]](https://civitai.com/models/35960)
+  * `MeinaHentai` [[civitai.com]](https://civitai.com/models/12606)
