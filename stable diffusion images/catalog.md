@@ -12,6 +12,90 @@
   negative_hand-neg, verybadimagenegative_v1.3, EasyNegativeV2, (worst quality, low quality:1.4), monochrome, zombie, (interlocked fingers:1.2), extra monochrome, signature, text, logo, long body, lowres, bad anatomy, bad hands, missing finger, extra digits, fewer digits, cropped,
   ```
 * `元素魔法目录`
+  * `水晶法`
+    ```
+    (extremely detailed cg unity 8k wallpaper:1.15), game cg, (1girl:1.33), (solo:1.05), (beautiful detailed eyes), (shine eyes:1.21), goddess, fluffy hair, messy hair, ribbons, hair bow, (flowinghair:1.05), (glossy hair), (silky hair), (white stockings:1.21), (gorgeous crystal armor:1.33), cold smile, stare, cape, (crystal wings:1.33), (grand feathers:1.21), (altocumulus:1.21), (clear sky), (snow mountain), (flowery flowers:1.21), (flowery bubbles:1.15), (cloud map plane), (crystal:1.27), crystal poppies, (lacy:1.15) (misty:1.21), (posing sketch), (brilliant light), cinematic lighting, (thick coating:1.21), (glass tint), (watercolor), (ambient light), long focus, (colorful blisters), ukiyo e style,
+    # 反向
+    error, normal quality, jpeg artifacts, watermark, username, blurry,
+    ```
+    * `采样方法` `Euler`
+    * `迭代步数` `45`
+    * `提示词引导系数` `6.5`
+    * `生成`
+      * `MeinaHentai`
+        ![](grid-0181.png)
+  * `死灵法`
+    ```
+    cinematic lighting, (single humangirl:1.21), (upper body:1.46), (extremely detailed eyes and face:1.21), ink, (bone:1.33), (ribs:1.33), 1girl, a young girl, rose, black hair, blue eyes, curly hair, greyscale, no shadow, simple background, bright skin, cherry blossoms,
+    # 反向
+    multiple breasts, (mutated hands and fingers:1.5), (long body:1.3), (mutation, poorly drawn:1.2), greyscale, liquid body, liquid tongue, disfigured, malformed, mutated, anatomical nonsense, text font ui, error, malformed hands, long neck, blurred, lowers, bad proportions, bad shadow, uncoordinated body, unnatural body, fused breasts, bad breasts, huge breasts, poorly drawn breasts, extra breasts, liquid breasts, heavy breasts, missing breasts, huge haunch, huge thighs, huge calf, fused hand, missing hand, disappearing arms, disappearing thigh, disappearing calf, disappearing legs, fused ears, bad ears, poorly drawn ears, extra ears, liquid ears, heavy ears, missing ears, fused animal ears, bad animal ears, poorly drawn animal ears, extra animal ears, liquid animal ears, heavy animal ears, missing animal ears, text, ui, missing limb, fused fingers, one hand with more than 5 fingers, one hand with less than 5 fingers, one hand with more than 5 digit, one hand with less than 5 digit, fused digit, missing digit, bad digit, liquid digit, colorful tongue, black tongue, watermark, username, jpeg artifacts, signature, 3d, 3d game, 3d game scene, 3d character, malformed feet, extra feet, bad feet, poorly drawn feet, fused feet, missing feet, extra shoes, bad shoes, fused shoes, more than two shoes, poorly drawn shoes, bad gloves, poorly drawn gloves, fused gloves, bad cum, poorly drawn cum, fused cum, bad hairs, poorly drawn hairs, fused hairs, big muscles, ugly, bad face, fused face, poorly drawn face, cloned face, big face, long face, bad eyes, fused eyes, poorly drawn eyes, extra eyes, malformed limbs, more than 2 nipples, missing nipples, different nipples, fused nipples, bad nipples, poorly drawn nipples, black nipples, colorful nipples, gross proportions, short arm, (missing arms:1.33), missing thighs, missing calf, missing legs, duplicate, morbid, mutilated, poorly drawn hands, more than 1 left hand, more than 1 right hand, deformed, (blurry), extra arms, extra thighs, more than 2 thighs, extra calf, fused calf, extra legs, bad knee, extra knee, more than 2 legs, bad tails, bad mouth, fused mouth, poorly drawn mouth, bad tongue, tongue within mouth, too long tongue, big mouth, cracked mouth, bad mouth, dirty face, dirty teeth,  dirty pantie, fused pantie, poorly drawn pantie, fused cloth, poorly drawn cloth, bad pantie, yellow teeth, thick lips, bad cameltoe, colorful camel toe, bad asshole, poorly drawn asshole, fused asshole, missing asshole, bad anus, bad pussy, bad crotch, bad  crotch seam, fused anus, fused pussy, fused crotch, poorly drawn crotch, fused seam, poorly drawn anus, poorly drawn pussy, poorly drawn crotch seam, bad thigh gap, missing thigh gap, fused thigh gap, liquid thigh gap, poorly drawn thigh gap, bad collarbone, fused collarbone, missing collarbone, liquid collarbone, strong girl, obesity, normal quality, liquid tentacles, bad tentacles, poorly drawn tentacles, split tentacles, fused tentacles, missing clit, bad clit, fused clit, black clit, liq,
+    ```
+    * `采样方法` `Euler a`
+    * `迭代步数` `50`
+    * `提示词引导系数` `12`
+    * `生成`
+      * `MeinaHentai`
+        ![](grid-0178.png)
+  * `黄金法`
+    ```
+    amazing, beautiful detailed eyes, (1girl:1.21), finely detailed, depth of field, extremely detailed cg unity 8k wallpaper, (full body:1.21), (other minato aqua), (a girl wears clothes with a silver texture:1.33), (extremely gorgeous metal style:1.21), (metal crown with ornate stripes:1.21), (various metals background:1.46), sputtered molten iron, (floating hair), (hair like melted metal:1.21), (detailed face:1.33), (detailed eyes:1.33), (clothes made of silver:1.33), (clothes with gold lace:1.33), (flowing gold and silver:1.46), (everything flowing and melt:1.61), (flowing iron:1.61), (flowing silver:1.61), (lace flowing and melt:1.46),
+    # 反向
+    (ugly:1.33), (duplicate:1.33), (morbid:1.21), (mutilated:1.21), (tranny:1.33), mutated hands, (poorly drawn hands:1.33), blurry, (bad proportions:1.33), extra limbs, cloned face, (disfigured:1.33), (more than 2 nipples:1.33), (missing arms:1.46), (extra legs:1.33), mutated hands, (fused fingers:1.61), (too many fingers:1.61), (unclear eyes:1.33), lowers, error, normal quality, jpeg artifacts, watermark, username, bad feet, text font ui, malformed hands, long neck, missing limb, (mutated hand and finger:1.5), (long body:1.3), (mutation poorly drawn:1.2), malformed mutated, multiple breasts, futa, yaoi,
+    ```
+    * `采样方法` `Euler`
+    * `迭代步数` `30`
+    * `提示词引导系数` `7`
+    * `生成`
+      * `MeinaHentai`
+        ![](grid-0177.png)
+  * `机娘水`
+    ```
+    (full body:1.05), (1girl:1.21), (beauty detailed eye:1.21), (mecha, huge filesize:1.05), (bare shoulders), science fiction, highly detailed, extremely detailed cg unity wallpaper, submerge, cinematic lighting, dramatic angle, (beautiful face), posing, caustics, fine water surface, mechanical wing, metal wings, mecha wing, (mecha clothes:1.05), robot girl, beautiful detailed face,
+    # 反向
+    error, normal quality, jpeg artifacts, watermark, username, blurry, missing arms, long neck, humpbacked,
+    ```
+    * `采样方法` `Euler a`
+    * `迭代步数` `38`
+    * `提示词引导系数` `12`
+    * `生成`
+      * `MeinaHentai`
+        ![](grid-0176.png)
+  * `废土法`
+    ```
+    (1girl:1.33), (cute anime face:1.21), (beautiful detailed girl), expressionless, cold attitude, red pupils, short hair, white hair, (beautiful detailed eyes:1.33), jacket, cracked floor, damaged classroom, tables and chairs in disarray, the residual eaves duanbi, beautiful sky, cumulus, mouldy, floating, wind, dead end machine, (broken robot), (mechanical girl),
+    # 反向
+    error, normal quality, jpeg artifacts, watermark, username, blurrylowres, blurry, tidy classroom, neat tables and chairs,
+    ```
+    * `采样方法` `Euler a`
+    * `迭代步数` `45`
+    * `提示词引导系数` `5.5`
+    * `生成`
+      * `MeinaHentai`
+        ![](grid-0175.png)
+  * `森火法`
+    ```
+    (ink:1.46), (watercolor:1.21), (spirit), (1girl:1.33), (beautiful detailed eyes), world masterpiece theater, depth of field, (burning forest), spark, anime face, black gauze skirt, (red hair), blue eyes, focus on face, medium breasts, (messy long hair:1.61), bare shoulder, very close to viewers, veil, light leaks, burning sky, navel, (bustier:1.21), flame, red gem necklace, rainbow in the sky, flames burning around, a burning church, (fire butterfly:1.33), (flying sparks),
+    # 反向
+    error, normal quality, jpeg artifacts, watermark, username, blurry, missing arms, long neck, humpbacked, glasses,
+    ```
+    * `采样方法` `Euler a`
+    * `迭代步数` `30`
+    * `提示词引导系数` `5.5`
+    * `生成`
+      * `MeinaHentai`
+        ![](grid-0173.png)
+  * `月亮法`
+    ```
+    (an extremely delicate and beautiful:1.21), cinematic angle, floating, (beautiful detailed eyes), (detailed light), cinematic lighting, beautifully detailed sky, (1girl), white hair, blue eyes, (high ponytail), cloak, glowing eyes, (moon:1.21), (moonlight), starry sky, (lighting particle), fog, snow, (painting), (sketch), (bloom),
+    # 反向
+    text, error, normal quality, jpeg artifacts, watermark, username, blurry, bad feet,
+    ```
+    * `采样方法` `Euler a`
+    * `迭代步数` `40`
+    * `提示词引导系数` `5.5`
+    * `生成`
+      * `MeinaHentai`
+        ![](grid-0162.png)
   * `蔷薇法`
     ```
     (an extremely delicate and beautiful:1.21), beautiful detailed eyes, (detailed light), (beautiful deatailed shadow), 1girl, (loli), (small breasts), floating hair, glowing eyes, black hair, red eyes, sad, lolita, bare shoulders, white dress, (rose:1.21), (vines), (blood), cage, bandage, red rope, (sketch:1.21), (painting),
@@ -28,7 +112,7 @@
     ```
     (an extremely delicate and beautiful:1.21), dynamic angle, floating, (beautiful detailed eyes), (detailed light), (ink:1.33), depth of field, (watercolor:1.21), 1girl, small breasts, red hair, blue eyes, (veil:1.21), bare shoulders, navel, (starry sky), (desert), (floating sand flow), (colorful bubble:1.33),
     # 反向
-    text, error, normal quality, jpeg artifacts, watermark, username, blurry, bad feet,
+    error, normal quality, jpeg artifacts, watermark, username, blurry, bad feet,
     ```
     * `采样方法` `Euler a`
     * `迭代步数` `40`
