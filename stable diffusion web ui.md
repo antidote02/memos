@@ -1,10 +1,23 @@
 ### `Stable Diffusion web UI`
+* `元素法典` `生成`
+  * [[Catalog 2]](stable%20diffusion%20images/catalog%202.md)
+  * [[Catalog]](stable%20diffusion%20images/catalog.md)
 * 安装`Python 3.10`
   ```
   scoop install -k python310
   ```
 * 下载`Stable Diffusion Web UI` [[github.com]](https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/dev)  
-  `C:\Program Files\stable-diffusion-webui-dev`
+* 下载`Models`  
+  * 新建文件夹`models\Stable-diffusion`
+    `C:\Program Files\stable-diffusion-webui-dev\models\Stable-diffusion`
+  * 下载`Models`
+    `C:\Program Files\stable-diffusion-webui-dev\models\Stable-diffusion`
+    * `Rabbit` [[civitai.com]](https://civitai.com/models/121696)
+    * `Flat-2D Animerge` [[civitai.com]](https://civitai.com/models/35960)
+    * `MeinaHentai` [[civitai.com]](https://civitai.com/models/12606)
+      * `MeinaMix` [[civitai.com]](https://civitai.com/models/7240)
+    * `国风3` [[civitai.com]](https://civitai.com/models/10415)
+    * `Hassaku` [[civitai.com]](https://civitai.com/models/2583)
 * 安装`webui-user.bat`  
   `C:\Program Files\stable-diffusion-webui-dev\webui-user.bat`
   * `Clash for Windows`开启`系统代理`
@@ -46,12 +59,6 @@
               python install.py
               ```
       * `Installed`
-* 下载`Models`  
-  `C:\Program Files\stable-diffusion-webui-dev\models\Stable-diffusion`
-  * `Rabbit` [[civitai.com]](https://civitai.com/models/121696)
-  * `Flat-2D Animerge` [[civitai.com]](https://civitai.com/models/35960)
-  * `MeinaHentai` [[civitai.com]](https://civitai.com/models/12606)
-    
 * 下载`Embeddings`  
   `C:\Program Files\stable-diffusion-webui-dev\embeddings`
   * `negative_hand Negative` [[civitai.com]](https://civitai.com/models/56519)
@@ -170,42 +177,94 @@
   * `文生图`
     * `正向提示词`
       ```
-      nsfw, pantyhose, (masterpiece:1.2), (best quality:1.3), (ultra-detailed:1.2), (illustration:1.2), (disheveled hair:1.2), <lora:add_detail:2>,
+      (masterpiece:1.21), (best quality:1.33), (ultra detailed:1.21), (illustration:1.21), (disheveled hair:1.21), <lora:add_detail:2>, nsfw, pantyhose,
       ```
     * `反向提示词`
       ```
-      negative_hand-neg, verybadimagenegative_v1.3, EasyNegativeV2, (worst quality, low quality:1.4), monochrome, zombie, (interlocked fingers:1.2), extra monochrome, signature, text, logo, long body, lowres, bad anatomy, bad hands, missing finger, extra digits, fewer digits, cropped,
+      negative_hand-neg, verybadimagenegative_v1.3, EasyNegativeV2, (worst quality, low quality:1.4), monochrome, (zombie), (interlocked fingers:1.2), extra monochrome, (sketch, comic), signature, logo, long body, lowres, bad anatomy, bad hands, text, error, missing fingers, extra digits, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, bad feet,
       ```
     * `生成`
-      * `Flat-2D Animerge`
-        * `提示词`
-          ```
-          perfect anime illustration,
-          # 反向
-          (surreal:0.8), (modernism:0.8), (art deco:0.8), (art nouveau:0.8),
-          ```
-        * `生成`
-          * `高分辨率修复`
-            * `放大算法`：`R-ESRGAN 4x+ Anime6B`
-            * `重绘幅度`：`0.45`
-          * `Dynamic Thresholding`
-      * `MeinaHentai`
-        * `CLIP 终止层数`：`2`
-        * `生成`
-          * `采样方法`
-            * `Euler a`
-              * `迭代步数`：`20`~`40`
-            * `DPM++ SDE Karras`
-              * `迭代步数`：`20`~`30`
-          * `高分辨率修复`
-            * `放大算法`：`R-ESRGAN 4x+ Anime6B`
-            * `高分迭代步数`：`10`~`15`
-            * `重绘幅度`：`0.2`~`0.4`
-          * `提示词引导系数` `7`
-      * `Hassaku (hentai model)`
-        * `CLIP 终止层数`：`2`
-        * `生成`
-          * `采样方法`
-            * `DPM++ SDE Karras`
-            * `DDIM`
-* `元素法典` `生成` [[Catalog]](stable%20diffusion%20images/catalog.md)
+      <table>
+      <tbody>
+      <tr>
+      <td style="text-align: center;">Model</td>
+      <td style="text-align: center;">CLIP 终止层数</td>
+      <td style="text-align: center;">采样方法</td>
+      <td style="text-align: center;">迭代步数</td>
+      <td style="text-align: center;">放大算法</td>
+      <td style="text-align: center;">高分迭代步数</td>
+      <td style="text-align: center;">重绘幅度</td>
+      <td style="text-align: center;">提示词引导系数</td>
+      </tr>
+      <tr style="text-align: center;">
+      <td>Flat-2D Animerge</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>R-ESRGAN 4x+ Anime6B</td>
+      <td>&nbsp;</td>
+      <td>0.45</td>
+      <td>10</td>
+      </tr>
+      <tr style="text-align: center;">
+      <td rowspan="2">MeinaHentai</td>
+      <td rowspan="2">2</td>
+      <td>Euler a</td>
+      <td>20～40</td>
+      <td rowspan="2">R-ESRGAN 4x+ Anime6B</td>
+      <td rowspan="2">10～15</td>
+      <td rowspan="2">0.2～0.4</td>
+      <td rowspan="2">7</td>
+      </tr>
+      <tr style="text-align: center;">
+      <td>DPM++ SDE Karras</td>
+      <td>20～30</td>
+      </tr>
+<tr style="text-align: center;">
+<td rowspan="3">MeinaMix</td>
+<td rowspan="3">2</td>
+<td>Euler a</td>
+<td>40～60</td>
+<td rowspan="3">R-ESRGAN 4x+ Anime6B</td>
+<td rowspan="3">10</td>
+<td rowspan="3">0.3～0.6</td>
+<td rowspan="3">４～11</td>
+</tr>
+<tr style="text-align: center;">
+<td>DPM++ SDE Karras</td>
+<td>20～30</td>
+</tr>
+<tr style="text-align: center;">
+<td>DPM++ 2M Karras</td>
+<td>20～60</td>
+</tr>
+<tr style="text-align: center;">
+<td rowspan="2">Hassaku</td>
+<td rowspan="2">2</td>
+<td>DPM++ SDE Karras</td>
+<td>&nbsp;</td>
+<td>R-ESRGAN 4x+ Anime6B</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr style="text-align: center;">
+<td>DDIM</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr style="text-align: center;">
+<td>国风3</td>
+<td>2</td>
+<td>DPM++ SDE Karras</td>
+<td>30～50</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>

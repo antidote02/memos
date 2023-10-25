@@ -1,4 +1,4 @@
-### `Stable Diffusion WebUI`附录
+### `Stable Diffusion WebUI` 附录
 * [Stable Diffusion WebUI](/stable%20diffusion%20web%20ui.md).md [[github.com]](https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/dev)
 * `Models`
   * `Rabbit` [[civitai.com]](https://civitai.com/models/121696)
@@ -6,23 +6,29 @@
   * `MeinaHentai` [[civitai.com]](https://civitai.com/models/12606)
 * `通用起手式`
   ```
-  nsfw, pantyhose, (masterpiece:1.21), (best quality:1.33), (ultra detailed:1.21), (illustration:1.21), (disheveled hair:1.21), <lora:add_detail:2>,
+  (masterpiece:1.21), (best quality:1.33), (ultra detailed:1.21), (illustration:1.21), (disheveled hair:1.21), <lora:add_detail:2>, nsfw, pantyhose,
   # 反例
-  negative_hand-neg, verybadimagenegative_v1.3, EasyNegativeV2, (worst quality, low quality:1.4), monochrome, zombie, (interlocked fingers:1.2), extra monochrome, signature, text, logo, long body, lowres, bad anatomy, bad hands, missing fingers, extra digits, fewer digits, cropped,
+  negative_hand-neg, verybadimagenegative_v1.3, EasyNegativeV2, (worst quality, low quality:1.4), monochrome, (zombie), (interlocked fingers:1.2), extra monochrome, (sketch, comic), signature, logo, long body, lowres, bad anatomy, bad hands, text, error, missing fingers, extra digits, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, bad feet,
   ```
 * `元素魔法目录`
   * `刻刻帝`
     ```
     (crystal texture hair:1.33), (extremely detailed cg:1.27), (8k wallpaper), (crystalline purple gemstone gloves:1.21), (beautiful detailed glass hair:1.21), (glass shape texture hand:1.21), (crystallize texture body:1.21), gem body, hands as clear as jewels, clothes crystal, (crystal texture skin:1.21), sparkle, lens flare, light leak, broken glass, (detailed glass-shaped clothes:1.21), (frills:1.21), (1girl), (solo), dynamic angle, big top sleeves, floating, beautiful detailed gemstone sky, gemstone sea, beautiful detailed eyes, overexposure, side blunt bangs, hair between eyes, ribbon, bowtie, buttons, bare shoulders, (small breast:1.33), pleated skirt, crystals texture flowers, (detailed crystal clothing:1.21), (body gems), solo focus, (iridescence and rainbow hair:3.69), (detailed cute anime face:1.34), (loli), (watercolor (medium):1.27), (clock:1.33), (red:1.33), (blood:1.33), fine details, depth of field, blood drop, blood fog,
     # 反向
-    error, ugly, duplicate, morbid, boken limb, incorrect limb, fusion fingers, lose fingers, multiple finger, multiple digits, fusion hand, lose legs, fused legs, multiple legs, bad feet, normal quality, simple background, jpeg artifacts, watermark, username, blurry, text font ui, malformed hands, long neck, missing limb, (mutated hands and fingers:1.5), (mutation poorly drawn:1.2), disfigured, malformed mutated, multiple breasts, futa, yaoi, big breasts,
+    ugly, duplicate, morbid, broken limb, incorrect limb, fusion fingers, lose fingers, multiple finger, multiple digits, fusion hand, lose legs, fused legs, multiple legs, simple background, text font ui, malformed hands, long neck, missing limb, (mutated hands and fingers:1.5), (mutation poorly drawn:1.2), disfigured, malformed mutated, multiple breasts, futa, yaoi, big breasts,
     ```
     * `采样方法` `Euler`
     * `迭代步数` `30`
     * `提示词引导系数` `7`
     * `生成`
+      * `MeinaHentai`
+![](2023-10-25/grid-0012.png)
+      * `MeinaMix`
+![](2023-10-25/grid-0013.png)
       * `Hassaku`
 ![](2023-10-25/grid-0009.png)
+      * `国风3`
+![](2023-10-25/grid-0015.png)
   * `冬雪法`
     ```
     beautiful detailed sky, night, stars, (1girl), (an extremely delicate and beautiful girl:1.21), red eyes, dramatic angle, small breasts, (full body:1.33), hood, cold face and white shirt, (long white hair:1.33), (red hair), (red plum blossom), (winter:1.21), (snowflakes:1.33), (detailed cute anime face:1.34), cinmatic lighting, (red and white flowers:1.21), hair between eyes, expressionless, young girl, (facing the lens:1.33), (starry sky), (beautiful face:1.21), (sitting), depth of field, (colorful:1.21), scenery, hair flower, lantern, christmas, (starfall),
