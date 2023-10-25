@@ -11,6 +11,46 @@
   negative_hand-neg, verybadimagenegative_v1.3, EasyNegativeV2, (worst quality, low quality:1.4), monochrome, (zombie), (interlocked fingers:1.2), extra monochrome, (sketch, comic), signature, logo, long body, lowres, bad anatomy, bad hands, text, error, missing fingers, extra digits, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, bad feet,
   ```
 * `元素魔法目录 - 续`
+  * `辉煌阳光法`
+    ```
+    {1girl}, amazing, beautiful detailed eyes, solo, fine details, depth of field, extremely detailed cg, original, extremely detailed wallpaper, {{highly detailed skin}}, {{messy hair}}, {small breasts}, {longuette}, {grassland}, {yellow eyes}, full body, incredibly absurdres, {gold hair}, lace, floating hair, a large number of environments, medieval, grace, a girl leans her hand on the fence, birds, altocumulus, 8k wallpaper, hair hoop, long hair, gem necklace, hair ornament, prospect, water eyes, wind, breeze, god ray, lawn, mountains and lake in the distance, the skirt swaying in the wind, sunlight through the trees, vast grassland, fence, blue sky, bloom, smile, glow, grass swaying in the wind,
+    # 反向
+    {{{{{{{{{bad hands}}}}}}}}}, small hands, multiple limbs, bad feet, long nails, {{{{interlocked fingers}}}}, milk, ugly, duplicate, morbid, mutilated, tranny, trans, transsexual, mutation, deformed, long neck, bad proportions, extra arms, extra legs, disfigured, more than 2 nipples, malformed, mutated, hermaphrodite, out of frame, extra drawn, long body, multiple breasts, cloned face, gross proportions, mutated hands, bad feet, long neck, missing limb, malformed limbs, malformed hands fused fingers, too many fingers, extra fingers, missing fingers, text font ui, futa, yaoi,
+    ```
+    * `采样方法` `Euler`
+    * `迭代步数` `40`
+    * `提示词引导系数` `7`
+    * `生成`
+      * `MeinaHentai`
+![](2023-10-25/grid-0076.png)
+  * `百溺法`
+    ```
+    (watercolor), (extremely detailed cg unity 8k wallpaper:1.21), (game cg), (1girl), (solo), (best illustration), (extremely detailed illustration), (beautiful detailed lighting:1.21), (from above), (extremely delicate and beautiful:1.21), cinematic lighting, dynamic angle, detailed wet clothes, blank stare, overexposure, floating, (beautiful detailed eyes), side blunt bangs, small breasts, black long straight, red eyes, aqua eyes, gradient eyes, black hair, very long hair, blunt bangs, (blood:1.21), white dress, frills, bowtie, (expressionless:1.21), extremely beautiful and detail water, (lying on the lake:1.21), (hairs curled in water:1.21), (blood red water:1.5), (red background:1.3), swirl,
+    # 反向
+    long face, extra legs, extra arms, fused arms, fused legs, extra feet, fused feet, abnormal legs, abnormal shoulders, poorly drawn shoulders, misplaced arms, misplaced legs, misplaced hands, abnormal hands, multiple heads, abnormal face, twisted head,
+    ```
+    * `采样方法` `Euler a`
+    * `迭代步数` `20`
+    * `提示词引导系数` `4.5`~`5.5`
+    * `生成`
+      * `MeinaHentai`
+        * `提示词引导系数`
+          * `5.5`
+![](2023-10-25/grid-0072.png)
+          * `4.5`
+![](2023-10-25/grid-0073.png)
+  * `沉入星海`
+    ```
+    {detailed light}, {extremely delicate and beautiful}, 1girl, {beautiful detailed eyes}, stars in the eyes, messy floating hair, colored inner hair, starry sky adorns hair, depth of field,
+    # 反向
+    missing arms,
+    ```
+    * `采样方法` `DDIM`
+    * `迭代步数` `25`
+    * `提示词引导系数` `5`
+    * `生成`
+      * `MeinaHentai`
+![](2023-10-25/grid-0050.png)
   * `星之彩`
     ```
     (detailed light), (extremely delicate and beautiful), 1girl, cute face, upper body, two legs, long dress, (beautiful detailed eyes), stars in the eyes, messy floating hair, colored inner hair, starry sky adorns hair, (lots of big colorful bubbles), (pearl:0.9), (galaxy:0.9), depth of field,
