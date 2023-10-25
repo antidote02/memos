@@ -7,11 +7,85 @@
 * `通用起手式`
   ```
   nsfw, pantyhose, (masterpiece:1.21), (best quality:1.33), (ultra detailed:1.21), (illustration:1.21), (disheveled hair:1.21), <lora:add_detail:2>,
-
   # 反例
-  negative_hand-neg, verybadimagenegative_v1.3, EasyNegativeV2, (worst quality, low quality:1.4), monochrome, zombie, (interlocked fingers:1.2), extra monochrome, signature, text, logo, long body, lowres, bad anatomy, bad hands, missing finger, extra digits, fewer digits, cropped,
+  negative_hand-neg, verybadimagenegative_v1.3, EasyNegativeV2, (worst quality, low quality:1.4), monochrome, zombie, (interlocked fingers:1.2), extra monochrome, signature, text, logo, long body, lowres, bad anatomy, bad hands, missing fingers, extra digits, fewer digits, cropped,
   ```
 * `元素魔法目录`
+  * `刻刻帝`
+    ```
+    (crystal texture hair:1.33), (extremely detailed cg:1.27), (8k wallpaper), (crystalline purple gemstone gloves:1.21), (beautiful detailed glass hair:1.21), (glass shape texture hand:1.21), (crystallize texture body:1.21), gem body, hands as clear as jewels, clothes crystal, (crystal texture skin:1.21), sparkle, lens flare, light leak, broken glass, (detailed glass-shaped clothes:1.21), (frills:1.21), (1girl), (solo), dynamic angle, big top sleeves, floating, beautiful detailed gemstone sky, gemstone sea, beautiful detailed eyes, overexposure, side blunt bangs, hair between eyes, ribbon, bowtie, buttons, bare shoulders, (small breast:1.33), pleated skirt, crystals texture flowers, (detailed crystal clothing:1.21), (body gems), solo focus, (iridescence and rainbow hair:3.69), (detailed cute anime face:1.34), (loli), (watercolor (medium):1.27), (clock:1.33), (red:1.33), (blood:1.33), fine details, depth of field, blood drop, blood fog,
+    # 反向
+    error, ugly, duplicate, morbid, boken limb, incorrect limb, fusion fingers, lose fingers, multiple finger, multiple digits, fusion hand, lose legs, fused legs, multiple legs, bad feet, normal quality, simple background, jpeg artifacts, watermark, username, blurry, text font ui, malformed hands, long neck, missing limb, (mutated hands and fingers:1.5), (mutation poorly drawn:1.2), disfigured, malformed mutated, multiple breasts, futa, yaoi, big breasts,
+    ```
+    * `采样方法` `Euler`
+    * `迭代步数` `30`
+    * `提示词引导系数` `7`
+    * `生成`
+      * `Hassaku`
+![](2023-10-25/grid-0009.png)
+  * `冬雪法`
+    ```
+    beautiful detailed sky, night, stars, (1girl), (an extremely delicate and beautiful girl:1.21), red eyes, dramatic angle, small breasts, (full body:1.33), hood, cold face and white shirt, (long white hair:1.33), (red hair), (red plum blossom), (winter:1.21), (snowflakes:1.33), (detailed cute anime face:1.34), cinmatic lighting, (red and white flowers:1.21), hair between eyes, expressionless, young girl, (facing the lens:1.33), (starry sky), (beautiful face:1.21), (sitting), depth of field, (colorful:1.21), scenery, hair flower, lantern, christmas, (starfall),
+    # 反向
+    (ugly:1.33), (duplicate:1.33), (morbid:1.21), (mutilated:1.21), (tranny:1.33), mutated hands, (poorly drawn hands:1.33), blurry, (bad proportions:1.33), extra limbs, cloned face, (disfigured:1.33), (more than 2 nipples:1.33), (missing arms:1.46), (extra legs:1.33), (fused fingers:1.61), (too many fingers:1.61), (unclear eyes：1.33), error, normal quality, jpeg artifacts, watermark, username, bad feet, text font ui, malformed hands, long neck, missing limb, (mutated hands and fingers:1.5), (long body:1.3), (mutation poorly drawn:1.2), malformed mutated, multiple breasts, futa, yaoi,
+    ```
+    * `采样方法` `DDIM`
+    * `迭代步数` `50`
+    * `提示词引导系数` `7`
+    * `生成`
+      * `Hassaku`
+![](2023-10-24/grid-0188.png)
+  * `星霞海`
+    ```
+    dream, (extremely detailed cg unity 8k wallpaper:1.33), (painting:1.05), (ink:1.33), amazing, depth of field, highres, dynamic angle, cinematic lighting, (1girl:1.05), (wavy silver hair:1.21), (loli:1.21), (extremely detailed eyes and face:1.21), (detailed flood:1.5), translucent pink skirt, gemological hair, french braid, pointy ears, looking at viewer, (translucent fluttering skirt), yellow hairpin, (white dress with pink lace and yellow decoration), sleeves past wrists, (sleeves past fingers:1.21), walking motion, strapless dress, ocean waves, wind, (glistening light of waves:1.33), (detailed sunset glow:1.05), (floating flow), (coral:1.21), (luminous), coast, (floating colorful bubbles:1.05), beautiful detailed sky, (fluorescence:1.05), detailed shadow, (conch), beautiful detailed water, drenched, starfish, meteor, rainbow, (seabird), (glinting stars:1.05), (glowworm), (splash), detailed cloud, shell, (fireworks:1.05),
+    # 反向
+    malformed hands, (ugly:1.21), (duplicate:1.15), (trans:1.15), (transsexual), (out of frame:1.05), extra fingers, mutated hands, (more than 2 nipples:1.15), gross proportions, (malformed limbs:1.05), (missing arms), (missing legs), (extra arms:1.15), (extra legs:1.15), (fused fingers:1.05), (long neck:1.15), fingers, bad feet, (poorly drawn hands), (poorly drawn face), (mutation:1.15), (deformed), blurry, (bad proportions:1.15), (extra limbs), (disfigured:1.15), bad anatomy disfigured, malformed mutated, missing limb, normal quality, too many fingers, bad finglegs, (morbid), (mutilated), (tranny:1.15), 
+    ```
+    * `采样方法` `DDIM`
+    * `迭代步数` `45`
+    * `提示词引导系数` `10`
+    * `生成`
+      * `Hassaku`
+![Alt text](2023-10-24/grid-0183.jpg)
+  * `浮世绘`
+    ```
+    (watercolor medium), (ukiyo-e style:1.21), (1girl:1.5), (solo:1.5), (extremely delicate and beautiful:1.21), (little girl:1.21), cute, (hime cut:1.21), side blunt bangs, (ultramarine hair:1.2), hair between eyes, ribbon, bracelet, bare shoulders, (japanese clothes:1.21), sakura, (slit pupils:1.21), (miko:1.21), (off shoulder), ace, (kagura suzu), sword,
+    # 反向
+    error, normal quality, jpeg artifacts, watermark, username, blurry, missing arms, long neck, humpbacked, shadow, unusual hands, abnormal fingers, large breasts,
+    ```
+    * `采样方法` `DDIM`
+    * `迭代步数` `28`
+    * `提示词引导系数` `11`
+    * `生成`
+      * `MeinaHentai`
+        * `768`*`768`
+![](2023-10-24/grid-0166.png)
+        * `1152`*`768`
+![](2023-10-24/00714-3099159107.png)
+  * `学院法`
+    ```
+    (highres:1.05), extremely detailed cg, extremely detailed 8k wallpaper, extremely detailed character, (extremely delicate and beautiful:1.05), portrait, solo focus, straight-on, dramatic angle, depth of field, (cinematic lighting), outdoors, (character((1girl:1.15), solo, loli, (full body:1.21), standing, expressionless, (light smile:0.72), cute, beautiful detailed eyes, blue eyes, (long legs:0.9), (very long hair:1.05), blonde hair, wavy hair, (shiny hair:0.9), (gothic lolita), blue white skirt, (short skirt), black headdress, bowknot, (hair ornament:1.15), (hair flower:0.9), stockings, (garter:0.81), lace, cross lacing footwear, sleeves trimmed with ribbons):1.15),
+    # 反向
+    polar lowres, bad face, bad body, bad shoes, bad feet, bad proportions, (bad legs:0.9), (more legs), normal quality, gross proportions, blurry, asymmetrical eyes are poorly drawn, error, missing arms, missing legs, short legs, long skirt, indoors, 2girls, out of frame, only upper body, lower body only, (from above:0.9), (petite:0.9), low background,
+    ```
+    * `采样方法` `DDIM`
+    * `迭代步数` `70`
+    * `提示词引导系数` `12`
+    * `生成`
+      * `MeinaHentai`
+![](2023-10-24/grid-0165.png)
+  * `星源法`
+    ```
+    amazing, beautiful golden eyes, fine details, depth of field, extremely detailed cg unity 8k wallpaper, (long dark blond hair:1.33), (red medium hair:1.21), (1girl), (white stockings), (medium breasts:1.61), (hair ribbon), exposing cleavage, (beautiful butterflies details:1.21), (halter dress:1.33), huge ahoge, particle, (solo:1.33), (detail background), standing, (beautiful details of the starry sky), (gloomy and depressed (expression):1.33), (hazy fog), (very long hair:1.33), (fluttering hair:1.05), (thick hair:1.05), (gelatinous texture:1.15), (profile:1.05), (beautiful details of ruins), (standing on the sea surface:1.33), (character close-up), (smooth skin:1.15), (upper body:1.33), (smooth and radiant skin), (smooth and radiant face), perfect details, beautifully gorgeous necklace, authentic skin texture, (cleavage:1.05), (authentic and detailed face:1.15), (unexposed:1.5),
+    # 反向
+    error, normal quality, jpeg artifacts, watermark, username, blurry, bad feet,
+    ```
+    * `采样方法` `Euler`
+    * `迭代步数` `50`
+    * `提示词引导系数` `4`
+    * `生成`
+      * `MeinaHentai`
+![](2023-10-24/grid-0158.png)
   * `炼银术`
     ```
     (beautiful detailed girl), 1girl, solo, bare shoulders, flat chest, diamonds and dazzling eyes, beautiful detailed cold face, very long blue and silver hair, floating black feathers, wavy hair, black and white sleeves, gold and silver fringes, a (black hole) behind the girl, a silver triple crown inlaid with obsidian, (sit) on the black (throne:1.21), (depth) of (field),
