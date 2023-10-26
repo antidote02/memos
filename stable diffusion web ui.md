@@ -177,7 +177,7 @@
   * `文生图`
     * `正向提示词`
       ```
-      (masterpiece:1.21), (best quality:1.33), (ultra detailed:1.21), (illustration:1.21), (disheveled hair:1.21), <lora:add_detail:2>, nsfw, pantyhose,
+      ((masterpiece)), (((best quality))), ((ultra detailed)), ((illustration)), ((disheveled hair)), <lora:add_detail:1>, nsfw, pantyhose,
       ```
     * `反向提示词`
       ```
