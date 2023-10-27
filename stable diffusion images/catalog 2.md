@@ -11,6 +11,30 @@
   negative_hand-neg, verybadimagenegative_v1.3, EasyNegativeV2, (worst quality, low quality:1.4), monochrome, (zombie), (interlocked fingers:1.2), extra monochrome, (sketch, comic), signature, logo, long body, lowres, bad anatomy, bad hands, text, error, missing fingers, extra digits, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, bad feet,
   ```
 * `元素魔法目录 - 续`
+  * `冰霜龙息`
+    ```
+    (detail light), (extremely delicate and beautiful), 1girl, solo, (beautiful detailed eyes), blue dragon eyes, (((vertical pupil))), two-tone hair:blue and white, shiny hair, colored inner hair, (blue dragon wings), blue hair ornament, ice adorns hair, [dragon horn], depth of field,
+    # 反向
+    missing arms, 2girls,
+    ```
+    * `采样方法` `DDIM`
+    * `迭代步数` `25`
+    * `提示词引导系数` `5`
+    * `生成`
+      * `MeinaHentai`
+![](2023-10-27/grid-0024.png)
+  * `飘花法`
+    ```
+    ((ink)), (watercolor), bloom effect, ((world masterpiece)), (white hair), (yellow eyes), (((1girl))), (beautiful detailed girl), ((extremely detailed eyes and face)), long hair, detailed, detailed beautiful grassland with petal, flower, butterfly, necklace, smile, petal, (silver bracelet), (((surrounded by a heavy stream of floating petals))),
+    # 反向
+    artist name, bad feet, skeleton girl,
+    ```
+    * `采样方法` `Euler a`
+    * `迭代步数` `50`
+    * `提示词引导系数` `4`
+    * `生成`
+      * `MeinaHentai`
+![](2023-10-27/grid-0021.png)
   * `金石法`
     ```
     hide hands, (magic circle), principal, ((gem)), elegant, (holy), extremely detailed 8k wallpaper, (painting), (((ink))), (depth of field), (highres), cinematic lighting, (watercolor), detailed shadow, (((1girl))), (detailed flood feet), (((((long top sleeves past fingers))))), ((motion)), beautiful detailed full body, (leg up), (((sapphire frills))), (((yokozuwari in a golden cage))), gold cage, (birdcage), {{{very long dress cover the feet}}}, {translucent lace flowy dress}, {{detailed skin}}, (((long bright wavy hair))), juliet sleeves, (((hands hidden in puffy sleeves))), ((bare shoulders)), flat chest, ((crystal shoes)), ((((arms behind back)))), (((extremely detailed and cute anime face))), jewelry decoration, ((expressionless)), (iridescent gem headwear), (beautiful and detailed gem eyes), ((melt silver and gold)), looking at viewer, {detail of bare feet}, obsidian bracelet, gold arm ring, (precious refraction), {splash}, {{optical phenomena}}, detailed glow, (lightroom), (shine), chain, reflective, gem ornaments, nebula cosmic background, ((silver thorns)), (the huge golden clock core above), gear, falling petals, window pane, beautiful water, colored crystal, mirror, silver frame, canopy, detailed diamond, (columnar crystal), latin cross bud, (sputtering broken glass from the inside out), (flow), dark,
