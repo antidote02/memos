@@ -49,10 +49,18 @@
   * 安装`Creative Cloud` [[adobe.com]](https://www.adobe.com/cn/lead/creativecloud/business.html)
     * 安装`Premiere Pro`
     * 安装`Media Encoder`
-      * 安装`Voukoder` [[voukoder.org]](https://www.voukoder.org/)
     * 安装`After Effects`
     * 安装`Photoshop`
-  * 下载`GenP` [[br0wsers.com]](https://br0wsers.com/blog/detail/a0icqnG3utkRdbPBlMkft95Qv-9964-18722.html)
+    * 插件
+      * 下载`Influx` [[lookae.com]](https://www.lookae.com/influx-125/)
+      * 安装`RE:Vision Effects` [[lookae.com]](`https://www.lookae.com/revisionfx-21-zh/`)
+      * 安装`Trapcode` [[lookae.com]](https://www.lookae.com/hjrtc18ch/)
+      * 安装`Sapphire` [[lookae.com]](https://www.lookae.com/sapphire-202302/)
+      * 安装`Universe` [[lookae.com]](https://www.lookae.com/universe-2023/)
+      * 安装`Voukoder` [[voukoder.org]](https://www.voukoder.org/)
+    * 预设
+      * 下载`Line Call Out Titles` [[lookae.com]](https://www.lookae.com/call-titles-pr/)
+    * 下载`GenP` [[br0wsers.com]](https://br0wsers.com/blog/detail/a0icqnG3utkRdbPBlMkft95Qv-9964-18722.html)
 * 虚拟机  
 `VMware Workstation Pro` [[mpyit.com]](https://mpyit.com/vmware17xx.html)
 * `GPT`
