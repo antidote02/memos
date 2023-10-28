@@ -11,9 +11,9 @@
   negative_hand-neg, verybadimagenegative_v1.3, EasyNegativeV2, (worst quality, low quality:1.4), monochrome, (zombie), (interlocked fingers:1.2), extra monochrome, (sketch, comic), signature, logo, long body, lowres, bad anatomy, bad hands, text, error, missing fingers, extra digits, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, bad feet,
   ```
 * `元素魔法目录 - 二点零`
-  * `彩墨法`
+  * `繁浮法`
     ```
-    colorful paintings, ((chinese colored ink)), (((chinese color ink painting style))), ((very precise and detailed)), (((a charming chinese girl, 1girl, solo, delicate beautiful face))), (floating), (amazing), (absurd), ((sharp focus)), ((extremely detailed)), ((high saturation)), (colorful ink splatters all around), ((extremely detailed body)), ((colorful)),
+    {{{ukiyo-e}}}, {{flat style}}, {simple colors}, {katsushika hokusai}, long hair, hair flower, {{black hair}}, red eyes, red sky, {chinoiserie}, kimono, maple leaves flying, {{1girl}}, {{{solo}}}, {{ extremely delicate and beautiful}}, blank stare, close to viewer, {breeze}, {flying splash}, {flying petals}, wind, {gorgeous and rich graphics},
     # 反向
     text font ui, blurred, bad shadow, 3d, 3d game, 3d game scene, 3d character, duplicate, strong girl, obesity, greyscale, lowers, qr code, barcode, censored, mosaic, excrement, faeces, shit,
     ```
