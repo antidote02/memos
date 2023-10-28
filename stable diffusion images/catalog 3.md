@@ -11,6 +11,19 @@
   negative_hand-neg, verybadimagenegative_v1.3, EasyNegativeV2, (worst quality, low quality:1.4), monochrome, (zombie), (interlocked fingers:1.2), extra monochrome, (sketch, comic), signature, logo, long body, lowres, bad anatomy, bad hands, text, error, missing fingers, extra digits, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, bad feet,
   ```
 * `元素魔法目录 - 二点零`
+  * `人像水墨法`
+    ```
+    (((((full body))))), (((((most detailed girl))))), (((1girl))), ((((black hair)))), (solo), ((extremely detailed)), ((detailed face)), ((((ink painting)))), ((chinese ink painting)), ((((ink dyeing)))), (((watercolor))), ((chinese brush painting)), (((extremely delicate and beautiful girl))), (((beautiful detailed eyes))), (cheongsam), (chinese style), ((red ink)), smile, ink background, long hair, beautiful detailed hair, petals, (((soaked))), ((((floating hair)))), (((the character is in the center of the screen))), (((flowing))),
+    # 反向
+    inverted mountain, flowers, grass, distorted mountain, distorted light, low quality light, low quality mountain, low quality illustration, low quality background, (((ugly))), (((duplicate))), ((morbid)), ((mutilated)), (((tranny))), mutated hands, (((poorly drawn hands))), (((bad proportions))), extra limbs, cloned face, (((disfigured))), (((more than 2 nipples))), ((((missing arms)))), (((extra legs))), (((((fused fingers))))), (((((too many fingers))))), (((unclear eyes))), text font ui, malformed hands, long neck, missing limb, (mutated hands and finger:1.5), (mutation poorly drawn:1.2), malformed mutated, multiple breasts, futa, yaoi,
+    ```
+    * `采样方法` `Euler a`
+    * `迭代步数` `30`
+    * `提示词引导系数` `7`
+    * `生成`
+      * `MeinaHentai`
+![](2023-10-29/grid-0027.png)
+![](2023-10-29/grid-0026.png)
   * `太空兔`
     ```
     1girl, aqua theme, black hair, blink, blue jacket, book, bookshelf, closed mouth, colored tips, constellation, flat color, hold, holding wand, jacket, looking up, lying, male focus, multicolored hair, no lineart, orange hair, orbital path, planet, shirt, short hair, sitting, solo, space, space station, spacecraft interior, star wand, stuffed animal, stuffed bunny, stuffed toy, telescope, utaite (singer), wand, white footwear, white shirt,

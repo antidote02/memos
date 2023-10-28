@@ -104,6 +104,10 @@
       ```
       <lora:cowgirl_with_hands_on_knees_v1.0:1>, pov, astride,
       ```
+    * `Doggystyle (Side View)` [[civitai.com]](https://civitai.com/models/28360)
+      ```
+      <lora:EkuneSideDoggy:1>, sidedoggystyle, 1boy, ass, doggystyle, sex,
+      ```
     * `Ass On Glass` [[civitai.com]](https://civitai.com/models/19295)
       ```
       <lora:Ass On Glass:0.8>, ass on glass,
@@ -124,6 +128,11 @@
     * `Bondage Suspension` [[civitai.com]](https://civitai.com/models/8762)
       ```
       <lora:suspension:1>, suspension, spread legs, rope, shibari,
+      ```
+    * `Milking machine` [[civitai.com]](https://civitai.com/models/8500)
+      ```
+      <lora:milking_machine:1>, milking machine,
+      nipples, lactation, leaning forward,
       ```
     * `POV Doggystyle` [[civitai.com]](https://civitai.com/models/8723)
       ```
