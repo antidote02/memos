@@ -11,18 +11,64 @@
   negative_hand-neg, verybadimagenegative_v1.3, EasyNegativeV2, (worst quality, low quality:1.4), monochrome, (zombie), (interlocked fingers:1.2), extra monochrome, (sketch, comic), signature, logo, long body, lowres, bad anatomy, bad hands, text, error, missing fingers, extra digits, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, bad feet,
   ```
 * `元素魔法目录 - 二点零`
+  * `太空兔`
+    ```
+    1girl, aqua theme, black hair, blink, blue jacket, book, bookshelf, closed mouth, colored tips, constellation, flat color, hold, holding wand, jacket, looking up, lying, male focus, multicolored hair, no lineart, orange hair, orbital path, planet, shirt, short hair, sitting, solo, space, space station, spacecraft interior, star wand, stuffed animal, stuffed bunny, stuffed toy, telescope, utaite (singer), wand, white footwear, white shirt,
+    # 反向
+    missing arms, long neck, humpbacked,
+    ```
+    * `采样方法` `DPM++ SDE Karras`
+    * `迭代步数` `30`
+    * `提示词引导系数` `5.5`
+    * `生成`
+      * `MeinaHentai`
+![](2023-10-29/grid-0025.png)
+  * `跑团法`
+    ```
+    (highly detailed), (impasto), intricate, church painting, (((1girl))), painting frame, fantasy, delicate grassland, sorceress, shepherd long white hair, red dragon eyes, white dress, (pretty face), beautiful detailed face, extremely delicate and beautiful girl, alps, evergreen coniferous forest, clear sky, wind, beautiful sky, cumulus,
+    # 反向
+    realistic, 3d, (large breasts), blush, long neck, bad arms, multiple people, animals, missing legs, huge person,
+    ```
+    * `采样方法` `DDIM`
+    * `迭代步数` `42`
+    * `提示词引导系数` `7`
+    * `生成`
+      * `MeinaHentai`
+![](2023-10-29/grid-0020.png)
+  * `古典肖像法`
+    ```
+    ((oil painting\(medium\))), ((impasto)), highres, (beautiful detailed), classicism, rembrandt lighting, brown background, detailed face, sit on the chair, (portrait), picture frame,
+    # 反向
+    artist name, blurred, poorly drawn face, extra fingers, fused fingers, abnormal fingers,  fused hands, ugly,
+    ```
+    * `采样方法` `Euler a`
+    * `迭代步数` `20`
+    * `提示词引导系数` `7`
+    * `生成`
+      * `MeinaHentai`
+![](2023-10-29/grid-0014.png)
+  * `半厚涂`
+    ```
+    (((extremely detailed))), (((colorful))), solo, 1girl, breeze, cinematic lighting, vest, ((fasle impasto paintings)), gradient eyes, beautiful detailed sky, watercolor, ambient light,
+    ```
+    * `采样方法` `DDIM`
+    * `迭代步数` `40`
+    * `提示词引导系数` `4`
+    * `生成`
+      * `MeinaHentai`
+![](2023-10-29/grid-0012.png)
   * `繁浮法`
     ```
-    {{{ukiyo-e}}}, {{flat style}}, {simple colors}, {katsushika hokusai}, long hair, hair flower, {{black hair}}, red eyes, red sky, {chinoiserie}, kimono, maple leaves flying, {{1girl}}, {{{solo}}}, {{ extremely delicate and beautiful}}, blank stare, close to viewer, {breeze}, {flying splash}, {flying petals}, wind, {gorgeous and rich graphics},
+    {{{ukiyo-e style}}}, {{flat style}}, {simple colors}, {katsushika hokusai\(fate\}, long hair, hair flower, {{black hair}}, red eyes, red sky, {chinoiserie}, kimono, maple leaves flying, {{1girl}}, {{{solo}}}, {{ extremely delicate and beautiful}}, blank stare, close to viewer, {breeze}, {flying splash}, {flying petals}, wind, {gorgeous and rich graphics},
     # 反向
-    text font ui, blurred, bad shadow, 3d, 3d game, 3d game scene, 3d character, duplicate, strong girl, obesity, greyscale, lowers, qr code, barcode, censored, mosaic, excrement, faeces, shit,
+    multiple breasts, no characters, (mutated hands and fingers:1.5), (mutation, poorly drawn :1.2), greyscale, liquid body, liquid tongue, disfigured, malformed, mutated, anatomical nonsense, text font ui, malformed hands, long neck, blurred, lowers, bad proportions, bad shadow, uncoordinated body, unnatural body, fused breasts, bad breasts, huge breasts, poorly drawn breasts, extra breasts, liquid breasts, heavy breasts, missing breasts, huge haunch, huge thighs, huge calf, fused hand, missing hand, disappearing arms, disappearing thighs, disappearing calf, disappearing legs, fused ears, bad ears, poorly drawn ears, extra ears, liquid ears, heavy ears, missing ears, fused animal ears, bad animal ears, poorly drawn animal ears, extra animal ears, liquid animal ears, heavy animal ears, missing animal ears, ui, missing limb, fused fingers, a hand with more than 5 fingers, hands with fewer than 5 fingers, 1 hand has more than 5 digits, less than 5 digits on one hand, fused digits, missing digits, bad digits, liquid digits, colorful tongue, black tongue,
     ```
-    * `采样方法` `Euler`
-    * `迭代步数` `40`
+    * `采样方法` `DDIM`
+    * `迭代步数` `50`
     * `提示词引导系数` `8`
     * `生成`
       * `MeinaHentai`
-
+![](2023-10-29/grid-0002.png)
   * `彩墨法`
     ```
     colorful paintings, ((chinese colored ink)), (((chinese color ink painting style))), ((very precise and detailed)), (((a charming chinese girl, 1girl, solo, delicate beautiful face))), (floating), (amazing), (absurd), ((sharp focus)), ((extremely detailed)), ((high saturation)), (colorful ink splatters all around), ((extremely detailed body)), ((colorful)),
