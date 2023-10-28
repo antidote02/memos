@@ -61,6 +61,7 @@
     * 预设
       * 下载`Line Call Out Titles` [[lookae.com]](https://www.lookae.com/call-titles-pr/)
     * 下载`GenP` [[br0wsers.com]](https://br0wsers.com/blog/detail/a0icqnG3utkRdbPBlMkft95Qv-9964-18722.html)
+  * `Maxon Cinema 4D` [[qijishow.com]](https://www.qijishow.com/down/Cinema%204D.html)
 * 虚拟机  
 `VMware Workstation Pro` [[mpyit.com]](https://mpyit.com/vmware17xx.html)
 * `GPT`
