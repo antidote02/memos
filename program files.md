@@ -42,7 +42,6 @@
   * 安装`纯纯写作` [[writer.drakeet.com]](https://writer.drakeet.com/)
   * 安装`腾讯文档` [[docs.qq.com]](https://docs.qq.com/desktop)
 * 后期
-  * 下载`M3u8下载器 H` [[github.com]](https://github.com/Harlan-H/M3u8Downloader_H/releases)
   * 安装`OBS` [[obsproject.com]](https://obsproject.com/download)
   * 下载`Bandicam` [[mpyit.com]](https://mpyit.com/bandicam6.html)
   * 安装`哔哩哔哩直播姬` [[live.bilibili.com]](https://live.bilibili.com/liveHime/)
