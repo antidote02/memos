@@ -50,13 +50,21 @@
     * 安装`Premiere Pro`
     * 安装`Media Encoder`
     * 安装`After Effects`
+      * `编辑`
+        * `首选项`
+          * `脚本和表达式`
+            * `应用程序脚本`
+              * `允许脚本写入文件并访问网络`
     * 安装`Photoshop`
     * 插件
-      * 下载`Influx` [[lookae.com]](https://www.lookae.com/influx-125/)
       * 安装`RE:Vision Effects` [[lookae.com]](`https://www.lookae.com/revisionfx-21-zh/`)
-      * 安装`Trapcode` [[lookae.com]](https://www.lookae.com/hjrtc18ch/)
       * 安装`Sapphire` [[lookae.com]](https://www.lookae.com/sapphire-202302/)
+      * 安装`Trapcode` [[lookae.com]](https://www.lookae.com/hjrtc18ch/)
+      * 安装`FilmImpact Premium Video Transitions` [[lookae.com]](https://www.lookae.com/filmimpact-496/)
+      * 下载`Influx` [[lookae.com]](https://www.lookae.com/influx-125/)
       * 安装`Universe` [[lookae.com]](https://www.lookae.com/universe-2023/)
+      * 安装`SpeedX` [[lookae.com]](https://www.lookae.com/speedx-113/)
+      * 安装`Twitch` [[lookae.com]](https://www.lookae.com/twitch/)
       * 安装`Voukoder` [[voukoder.org]](https://www.voukoder.org/)
     * 预设
       * 下载`Line Call Out Titles` [[lookae.com]](https://www.lookae.com/call-titles-pr/)
