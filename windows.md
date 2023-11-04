@@ -125,6 +125,15 @@
 * 下载`Office Tools Plus` [[github.com]](https://github.com/YerongAI/Office-Tool/releases/)
   * 安装`.Net 6` [[dotnet.microsoft.com]](https://dotnet.microsoft.com/zh-cn/download/dotnet/6.0)
   * 安装`Office 365`
+    * 安装`Word`
+    * 安装`PowerPoint`
+    * 安装`Excel`
+      * `选项`
+        * `辅助功能`
+          * `反馈选项`
+            * `提供声音反馈`
+              * `声音方案：`  
+                `现代`
 * 下载`HEU KMS Activator` [[github.com]](https://github.com/zbezj/HEU_KMS_Activator/releases)
 * 下载`TrafficMonitor` [[github.com]](https://github.com/zhongyang219/TrafficMonitor/actions)
 * [程序](./program%20files.md)
