@@ -44,6 +44,10 @@
     * 安装`XShell` [[xshell.com]](https://www.xshell.com/zh/xshell/)
     * 安装`XFTP` [[xshell.com]](https://www.xshell.com/zh/xftp/)
 * 文本
+  * 安装字体
+    * `Montserrat` [[fonts.google.com]](https://fonts.google.com/specimen/Montserrat)
+    * `RocknRoll One` [[fonts.google.com]](https://fonts.google.com/specimen/RocknRoll+One)
+    * `Dalek Pinpoint` [[1001fonts.com]](https://www.1001fonts.com/dalek-pinpoint-font.html)
   * 安装`石墨文档` [[shimo.im]](https://shimo.im/download)
   * 安装`纯纯写作` [[writer.drakeet.com]](https://writer.drakeet.com/)
   * 安装`腾讯文档` [[docs.qq.com]](https://docs.qq.com/desktop)
