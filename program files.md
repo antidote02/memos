@@ -66,15 +66,17 @@
       * 安装`Voukoder` [[voukoder.org]](https://www.voukoder.org/)
         * 下载`Line Call Out Titles` [[lookae.com]](https://www.lookae.com/call-titles-pr/) $_{2021/06/08}$
       * 安装`RE:Vision Effects` [[lookae.com]](https://www.lookae.com/revisionfx-21-zh/) $_{2023/10/24}$
+      * 安装`Continuum` [[lookae.com]](https://www.lookae.com/bcc-1652/) $_{2023/10/05}$
       * 安装`Sapphire` [[lookae.com]](https://www.lookae.com/sapphire-202352/) $_{2023/09/05}$
       * 安装`Trapcode` [[lookae.com]](https://www.lookae.com/hjrtc18ch/) $_{2023/07/23}$
       * 安装`FilmImpact Premium Video Transitions` [[lookae.com]](https://www.lookae.com/filmimpact-496/) $_{2023/07/20}$
       * 安装`SpeedX` [[lookae.com]](https://www.lookae.com/speedx-113/) $_{2022/06/27}$
       * 下载`Influx` [[lookae.com]](https://www.lookae.com/influx-125/) $_{2023/05/22}$
       * 安装`Universe` [[lookae.com]](https://www.lookae.com/universe-2023/) $_{2023/05/07}$
+      * 安装`FX Console` [[lookae.com]](https://www.lookae.com/fxconsole-105/) $_{2019/12/26}$
       * 安装`Twitch` [[lookae.com]](https://www.lookae.com/twitch/) $_{2013/09/17}$
     * 预设
-      * ？ CINEPUNCH https://www.lookae.com/cinepunch-22/
+      * 下载`CINEPUNCH` [[lookae.com]](https://www.lookae.com/cinepunch-22/)
     * 下载`GenP` [[br0wsers.com]](https://br0wsers.com/blog/detail/a0icqnG3utkRdbPBlMkft95Qv-9964-18722.html)
   * `Maxon Cinema 4D` [[qijishow.com]](https://www.qijishow.com/down/Cinema%204D.html)
 * 虚拟机  
