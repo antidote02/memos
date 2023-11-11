@@ -67,7 +67,6 @@
     * 安装`Photoshop`
     * 插件
       * 下载`Motion Factory` [[cgzy.net]](https://www.cgzy.net/4952.html)
-      * 安装`Voukoder` [[voukoder.org]](https://www.voukoder.org/)
         * 下载`Line Call Out Titles` [[lookae.com]](https://www.lookae.com/call-titles-pr/) $_{2021/06/08}$
       * 安装`RE:Vision Effects` [[lookae.com]](https://www.lookae.com/revisionfx-21-zh/) $_{2023/10/24}$
       * 安装`Continuum` [[lookae.com]](https://www.lookae.com/bcc-1652/) $_{2023/10/05}$
@@ -81,6 +80,34 @@
       * 安装`SpeedX` [[lookae.com]](https://www.lookae.com/speedx-113/) $_{2022/06/27}$
       * 安装`FX Console` [[lookae.com]](https://www.lookae.com/fxconsole-105/) $_{2019/12/26}$
       * 安装`Twitch` [[lookae.com]](https://www.lookae.com/twitch/) $_{2013/09/17}$
+      * 安装`Voukoder` [[voukoder.org]](https://www.voukoder.org/)
+        * `视频`
+          * `编码器`
+            * `编解码器`
+              * `HEVC (NVIDIA NVENC)`
+            * `预设`
+              * `Good Quality`
+          * `选项`  
+            标准||
+            :-|:-
+            预设|最低
+            编码器模式|可编码率
+            码率|7000
+            最大码率|512000
+            缓冲区大小|512000
+            Tune|无损的
+        * `音频`
+          * `编码器`
+            * `编解码器`
+              * `AAC`
+          * `选项`
+            * `标准`
+              * `配置文件`
+                * `主要`
+        * `输出`
+          * `容器`
+            * `MPEG-4`
+            * `启用快速启动`
     * 预设
       * 下载`CINEPUNCH` [[lookae.com]](https://www.lookae.com/cinepunch-22/)
     * 下载`GenP` [[br0wsers.com]](https://br0wsers.com/blog/detail/a0icqnG3utkRdbPBlMkft95Qv-9964-18722.html)
