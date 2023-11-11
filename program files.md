@@ -74,9 +74,11 @@
       * 安装`Sapphire` [[lookae.com]](https://www.lookae.com/sapphire-202352/) $_{2023/09/05}$
       * 安装`Trapcode` [[lookae.com]](https://www.lookae.com/hjrtc18ch/) $_{2023/07/23}$
       * 安装`FilmImpact Premium Video Transitions` [[lookae.com]](https://www.lookae.com/filmimpact-496/) $_{2023/07/20}$
-      * 安装`SpeedX` [[lookae.com]](https://www.lookae.com/speedx-113/) $_{2022/06/27}$
+      * 下载`Motion` [[lookae.com]](https://www.lookae.com/motion-v412/) $_{2023/06/12}$
       * 下载`Influx` [[lookae.com]](https://www.lookae.com/influx-125/) $_{2023/05/22}$
       * 安装`Universe` [[lookae.com]](https://www.lookae.com/universe-2023/) $_{2023/05/07}$
+      * 安装`Magic Bullet` [[lookae.com]](https://www.lookae.com/mbs-202321/) $_{2023/05/07}$
+      * 安装`SpeedX` [[lookae.com]](https://www.lookae.com/speedx-113/) $_{2022/06/27}$
       * 安装`FX Console` [[lookae.com]](https://www.lookae.com/fxconsole-105/) $_{2019/12/26}$
       * 安装`Twitch` [[lookae.com]](https://www.lookae.com/twitch/) $_{2013/09/17}$
     * 预设

@@ -90,6 +90,11 @@
     * 下载`自动关闭Hyper-V/VBS` [[mumu.163.com]](https://mumu.163.com/help/20210511/35041_946700.html#a3)
     * 安装`明日方舟` [[ak.hypergryph.com]](https://ak.hypergryph.com/)
     * 下载`Maa` [[github.com]](https://github.com/MaaAssistantArknights/MaaRelease/releases)
+      * `一键长草`
+        * `刷理智`
+          * `高级设置`
+            * `企鹅物流汇报ID`  
+              `906404004`
     * 下载`MaaX` [[github.com]](https://github.com/MaaAssistantArknights/MaaX/releases)
   * 安装`无主之地3` [[store.steampowered.com]](https://store.steampowered.com/app/397540/3/)
       * `基础`
