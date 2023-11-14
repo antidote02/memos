@@ -12,6 +12,7 @@
 * 游戏
   * 下载`WeMod` [[wemod.com]](https://www.wemod.com/zh)
   * 安装`特战英豪` [[playvalorant.com]](https://playvalorant.com/zh-tw/download/)
+    * 安装`Valorant Tracker` (https://tracker.gg/valorant/app)
   * 安装`CS 2` [[store.steampowered.com]](https://store.steampowered.com/app/730/CounterStrike_2/)
     * `禁用全屏优化`
     * 平台
