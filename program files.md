@@ -43,6 +43,8 @@
     * 安装`FinalShell` [[hostbuf.com]](https://www.hostbuf.com/t/988.html)
     * 安装`XShell` [[xshell.com]](https://www.xshell.com/zh/xshell/)
     * 安装`XFTP` [[xshell.com]](https://www.xshell.com/zh/xftp/)
+  * `远程桌面连接`
+    * 安装`ToDesk` [[todesk.com]](https://www.todesk.com/download.html)
 * 文本
   * 安装字体
     * `Montserrat` [[fonts.google.com]](https://fonts.google.com/specimen/Montserrat)
@@ -54,6 +56,7 @@
 * 后期
   * 安装`OBS` [[obsproject.com]](https://obsproject.com/download)
   * 下载`Bandicam` [[mpyit.com]](https://mpyit.com/bandicam6.html)
+  * 安装`直播伴侣` [[streamingtool.douyin.com]](https://streamingtool.douyin.com/)
   * 安装`哔哩哔哩直播姬` [[live.bilibili.com]](https://live.bilibili.com/liveHime/)
   * 安装`Creative Cloud` [[adobe.com]](https://www.adobe.com/cn/lead/creativecloud/business.html)
     * 安装`Premiere Pro`
@@ -73,6 +76,7 @@
       * 安装`Continuum` [[lookae.com]](https://www.lookae.com/bcc-1652/) $_{2023/10/05}$
       * 安装`Sapphire` [[lookae.com]](https://www.lookae.com/sapphire-202352/) $_{2023/09/05}$
       * 安装`Trapcode` [[lookae.com]](https://www.lookae.com/hjrtc18ch/) $_{2023/07/23}$
+        * `Trapcode 15.1.8` [[lookae.com]](https://www.lookae.com/trapcode-ch/) $_{2020/06/22}$
       * 安装`FilmImpact Premium Video Transitions` [[lookae.com]](https://www.lookae.com/filmimpact-496/) $_{2023/07/20}$
       * 下载`Motion` [[lookae.com]](https://www.lookae.com/motion-v412/) $_{2023/06/12}$
       * 下载`Influx` [[lookae.com]](https://www.lookae.com/influx-125/) $_{2023/05/22}$
