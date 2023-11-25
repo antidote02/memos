@@ -83,6 +83,7 @@
       * 安装`Universe` [[lookae.com]](https://www.lookae.com/universe-2023/) $_{2023/05/07}$
       * 安装`Magic Bullet` [[lookae.com]](https://www.lookae.com/mbs-202321/) $_{2023/05/07}$
       * 安装`Signal` [[lookae.com]](https://www.lookae.com/signal-122/) $_{2022/11/29}$
+      * 安装`Optical Flares` [[lookae.com]](https://www.lookae.com/of-138/) $_{2022/06/28}$
       * 安装`SpeedX` [[lookae.com]](https://www.lookae.com/speedx-113/) $_{2022/06/27}$
       * 安装`FX Console` [[lookae.com]](https://www.lookae.com/fxconsole-105/) $_{2019/12/26}$
       * 安装`Twitch` [[lookae.com]](https://www.lookae.com/twitch/) $_{2013/09/17}$
