@@ -58,6 +58,8 @@
   * 下载`Bandicam` [[mpyit.com]](https://mpyit.com/bandicam6.html)
   * 安装`直播伴侣` [[streamingtool.douyin.com]](https://streamingtool.douyin.com/)
   * 安装`哔哩哔哩直播姬` [[live.bilibili.com]](https://live.bilibili.com/liveHime/)
+  * 安装`HandBrake` [[handbrake.fr]](https://handbrake.fr/)
+  * 安装`ShanaEncoder` [[shana.pe.kr]](https://shana.pe.kr/shanaencoder_download)
   * 安装`Creative Cloud` [[adobe.com]](https://www.adobe.com/cn/lead/creativecloud/business.html)
     * 安装`Premiere Pro`
     * 安装`Media Encoder`
