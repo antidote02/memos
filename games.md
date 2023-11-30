@@ -4,6 +4,7 @@
   * `小黑盒加速器` 
   * `网易UU加速器` [[uu.163.com]](https://uu.163.com/)
 * 平台
+  * 安装`Watt Toolkit` [[steampp.net]](https://steampp.net/)
   * 安装`Steam` [[store.steampowered.com]](https://store.steampowered.com/about)
   * 安装`EA` [[ea.com]](https://www.ea.com/zh-tw/ea-app)
   * 安装`Epic` [[store.epicgames.com]](https://store.epicgames.com/zh-CN/)
