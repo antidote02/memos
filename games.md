@@ -1,7 +1,7 @@
 ### ❤游戏❤
 * 安装加速器
   * `游侠加速器` [[jsq.ali213.net]](https://jsq.ali213.net/home)
-  * `小黑盒加速器` 
+  * `小黑盒加速器` [[acc.xiaoheihe.cn]](https://acc.xiaoheihe.cn/pc)
   * `网易UU加速器` [[uu.163.com]](https://uu.163.com/)
 * 平台
   * 安装`Watt Toolkit` [[steampp.net]](https://steampp.net/)
