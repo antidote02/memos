@@ -92,6 +92,7 @@
     * 下载`自动关闭Hyper-V/VBS` [[mumu.163.com]](https://mumu.163.com/help/20210511/35041_946700.html#a3)
     * 安装`明日方舟` [[ak.hypergryph.com]](https://ak.hypergryph.com/)
     * 下载`Maa` [[github.com]](https://github.com/MaaAssistantArknights/MaaRelease/releases)
+      * 安装`.Net 8` [[dotnet.microsoft.com]](https://dotnet.microsoft.com/zh-cn/download/dotnet/8.0)
       * `一键长草`
         * `刷理智`
           * `高级设置`
