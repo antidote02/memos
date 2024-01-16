@@ -15,15 +15,19 @@
       * `Windows 安全中心`
         * 下载`WDControl` [[landiannews.com]](https://www.landiannews.com/download/93513.html)
   * `Windows 更新`/`Microsoft Store`
-    * 安装`Clash for Windows` [[github.com]](https://github.com/Fndroid/clash_for_windows_pkg/releases)
-      * 安装`Clash Chinese Path` [[github.com]](https://github.com/BoyceLig/Clash_Chinese_Patch/releases)
-      * 启动`UWP应用网络回环`
-      * 安装`服务模式`
-      * 开启`TUN模式`/`系统代理`/`开机启动`
+    * 安装`Clash Verge` [[github.com]](https://github.com/zzzgydi/clash-verge)
+      * `Settings` `Verge Setting` `Language` `中文`
+      * `设置`
+        * `Clash 设置`
+          * `IPv6`
+          * `Clash 内核` `Clash Meta`
+        * `系统设置`
+          * `服务模式` `INSTALL`
+          * `开机自启`
+          * `静默启动`
     * 更新`Windows更新`/`Microsoft Store`
       * 安装[终端预览](./terminal.md)
       * 安装`AV1 Video Extension` [[apps.microsoft.com]](https://apps.microsoft.com/store/detail/av1-video-extension/9MVZQVXJBQ9V)
-    * 关闭`Clash for Windows` `系统代理`
 * 安装浏览器
   * 下载`Bye Bye Edge` [[github.com]](https://github.com/ShadowWhisperer/Remove-MS-Edge)
   * 浏览器
@@ -70,7 +74,7 @@
     * `B站下载助手` [[csser.top]](https://csser.top/)
     * `购物党自动比价助手` [[chromewebstore.google.com]](https://chromewebstore.google.com/detail/%E8%B4%AD%E7%89%A9%E5%85%9A%E8%87%AA%E5%8A%A8%E6%AF%94%E4%BB%B7%E5%B7%A5%E5%85%B7/jgphnjokjhjlcnnajmfjlacjnjkhleah)
     * `SteamDB` [[chromewebstore.google.com]](https://chromewebstore.google.com/detail/steamdb/kdbmhfkmnlmbkgbabkdealhhbfhlmmon)
-* 安装`Bandizip` [[bandisoft.com]](http://www.bandisoft.com/bandizip/dl/)
+* 安装`Bandizip` [[bandisoft.com]](https://www.bandisoft.com/bandizip/)
 * 下载`Geek` [[geekuninstaller.com]](https://geekuninstaller.com/)
 * 安装`搜狗输入法` [[shurufa.sogou.com]](https://shurufa.sogou.com/)
 * 安装驱动
