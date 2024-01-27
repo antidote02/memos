@@ -92,7 +92,7 @@
   `C:\Users\Administrator\Desktop\frp_0.53.2_windows_amd64`
 * 运行`frps.cmd`
   `C:\Users\Administrator\Desktop\frp_0.53.2_windows_amd64\frps.cmd`
-
+#### 命令
 * 运行`幻兽帕鲁`
   * `Commands`
     * Show information on all connected players.
