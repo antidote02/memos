@@ -114,6 +114,7 @@
               :-|:-
               电源管理模式|使用全局设置
         * `配置 Surround、PhysX`
+  * `Nvidia Broadcast` [[nvidia.cn]](https://www.nvidia.cn/geforce/broadcasting/broadcast-app/)
   * `Afterburner` [[tw.msi.com]](https://tw.msi.com/Landing/afterburner/graphics-cards)
   * `DDU` [[wagnardsoft.com]](https://www.wagnardsoft.com/display-driver-uninstaller-DDU)
   * `Armoury Crate` [[apps.microsoft.com]](https://apps.microsoft.com/store/detail/armoury-crate/9PM9DFQRDH3F)
