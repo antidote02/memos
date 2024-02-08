@@ -23,6 +23,8 @@
   * 安装`哔哩哔哩` [[app.bilibili.com]](https://app.bilibili.com/)
   * 安装`抖音` [[douyin.com]](https://www.douyin.com/)
   * 安装`虎牙` [[huya.com]](https://www.huya.com/download/)
+  * 安装`弹弹play` [[dandanplay.com]](https://www.dandanplay.com/)
+    * [资源](acg.md)
 * 网盘
   * 安装
   * 安装`RaiDrive` [[raidrive.com]](https://www.raidrive.com/)
