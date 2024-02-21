@@ -39,6 +39,7 @@
       * 实验 `edge://flags/#enable-parallel-downloading`
   * `Neat Download Manager` [[neatdownloadmanager.com]](http://www.neatdownloadmanager.com/index.php/en/)
   * `qBittorrent Enhanced Edition` [[github.com]](https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases)
+  * `PikPak` [[mypikpak.com]](https://mypikpak.com/zh-CN/desktop-app)
     * 设置`Trackers` [[trackerslist.com]](https://trackerslist.com/#/zh)
   * 安装扩展 [[crxdl.com]](https://crxdl.com/)
     * `Adblock Plus` [[chromewebstore.google.com]](https://chromewebstore.google.com/detail/adblock-plus-%E5%85%8D%E8%B4%B9%E7%9A%84%E5%B9%BF%E5%91%8A%E6%8B%A6%E6%88%AA%E5%99%A8/cfhdojbkjhnklbpkdaibdccddilifddb)
