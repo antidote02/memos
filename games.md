@@ -99,6 +99,8 @@
             * `企鹅物流汇报ID`  
               `906404004`
     * 下载`MaaX` [[github.com]](https://github.com/MaaAssistantArknights/MaaX/releases)
+  * 安装`双人成行` [[store.steampowered.com]](https://store.steampowered.com/app/1426210/_/)
+    * 下载`KeyboardSplitterXbox` [[github.com]](https://github.com/djlastnight/KeyboardSplitterXbox/releases)
   * 安装`无主之地3` [[store.steampowered.com]](https://store.steampowered.com/app/397540/3/)
       * `基础`
         * `图形API` `DirectX 12`
