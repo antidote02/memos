@@ -24,6 +24,7 @@
           * `服务模式` `INSTALL`
           * `开机自启`
           * `静默启动`
+    * 下载`HEU KMS Activator` [[github.com]](https://github.com/zbezj/HEU_KMS_Activator/releases)
     * 更新`Windows更新`/`Microsoft Store`
       * 安装[终端预览](./terminal.md)
       * 安装`AV1 Video Extension` [[apps.microsoft.com]](https://apps.microsoft.com/store/detail/av1-video-extension/9MVZQVXJBQ9V)
@@ -142,7 +143,6 @@
             * `提供声音反馈`
               * `声音方案：`  
                 `现代`
-* 下载`HEU KMS Activator` [[github.com]](https://github.com/zbezj/HEU_KMS_Activator/releases)
 * 下载`TrafficMonitor` [[github.com]](https://github.com/zhongyang219/TrafficMonitor/actions)
 * [程序](./program%20files.md)
   * 安装[AList](./alist.md)
