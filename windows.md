@@ -1,12 +1,12 @@
 ### `Windows`食用指南
-* 安装`FirPE`[[firpe.cn]](https://firpe.cn/page-247)
+* 安装`HotPE`[[down.hotpe.top]](https://down.hotpe.top/)
   * 安装`Windows` [[msdn.sjjzm.com]](https://msdn.sjjzm.com/win11.html)
   * `控制中心`设置`防火墙`/`电源选项`/`鼠标`
   * 设置
     * `系统`
-      * `屏幕` `显示卡`
+      * `屏幕` `相关设置` `显示卡` `更改默认图形设置`
+        * `硬件加速 GPU 计划` `关`
         * `窗口化游戏优化` `关`
-        * `高级图形设置` `硬件加速 GPU 计划` `关`
       * `远程桌面` `开`
         * `要求设备使用网络级别身份验证连接` `关`
     * `游戏`
