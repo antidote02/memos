@@ -83,8 +83,8 @@
 * 安装驱动
   * `英特尔驱动程序和支持助理` [[intel.cn]](https://www.intel.cn/content/www/cn/zh/support/intel-driver-support-assistant.html)
   * `Intel XTU`
-  * `GFE` [[nvidia.cn]](https://www.nvidia.cn/geforce/geforce-experience/)
-    * `Nvidia 控制面板`
+  * `NVIDIA` [[nvidia.cn]](https://www.nvidia.cn/software/nvidia-app/)
+    * `NVIDIA 控制面板`
       * `桌面` `启用开发者设置`
         * `开发者` `允许所有用户访问 GPU 性能计数器`
         * `通过预览调整图像设置` `使用“高级 3D 图像”设置`
