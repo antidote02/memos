@@ -11,8 +11,7 @@
         * `要求设备使用网络级别身份验证连接` `关`
     * `游戏`
       `游戏模式` `关`
-    * `隐私和安全性` `Windows 安全中心`
-      * `病毒和威胁防护` `“病毒和威胁防护”设置` `关`
+    * `隐私和安全性` `Windows 安全中心` `病毒和威胁防护` `“病毒和威胁防护”设置` `关`
         * 下载`WDControl` [[landiannews.com]](https://www.landiannews.com/download/93513.html)
   * `Windows 更新`/`Microsoft Store`
     * 安装`Clash Verge` [[github.com]](https://github.com/zzzgydi/clash-verge)
