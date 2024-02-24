@@ -14,16 +14,20 @@
     * `隐私和安全性` `Windows 安全中心` `病毒和威胁防护` `“病毒和威胁防护”设置` `关`
         * 下载`WDControl` [[landiannews.com]](https://www.landiannews.com/download/93513.html)
   * `Windows 更新`/`Microsoft Store`
-    * 安装`Clash Verge` [[github.com]](https://github.com/zzzgydi/clash-verge)
-      * `Settings` `Verge Setting` `Language` `中文`
+    * 安装`Clash Verge` [[github.com]](https://github.com/clash-verge-rev/clash-verge-rev/releases)
+      * `订阅` `导入`
       * `设置`
-        * `Clash 设置`
-          * `IPv6`
-          * `Clash 内核` `Clash Meta`
         * `系统设置`
           * `服务模式` `INSTALL`
           * `开机自启`
           * `静默启动`
+        * `Clash 设置`
+          * `局域网连接`
+          * `IPv6`
+          * `端口设置` `7890`
+          * `Clash 内核` `Clash Meta Alpha`
+            * `升级内核`
+          * `更新 GeoData`
     * 下载`HEU KMS Activator` [[github.com]](https://github.com/zbezj/HEU_KMS_Activator/releases)
     * 更新`Windows更新`/`Microsoft Store`
       * 安装[终端预览](./terminal.md)
