@@ -12,6 +12,7 @@
     * `游戏`
       `游戏模式` `关`
     * `隐私和安全性` `Windows 安全中心` `病毒和威胁防护` `“病毒和威胁防护”设置` `关`
+        * 安装`Bandizip` [[bandisoft.com]](https://www.bandisoft.com/bandizip/)
         * 下载`WDControl` [[landiannews.com]](https://www.landiannews.com/download/93513.html)
   * `Windows 更新`/`Microsoft Store`
     * 安装`Clash Verge` [[github.com]](https://github.com/clash-verge-rev/clash-verge-rev/releases)
@@ -33,15 +34,15 @@
       * 安装[终端预览](./terminal.md)
       * 安装`AV1 Video Extension` [[apps.microsoft.com]](https://apps.microsoft.com/store/detail/av1-video-extension/9MVZQVXJBQ9V)
 * 安装浏览器
-  * 下载`Bye Bye Edge` [[github.com]](https://github.com/ShadowWhisperer/Remove-MS-Edge)
+  * 安装`Neat Download Manager` [[neatdownloadmanager.com]](http://www.neatdownloadmanager.com/index.php/en/)
   * 浏览器
     * `Chrome Canary` [[www.google.cn]](https://www.google.cn/intl/zh-CN/chrome/canary/)
       * 实验
         * `chrome://flags/#enable-parallel-downloading`
         * `chrome://flags/#chrome-refresh-2023`
+      * 下载`Bye Bye Edge` [[github.com]](https://github.com/ShadowWhisperer/Remove-MS-Edge)
     * `Edge Canary` [[microsoft.com]](https://www.microsoft.com/zh-cn/edge/download/insider?form=MA13FJ)
       * 实验 `edge://flags/#enable-parallel-downloading`
-  * `Neat Download Manager` [[neatdownloadmanager.com]](http://www.neatdownloadmanager.com/index.php/en/)
   * `qBittorrent Enhanced Edition` [[github.com]](https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases)
   * `PikPak` [[mypikpak.com]](https://mypikpak.com/zh-CN/desktop-app)
     * 设置`Trackers` [[trackerslist.com]](https://trackerslist.com/#/zh)
@@ -81,7 +82,6 @@
     * `B站下载助手` [[csser.top]](https://csser.top/)
     * `购物党自动比价助手` [[chromewebstore.google.com]](https://chromewebstore.google.com/detail/%E8%B4%AD%E7%89%A9%E5%85%9A%E8%87%AA%E5%8A%A8%E6%AF%94%E4%BB%B7%E5%B7%A5%E5%85%B7/jgphnjokjhjlcnnajmfjlacjnjkhleah)
     * `SteamDB` [[chromewebstore.google.com]](https://chromewebstore.google.com/detail/steamdb/kdbmhfkmnlmbkgbabkdealhhbfhlmmon)
-* 安装`Bandizip` [[bandisoft.com]](https://www.bandisoft.com/bandizip/)
 * 下载`Geek` [[geekuninstaller.com]](https://geekuninstaller.com/)
 * 安装`搜狗输入法` [[shurufa.sogou.com]](https://shurufa.sogou.com/)
 * 安装驱动
