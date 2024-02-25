@@ -127,7 +127,7 @@
   * `Armoury Crate` [[apps.microsoft.com]](https://apps.microsoft.com/store/detail/armoury-crate/9PM9DFQRDH3F)
     * 安装/更新驱动
   * `360驱动大师` [[dm.weishi.360.cn]](https://dm.weishi.360.cn/home.html)
-  * `OpenRGB` [[openrgb.org]](https://openrgb.org/)
+  * `OpenRGB` [[openrgb.org]](https://openrgb.org/#downloads)
   * `FL Esports` [[flesports.com]](http://www.flesports.com/down/)
 * 安装`SteelSeries GG` [[cn.steelseries.com]](https://cn.steelseries.com/gg)
 * 替换`记事本`
@@ -135,8 +135,10 @@
   * 安装`VS Code Insiders` [[code.visualstudio.com]](https://code.visualstudio.com/)
 * 替换`电影和电视`
   * 安装`PotPlayer` [[potplayer.daum.net]](https://potplayer.daum.net/?lang=zh_CN)
+* `.Net`
+  * 安装`.Net 9 桌面运行时` [[dotnet.microsoft.com]](https://dotnet.microsoft.com/zh-cn/download/dotnet/9.0)
+  * 安装`.Net 6 桌面运行时` [[dotnet.microsoft.com]](https://dotnet.microsoft.com/zh-cn/download/dotnet/6.0)
 * 下载`Office Tools Plus` [[github.com]](https://github.com/YerongAI/Office-Tool/releases/)
-  * 安装`.Net 6` [[dotnet.microsoft.com]](https://dotnet.microsoft.com/zh-cn/download/dotnet/6.0)
   * 安装`Office 365`
     * 安装`Word`
     * 安装`PowerPoint`
