@@ -102,9 +102,9 @@
     * 插件
       * 下载`Motion Factory` [[cgzy.net]](https://www.cgzy.net/4952.html)
         * 下载`Line Call Out Titles` [[lookae.com]](https://www.lookae.com/call-titles-pr/) $_{2021/06/08}$
+      * 安装`Continuum` [[lookae.com]](https://www.lookae.com/bcc-2024-ce/) $_{2024/2/27}$
       * 安装`RE:Vision Effects` [[lookae.com]](https://www.lookae.com/revisionfx-21-zh/) $_{2023/10/24}$
       * 安装`Deep Glow` [[lookae.com]](https://www.lookae.com/deep-glow-154/) $_{2023/10/07}$
-      * 安装`Continuum` [[lookae.com]](https://www.lookae.com/bcc-1652/) $_{2023/10/05}$
       * 安装`Sapphire` [[lookae.com]](https://www.lookae.com/sapphire-202352/) $_{2023/09/05}$
       * 安装`Trapcode` [[lookae.com]](https://www.lookae.com/hjrtc18ch/) $_{2023/07/23}$
         * `Trapcode 15.1.8` [[lookae.com]](https://www.lookae.com/trapcode-ch/) $_{2020/06/22}$
