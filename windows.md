@@ -1,7 +1,23 @@
 ### `Windows`食用指南
 * 安装`HotPE`[[down.hotpe.top]](https://down.hotpe.top/)
   * 安装`Windows` [[msdn.sjjzm.com]](https://msdn.sjjzm.com/win11.html)
-  * 安装`天翼校园` [[enet.10000.gd.cn]](http://enet.10000.gd.cn:10001/qs/)
+  * 安装`天翼校园`
+  * 更新`Armoury Crate`
+  * 安装`Clash Verge` [[github.com]](https://github.com/clash-verge-rev/clash-verge-rev/releases)
+      * `订阅` `导入`
+      * `设置`
+        * `系统设置`
+          * `服务模式` `INSTALL`
+          * `开机自启`
+          * `静默启动`
+        * `Clash 设置`
+          * `局域网连接`
+          * `IPv6`
+          * `端口设置` `7890`
+          * `Clash 内核` `Clash Meta Alpha`
+            * `升级内核`
+          * `更新 GeoData`
+
   * `控制中心`设置`防火墙`/`电源选项`/`鼠标`
   * 设置
     * `系统`
@@ -16,20 +32,6 @@
         * 安装`Bandizip` [[bandisoft.com]](https://www.bandisoft.com/bandizip/)
         * 下载`WDControl` [[landiannews.com]](https://www.landiannews.com/download/93513.html)
   * `Windows 更新`/`Microsoft Store`
-    * 安装`Clash Verge` [[github.com]](https://github.com/clash-verge-rev/clash-verge-rev/releases)
-      * `订阅` `导入`
-      * `设置`
-        * `系统设置`
-          * `服务模式` `INSTALL`
-          * `开机自启`
-          * `静默启动`
-        * `Clash 设置`
-          * `局域网连接`
-          * `IPv6`
-          * `端口设置` `7890`
-          * `Clash 内核` `Clash Meta Alpha`
-            * `升级内核`
-          * `更新 GeoData`
     * 下载`HEU KMS Activator` [[github.com]](https://github.com/zbezj/HEU_KMS_Activator/releases)
     * 更新`Windows更新`/`Microsoft Store`
       * 安装[终端预览](./terminal.md)
