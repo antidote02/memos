@@ -18,6 +18,16 @@
             * `升级内核`
           * `更新 GeoData`
 
+——————
+armoury crate
+控制面板
+clash
+vscode
+  manage
+    setting
+
+——————
+
   * `控制中心`设置`防火墙`/`电源选项`/`鼠标`
   * 设置
     * `系统`
