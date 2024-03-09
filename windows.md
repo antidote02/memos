@@ -1,6 +1,7 @@
 ### `Windows`食用指南
 * 安装`HotPE`[[down.hotpe.top]](https://down.hotpe.top/)
   * 安装`Windows` [[msdn.sjjzm.com]](https://msdn.sjjzm.com/win11.html)
+  * 安装`天翼校园` [[enet.10000.gd.cn]](http://enet.10000.gd.cn:10001/qs/)
   * `控制中心`设置`防火墙`/`电源选项`/`鼠标`
   * 设置
     * `系统`
