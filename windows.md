@@ -18,13 +18,19 @@
             * `升级内核`
           * `更新 GeoData`
 
-——————
+——————  
 armoury crate
 控制面板
 clash
 vscode
-  manage
-    setting
+  `ctrl`+`shift`+`p`
+    `congigure display language`
+    `中文(简体)`
+  账户
+    备份和同步设置 登录 预览体验人员
+      使用 Github 登录
+    打开云更改
+      使用 Microsoft 登录
 
 ——————
 
