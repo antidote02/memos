@@ -1,6 +1,12 @@
 ### `Windows`食用指南
 * 安装`HotPE`[[down.hotpe.top]](https://down.hotpe.top/)
   * 安装`Windows` [[msdn.sjjzm.com]](https://msdn.sjjzm.com/win11.html)
+
+？——————
+  * `控制中心`设置`防火墙`/`电源选项`/`鼠标`
+？——————
+  * 更新windows
+——————
   * 安装`天翼校园`
   * 更新`Armoury Crate`
   * 安装`Clash Verge` [[github.com]](https://github.com/clash-verge-rev/clash-verge-rev/releases)
@@ -17,8 +23,7 @@
           * `Clash 内核` `Clash Meta Alpha`
             * `升级内核`
           * `更新 GeoData`
-
-——————  
+？——————  
 armoury crate
 控制面板
 clash
@@ -31,10 +36,11 @@ vscode
       使用 Github 登录
     打开云更改
       使用 Microsoft 登录
+  资源管理器
+    克隆仓库 从Github克隆
 
 ——————
 
-  * `控制中心`设置`防火墙`/`电源选项`/`鼠标`
   * 设置
     * `系统`
       * `屏幕` `相关设置` `显示卡` `更改默认图形设置`
