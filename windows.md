@@ -171,6 +171,8 @@
       * `Ctrl`+`Shift`+`P`  
 `配置显示语言`  
 `中文(简体)`
+      * `主题`
+        * [[Horizon Theme]](https://marketplace.visualstudio.com/items?itemName=alexandernanberg.horizon-theme-vscode)
 * 替换`电影和电视`
   * 安装`PotPlayer` [[potplayer.daum.net]](https://potplayer.daum.net/?lang=zh_CN)
 * `.Net`
