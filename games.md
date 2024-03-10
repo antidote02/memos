@@ -14,6 +14,7 @@
   * 下载`WeMod` [[wemod.com]](https://www.wemod.com/zh)
   * 安装`特战英豪` [[playvalorant.com]](https://playvalorant.com/zh-tw/download/)
     * 安装`Valorant Tracker` (https://tracker.gg/valorant/app)
+    * 下载`WinExplorer` [[nirsoft.net]](https://www.nirsoft.net/utils/winexp.html)
   * 安装`CS 2` [[store.steampowered.com]](https://store.steampowered.com/app/730/CounterStrike_2/)
     * `禁用全屏优化`
     * 平台
@@ -92,7 +93,6 @@
     * 下载`自动关闭Hyper-V/VBS` [[mumu.163.com]](https://mumu.163.com/help/20210511/35041_946700.html#a3)
     * 安装`明日方舟` [[ak.hypergryph.com]](https://ak.hypergryph.com/)
     * 下载`Maa` [[github.com]](https://github.com/MaaAssistantArknights/MaaRelease/releases)
-      * 安装`.Net 8` [[dotnet.microsoft.com]](https://dotnet.microsoft.com/zh-cn/download/dotnet/8.0)
       * `一键长草`
         * `刷理智`
           * `高级设置`

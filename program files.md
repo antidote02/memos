@@ -8,12 +8,16 @@
     * 设置代理
     * 设置中文
   * 安装`Kook` [[kookapp.cn]](https://www.kookapp.cn/)
-    * `个人设置`
-      * `应用设置`
-        * `按键设置`
-          * `截图`
-            * `设置全屏截图快捷键`  
-              `尚未设置`
+    * `个人设置`  
+`应用设置`  
+      * `语音与屏幕分享`  
+`高级设置`  
+`音频子系统` `先进`
+      * `按键设置`  
+`截图`  
+`设置全屏截图快捷键` `尚未设置`
+      * `外观`
+      * `高级设置` `开发者模式`
   * 安装`Discord` [[discord.com]](https://discord.com/download)
   * 安装`TeamSpeak` [[teamspeak.com]](https://teamspeak.com/zh-CN/downloads/#client)
   * 安装`TT语音` [[52tt.com]](https://www.52tt.com/)

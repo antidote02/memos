@@ -11,6 +11,7 @@
   get-executionpolicy -list
   # 设置执行策略
   set-executionpolicy bypass
+  get-executionpolicy -list
   ```
 * `PowerShell`安装`Scoop`
   ```
@@ -21,15 +22,15 @@
   # 删除脚本
   rm install.ps1
   # 配置代理
-  scoop config proxy localhost:7890
+  scoop config proxy localhost:7897
   # 安装 Git
   scoop install -k git
   # 配置 Git 用户名/邮箱
   git config --global user.name  "antidote02"
   git config --global user.email  "1729304580@qq.com"
   # 配置 Git 代理
-  git config --global http.proxy http://localhost:7890
-  git config --global https.proxy https://localhost:7890
+  git config --global http.proxy http://localhost:7897
+  git config --global https.proxy https://localhost:7897
   # 添加 Bucket
   scoop bucket known
   scoop bucket add extras
