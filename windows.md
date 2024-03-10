@@ -33,7 +33,7 @@
           * `Clash 设置`
             * `局域网连接`
             * `IPv6`
-            * `Clash 内核` `Clash Meta Alpha`
+            * `Clash 内核` `Clash Meta`
               * `升级内核`
             * `更新 GeoData`
             * `UWP 工具`
