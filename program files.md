@@ -29,8 +29,10 @@
   * 安装`虎牙` [[huya.com]](https://www.huya.com/download/)
   * 安装`弹弹play` [[dandanplay.com]](https://www.dandanplay.com/)
     * [资源](acg.md)
-* 网盘
-  * 安装
+* 网盘/下载
+  * `qBittorrent Enhanced Edition` [[github.com]](https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases)
+    * 设置`Trackers` [[trackerslist.com]](https://trackerslist.com/#/zh)
+  * `PikPak` [[mypikpak.com]](https://mypikpak.com/zh-CN/desktop-app)
   * 安装`RaiDrive` [[raidrive.com]](https://www.raidrive.com/)
   * 安装`阿里云盘` [[aliyundrive.com]](https://www.aliyundrive.com/download)
     * 下载`蜗牛云盘` [[aliyundrive.com]](https://www.aliyundrive.com/s/fqu79Z2dBbu)

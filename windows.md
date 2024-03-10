@@ -207,13 +207,8 @@
 `辅助功能`  
 `反馈选项`  
 `提供声音反馈`  
-`声音方案：`  
-`现代`
+`声音方案：` `现代`
 * [程序](./program%20files.md)
   * 安装[AList](./alist.md)
   * 安装[DDNS_Go](./ddns-go.md)
 * [游戏](./games.md)
-
-  * `qBittorrent Enhanced Edition` [[github.com]](https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases)
-  * `PikPak` [[mypikpak.com]](https://mypikpak.com/zh-CN/desktop-app)
-    * 设置`Trackers` [[trackerslist.com]](https://trackerslist.com/#/zh)
