@@ -1,5 +1,5 @@
 ### `终端预览`食用指南
-* 安装`终端预览` [[apps.microsoft.com]](https://apps.microsoft.com/store/detail/windows-terminal-preview/9N8G5RFZ9XK3)
+* 安装`终端预览` [[apps.microsoft.com]](https://apps.microsoft.com/detail/9n8g5rfz9xk3?hl=zh-cn&gl=CN)
 * 安装`PowerShell` [[github.com]](https://github.com/PowerShell/PowerShell/releases)
 * `Windows 10`右键菜单
   ```

@@ -54,7 +54,8 @@
 `库`  
 `获取更新`
     * 安装[终端预览](./terminal.md)
-    * 安装`AV1 Video Extension` [[apps.microsoft.com]](https://apps.microsoft.com/store/detail/av1-video-extension/9MVZQVXJBQ9V)
+    * 安装`AV1 Video Extension` [[apps.microsoft.com]](https://apps.microsoft.com/detail/9mvzqvxjbq9v?hl=zh-cn&gl=CN)
+    * 安装`TranslucentTB` (https://apps.microsoft.com/detail/9pf4kz2vn4w9?hl=zh-cn&gl=CN)
   * 安装`Bandizip` [[bandisoft.com]](https://www.bandisoft.com/bandizip/)
   * `Windows 安全中心`  
     * `病毒和威胁防护`  
