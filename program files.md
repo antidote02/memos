@@ -154,7 +154,7 @@
             * `启用快速启动`
     * 预设
       * 下载`CINEPUNCH` [[lookae.com]](https://www.lookae.com/cinepunch-22/)
-    * 下载`GenP` [[br0wsers.com]](https://br0wsers.com/blog/detail/a0icqnG3utkRdbPBlMkft95Qv-9964-18722.html)
+    * 下载`GenP` [[reddit.com]](https://www.reddit.com/r/GenP/)
   * `Maxon Cinema 4D` [[qijishow.com]](https://www.qijishow.com/down/Cinema%204D.html)
 * 虚拟机  
 `VMware Workstation Pro` [[mpyit.com]](https://mpyit.com/vmware17xx.html)
