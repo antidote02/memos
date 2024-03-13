@@ -135,6 +135,7 @@
         * `大人的Greasyfork` [[greasyfork.org]](https://greasyfork.org/zh-CN/scripts/23840-greasyfork-search-with-sleazyfork-results-include)
         * `Bing 中国版重定向` [[greasyfork.org]](https://greasyfork.org/zh-CN/scripts/451285-bing-%E4%B8%AD%E5%9B%BD%E7%89%88%E9%87%8D%E5%AE%9A%E5%90%91)
         * `GitHub增强` [[greasyfork.org]](https://greasyfork.org/zh-CN/scripts/412245-github-%E5%A2%9E%E5%BC%BA-%E9%AB%98%E9%80%9F%E4%B8%8B%E8%BD%BD)
+        * `媒体资源嗅探及下载` [[reasyfork.org](https://greasyfork.org/zh-CN/scripts/470154-%E5%AA%92%E4%BD%93%E8%B5%84%E6%BA%90%E5%97%85%E6%8E%A2%E5%8F%8A%E4%B8%8B%E8%BD%BD-%E6%94%AF%E6%8C%81%E4%B8%8B%E8%BD%BDm3u8%E5%92%8Cmp4%E8%A7%86%E9%A2%91%E5%92%8C%E9%9F%B3%E9%A2%91)
         * `网盘直链下载助手` [[greasyfork.org]](https://greasyfork.org/zh-CN/scripts/436446-%E7%BD%91%E7%9B%98%E7%9B%B4%E9%93%BE%E4%B8%8B%E8%BD%BD%E5%8A%A9%E6%89%8B)
         * `全网VIP视频免费破解` [[greasyfork.org]](https://greasyfork.org/zh-CN/scripts/438657-%E5%85%A8%E7%BD%91vip%E8%A7%86%E9%A2%91%E5%85%8D%E8%B4%B9%E7%A0%B4%E8%A7%A3-%E4%B8%93%E6%B3%A8%E4%B8%80%E4%B8%AA%E8%84%9A%E6%9C%AC%E5%8F%AA%E5%81%9A%E4%B8%80%E4%BB%B6%E4%BA%8B%E4%BB%B6)
       * `Proxy SwitchyOmega` [[chromewebstore.google.com]](https://chromewebstore.google.com/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif)
