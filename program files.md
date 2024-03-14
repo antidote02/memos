@@ -68,10 +68,11 @@
   * 安装`哔哩哔哩直播姬` [[live.bilibili.com]](https://live.bilibili.com/liveHime/)
   * 安装`HandBrake` [[handbrake.fr]](https://handbrake.fr/)
   * 安装`ShanaEncoder` [[shana.pe.kr]](https://shana.pe.kr/shanaencoder_download)
-  * 安装`Creative Cloud` [[adobe.com]](https://www.adobe.com/cn/lead/creativecloud/business.html)
-    * 安装`Premiere Pro`
-    * 安装`Media Encoder`
-    * 安装`After Effects`
+  * `Adobe` [[w14.monkrus.ws]](https://w14.monkrus.ws/)
+    * 安装`Audition` [[w14.monkrus.ws]](https://w14.monkrus.ws/2024/02/adobe-audition-2024-v242-multilingual.html)
+    * 安装`After Effects` [[w14.monkrus.ws]](https://w14.monkrus.ws/2024/02/adobe-after-effects-2024-v2421.html)
+    * 安装`Media Encoder` [[w14.monkrus.ws]](https://w14.monkrus.ws/2024/02/adobe-media-encoder-2024-v2421.html)
+    * 安装`Premiere Pro` [[w14.monkrus.ws]](https://w14.monkrus.ws/2024/02/adobe-premiere-pro-2024-v2421.html)
       * `文件`  
 `项目设置`
         * `视频渲染和效果`  
