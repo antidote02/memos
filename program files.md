@@ -106,21 +106,26 @@
     * 安装`Photoshop`
     * 插件
       * 下载`Motion Factory` [[cgzy.net]](https://www.cgzy.net/4952.html)
+        * 编辑`add keys.reg`
+          ```
+          [HKEY_CURRENT_USER\Software\Adobe\CSXS.11]
+          "LogLevel"="1"
+          "PlayerDebugMode"="1"
+          ```
         * 下载`Line Call Out Titles` [[lookae.com]](https://www.lookae.com/call-titles-pr/) $_{2021/06/08}$
-      * 安装`Continuum` [[lookae.com]](https://www.lookae.com/bcc-2024-ce/) $_{2024/2/27}$
-      * 安装`RE:Vision Effects` [[lookae.com]](https://www.lookae.com/revisionfx-21-zh/) $_{2023/10/24}$
-      * 安装`Deep Glow` [[lookae.com]](https://www.lookae.com/deep-glow-154/) $_{2023/10/07}$
-      * 安装`Sapphire` [[lookae.com]](https://www.lookae.com/sapphire-202352/) $_{2023/09/05}$
-      * 安装`Trapcode` [[lookae.com]](https://www.lookae.com/hjrtc18ch/) $_{2023/07/23}$
-        * `Trapcode 15.1.8` [[lookae.com]](https://www.lookae.com/trapcode-ch/) $_{2020/06/22}$
-      * 安装`FilmImpact Premium Video Transitions` [[lookae.com]](https://www.lookae.com/filmimpact-496/) $_{2023/07/20}$
-      * 下载`Motion` [[lookae.com]](https://www.lookae.com/motion-v412/) $_{2023/06/12}$
-      * 下载`Influx` [[lookae.com]](https://www.lookae.com/influx-125/) $_{2023/05/22}$
-      * 安装`Universe` [[lookae.com]](https://www.lookae.com/universe-2023/) $_{2023/05/07}$
-      * 安装`Magic Bullet` [[lookae.com]](https://www.lookae.com/mbs-202321/) $_{2023/05/07}$
-      * 安装`Signal` [[lookae.com]](https://www.lookae.com/signal-122/) $_{2022/11/29}$
-      * 安装`Optical Flares` [[lookae.com]](https://www.lookae.com/of-138/) $_{2022/06/28}$
-      * 安装`SpeedX` [[lookae.com]](https://www.lookae.com/speedx-113/) $_{2022/06/27}$
+      * 安装`Sapphire` [[cgzy.net]](https://www.cgzy.net/36242.html) $_{2024/02/27}$
+      * 安装`Continuum` [[cgzy.net]](https://www.cgzy.net/36860.html) $_{2024/2/21}$
+      * 安装`RE:Vision Effects` [[cgzy.net]](https://www.cgzy.net/3194.html) $_{2024/1/27}$
+      * 安装`FilmImpact Premium Video Effects` [[cgzy.net]](https://www.cgzy.net/37748.html) $_{2024/1/22}$
+      * 安装`Universe` [[cgzy.net]](https://www.cgzy.net/34114.html) $_{2024/1/18}$
+      * 安装`Trapcode` [[cgzy.net]](https://www.cgzy.net/34082.html) $_{2024/1/18}$
+      * 安装`Magic Bullet Studio` [[cgzy.net]](https://www.cgzy.net/34107.html) $_{2024/1/18}$
+      * 下载`Motion` [[cgzy.net]](https://www.cgzy.net/9462.html) $_{2024/1/12}$
+      * 安装`Deep Glow` [[cgzy.net]](https://www.cgzy.net/12040.html) $_{2023/11/24}$
+      * 下载`Influx` [[cgzy.net]](https://www.cgzy.net/5683.html) $_{2023/10/16}$
+      * 安装`Signal` [[cgzy.net]](https://www.cgzy.net/9623.html) $_{2022/11/29}$
+      * 安装`Optical Flares` [[cgzy.net]](https://www.cgzy.net/9548.html) $_{2022/6/30}$
+      * 安装`SpeedX` [[cgzy.net]](https://www.cgzy.net/5885.html) $_{2022/06/27}$
       * 安装`FX Console` [[lookae.com]](https://www.lookae.com/fxconsole-105/) $_{2019/12/26}$
       * 安装`Twitch` [[lookae.com]](https://www.lookae.com/twitch/) $_{2013/09/17}$
       * 安装`Voukoder` [[voukoder.org]](https://www.voukoder.org/)
