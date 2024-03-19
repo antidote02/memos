@@ -1,7 +1,7 @@
 ### ❤游戏❤
 * 安装`BoosterX` [[boosterx.org]](https://boosterx.org/en/)
 * 安装加速器
-  * `游侠加速器` [[jsq.ali213.net]](https://jsq.ali213.net/home)
+  * `AK加速器` [[akspeedy.com]](https://www.akspeedy.com/)
   * `小黑盒加速器` [[acc.xiaoheihe.cn]](https://acc.xiaoheihe.cn/pc)
   * `网易UU加速器` [[uu.163.com]](https://uu.163.com/)
 * 平台
