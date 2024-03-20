@@ -23,6 +23,29 @@
       * 安装`5E对战平台` [[arena.5eplay.com]](https://arena.5eplay.com/download)
       * 安装`B5对战平台` [[b5csgo.plus]](https://www.b5csgo.plus/)
     * 下载`CSGO工具箱` [[csgo-toolbox.upup.cool]](https://csgo-toolbox.upup.cool/)
+  * 安装`极品飞车：不羁` [[store.steampowered.com]](https://store.steampowered.com/app/1846380/_/)
+    * `设置与辅助功能`  
+`图形`
+      图形|设置
+      :-|:-
+      动态模糊|开
+      升采样|NVIDIA DLSS SUPER RESOLUTION
+      升采样预设|100%
+      NVIDIA DLSS 帧生成|开
+      NVIDIA REFLEX 低延迟|开
+      图形质量|自定义
+      纹理品质|高
+      阴影质量|高
+      纹理过滤|中等
+      环境遮蔽|SSAO
+      效果细节|高
+      几何细节|高
+      地形质量|中等
+      植被细节|中等
+      后期处理质量|高
+      灯光质量|中等
+      景深|中等
+      反射质量|低
   * 安装`APEX英雄` [[store.steampowered.com]](https://store.steampowered.com/app/1172470/Apex_Legends/)
     * `Steam` `启动选项` `+fps_max unlimited`
     * `视频`
