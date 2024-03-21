@@ -1,5 +1,6 @@
 ### ❤游戏❤
-* 安装`BoosterX` [[boosterx.org]](https://boosterx.org/en/)
+* 安装`BoosterX` [[boosterx.org]](https://boosterx.org/en/).
+* 安装`Cheat Engine` [[cheatengine.org]](https://cheatengine.org/)
 * 安装加速器
   * `AK加速器` [[akspeedy.com]](https://www.akspeedy.com/)
   * `小黑盒加速器` [[acc.xiaoheihe.cn]](https://acc.xiaoheihe.cn/pc)
