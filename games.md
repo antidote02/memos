@@ -1,10 +1,9 @@
 ### ❤游戏❤
-* 安装`BoosterX` [[boosterx.org]](https://boosterx.org/en/).
-* 安装`Cheat Engine` [[cheatengine.org]](https://cheatengine.org/)
-* 安装加速器
-  * `AK加速器` [[akspeedy.com]](https://www.akspeedy.com/)
-  * `小黑盒加速器` [[acc.xiaoheihe.cn]](https://acc.xiaoheihe.cn/pc)
-  * `网易UU加速器` [[uu.163.com]](https://uu.163.com/)
+* 安装`BoosterX` [[boosterx.org]](https://boosterx.org/en/)
+* 加速器
+  * 安装`AK加速器` [[akspeedy.com]](https://www.akspeedy.com/)
+  * 安装`小黑盒加速器` [[acc.xiaoheihe.cn]](https://acc.xiaoheihe.cn/pc)
+  * 安装`游侠加速器` [[jsq.ali213.net]](https://jsq.ali213.net/home)
 * 平台
   * 安装`Watt Toolkit` [[steampp.net]](https://steampp.net/)
   * 安装`Steam` [[store.steampowered.com]](https://store.steampowered.com/about)
