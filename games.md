@@ -24,6 +24,9 @@
       * 安装`B5对战平台` [[b5csgo.plus]](https://www.b5csgo.plus/)
     * 下载`CSGO工具箱` [[csgo-toolbox.upup.cool]](https://csgo-toolbox.upup.cool/)
   * 安装`极品飞车：不羁` [[store.steampowered.com]](https://store.steampowered.com/app/1846380/_/)
+    * `SaveGame`/`settings`  
+[Need For Speed(TM) Unbound](./nfs/Need%20For%20Speed(TM)%20Unbound.7z)  
+`C:\Users\17293\Documents\Need For Speed(TM) Unbound`
     * `设置与辅助功能`  
 `图形`
       图形|设置
