@@ -142,12 +142,21 @@
           * `环境光吸收` `中`
   * 安装`蝙蝠侠：阿卡姆骑士` [[store.steampowered.com]](https://store.steampowered.com/app/208650/Batman_Arkham_Knight/)
     * 安装`天邈汉化补丁` [[keylol.com]](https://keylol.com/t165361-1-1)
-  * `红色警戒2：尤里的复仇`
+    * `选项设置`  
+      图像设置|设置
+      :-|:-
+      垂直同步|开
+      材质分辨率|标准
+      阴影质量|标准
+      细节等级|标准
+      材质过滤|各向异性过滤16X
+      NVIDIA GAMEWORKS|关
     * 编辑`BmSystemSettings.ini`
       ```
       MaxFPS=165.000000
       ```  
       `C:\Program Files (x86)\Steam\steamapps\common\Batman Arkham Knight\BmGame\Config\BmSystemSettings.ini`
+  * `红色警戒2：尤里的复仇`
     * 客户端
       * 安装`重聚2023` [[e9c824y7pl.feishu.cn]](https://e9c824y7pl.feishu.cn/docx/JwDLdxTotorm6bxxD8ocMkiDnvb)
       * 安装`红色警戒2：尤里的复仇` [[laby.ysepan.com]](http://laby.ysepan.com/)
