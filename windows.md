@@ -177,10 +177,15 @@
         * [[Horizon Theme]](https://marketplace.visualstudio.com/items?itemName=alexandernanberg.horizon-theme-vscode)
 * 替换`电影和电视`
   * 安装`PotPlayer` [[potplayer.daum.net]](https://potplayer.daum.net/?lang=zh_CN)
-* `.Net`
-  * 安装`.Net 9 桌面运行时` [[dotnet.microsoft.com]](https://dotnet.microsoft.com/zh-cn/download/dotnet/9.0)
-  * 安装`.Net 8 桌面运行时` [[dotnet.microsoft.com]](https://dotnet.microsoft.com/zh-cn/download/dotnet/8.0)
-  * 安装`.Net 6 桌面运行时` [[dotnet.microsoft.com]](https://dotnet.microsoft.com/zh-cn/download/dotnet/6.0)
+* 环境（`.Net`/`XNA`）
+  * 安装`.Net 9.0 桌面运行时` [[dotnet.microsoft.com]](https://dotnet.microsoft.com/zh-cn/download/dotnet/9.0)
+  * 安装`.Net 8.0 桌面运行时` [[dotnet.microsoft.com]](https://dotnet.microsoft.com/zh-cn/download/dotnet/8.0)
+  * 安装`.Net 7.0 桌面运行时` [[dotnet.microsoft.com]](https://dotnet.microsoft.com/zh-cn/download/dotnet/7.0)
+  * 安装`.Net 6.0 桌面运行时` [[dotnet.microsoft.com]](https://dotnet.microsoft.com/zh-cn/download/dotnet/6.0)
+  * 安装`.Net Framework 4.8 运行时` [[dotnet.microsoft.com]](https://dotnet.microsoft.com/zh-cn/download/dotnet-framework/net48)
+  * 安装`.Net Framework 4.0 运行时` [[dotnet.microsoft.com]](https://dotnet.microsoft.com/zh-cn/download/dotnet-framework/net40)
+  * 安装`.Net Framework 3.5 SP1 运行时` [[dotnet.microsoft.com]](https://dotnet.microsoft.com/zh-cn/download/dotnet-framework/net35-sp1)
+  * 安装`XNA Framework Redistributable 4.0` [[microsoft.com]](https://www.microsoft.com/en-us/download/details.aspx?id=20914)
 * 下载`Office Tools Plus` [[github.com]](https://github.com/YerongAI/Office-Tool/releases/)
   * `设置`  
     * `部署`  

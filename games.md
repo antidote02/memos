@@ -125,7 +125,6 @@
           * `高级设置`
             * `企鹅物流汇报ID`  
               `906404004`
-    * 下载`MaaX` [[github.com]](https://github.com/MaaAssistantArknights/MaaX/releases)
   * 安装`双人成行` [[store.steampowered.com]](https://store.steampowered.com/app/1426210/_/)
     * 下载`KeyboardSplitterXbox` [[github.com]](https://github.com/djlastnight/KeyboardSplitterXbox/releases)
   * 安装`无主之地3` [[store.steampowered.com]](https://store.steampowered.com/app/397540/3/)
@@ -144,12 +143,6 @@
   * 安装`蝙蝠侠：阿卡姆骑士` [[store.steampowered.com]](https://store.steampowered.com/app/208650/Batman_Arkham_Knight/)
     * 下载`3DM轩辕汉化组汉化补丁` [[dl.3dmgame.com]](https://dl.3dmgame.com/patch/89652.html)
   * `红色警戒2：尤里的复仇`
-    * 客户端
-      * 安装`.Net 7.0 桌面运行时` [[dotnet.microsoft.com]](https://dotnet.microsoft.com/zh-cn/download/dotnet/7.0)
-      * 安装`.Net Framework 4.8 运行时` [[dotnet.microsoft.com]](https://dotnet.microsoft.com/zh-cn/download/dotnet-framework/net48)
-      * 安装`.Net Framework 4.0 运行时` [[dotnet.microsoft.com]](https://dotnet.microsoft.com/zh-cn/download/dotnet-framework/net40)
-      * 安装`.Net Framework 3.5 SP1` [[dotnet.microsoft.com]](https://dotnet.microsoft.com/zh-cn/download/dotnet-framework/net35-sp1)
-      * 安装`XNA Framework 4` [[microsoft.com]](https://www.microsoft.com/en-us/download/details.aspx?id=20914)
-      * 安装`重聚2023` [[e9c824y7pl.feishu.cn]](https://e9c824y7pl.feishu.cn/docx/JwDLdxTotorm6bxxD8ocMkiDnvb)
+    * 客户端* 安装`重聚2023` [[e9c824y7pl.feishu.cn]](https://e9c824y7pl.feishu.cn/docx/JwDLdxTotorm6bxxD8ocMkiDnvb)
       * 安装`红色警戒2：尤里的复仇` [[laby.ysepan.com]](http://laby.ysepan.com/)
     * 服务端
